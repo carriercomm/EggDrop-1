@@ -16,6 +16,7 @@
 bind TIME - * egghelp:timespent 
 
 bind pub - !idle timespent:pub 
+bind pub - !ding timespent:pub 
 
 set announce(time) "1" ;#setting is in hours 
 
