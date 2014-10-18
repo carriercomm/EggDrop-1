@@ -1,5 +1,5 @@
 #Looks up random insults
-bind pub - !commit
+bind pub - !commit commit
 proc commit {nick host hand chan arg} {
   package require http
   set url "http://whatthecommit.com"
