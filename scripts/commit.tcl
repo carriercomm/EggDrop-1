@@ -19,7 +19,7 @@ proc commit {nick host hand chan arg} {
   	regsub {[\ ]*$} $url "" url
   	regsub {^[\ ]*} $commit "" commit
   	regsub {[\ ]*$} $commit "" commit
-  	putserv "PRIVMSG $chan :$commit - $url"
+  	putserv "PRIVMSG $chan :$commit - http://whatthecommit.com$url"
   }
 }
 
