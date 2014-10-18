@@ -15,7 +15,7 @@
 
 bind TIME - * egghelp:timespent 
 
-bind PUB - !idle timespent:pub 
+bind pub - !idle timespent:pub 
 
 set announce(time) "1" ;#setting is in hours 
 
@@ -78,7 +78,6 @@ proc timespent:pub {nick uhost hand chan arg} {
          } 
       } 
       default { 
-         if {[matchattr $hand n] || [matchattr $hand |N $chan]} { 
 
             if {[string match -nocase "#*" [lindex [split $arg] 1]]} { 
                if {![info exists timespent([lindex [split $arg] 1],$host)]} { 
@@ -93,7 +92,6 @@ proc timespent:pub {nick uhost hand chan arg} {
                   putserv "PRIVMSG $chan :\002$nick\002 - Nickname \00303[lindex [split $arg] 0]\003 idled on \00312$chan\003 for \00303[duration [lindex [split $timespent($chan,$host)] 0]]" 
                } 
             } 
-         } 
       } 
    } 
 } 
