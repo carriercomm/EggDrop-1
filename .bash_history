@@ -184,3 +184,12 @@ nc
 sudo apt-get install netcat
 nc
 exit
+screen -ls
+exit
+screen
+exit
+screen -ls
+kill 9370.pts-1.ny
+screen -x 9370.pts-1.ny
+screen -ls
+exit
