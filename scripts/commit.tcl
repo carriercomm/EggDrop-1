@@ -6,7 +6,7 @@ proc commit {nick host hand chan arg} {
   set url "http://whatthecommit.com/"
   set page [http::data [http::geturl $url]]
   regexp {<p>(.*?)<\/p>} $page commit
-  putserv "PRIVMSG $chan :$commit "
+  putserv "PRIVMSG $chan :$commit"
 }
 
 putlog "Random commit v1.0"
