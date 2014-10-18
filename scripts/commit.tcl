@@ -5,8 +5,10 @@ proc commit {nick host hand chan arg} {
   package require http
   set url "http://whatthecommit.com/"
   set page [http::data [http::geturl $url]]
-  regexp {<p>(.*?)<\/p>} $page commit
-  putserv "PRIVMSG $chan :$commit"
+  if {[regexp -nocase {<p>(.*?)</p>} $page commit]} {
+  	regsub -nocase -- {<p>(.*?)</p>} $commit "\\1" commit
+  	putserv "PRIVMSG $chan :$commit"
+  }
 }
 
 putlog "Random commit v1.0"
