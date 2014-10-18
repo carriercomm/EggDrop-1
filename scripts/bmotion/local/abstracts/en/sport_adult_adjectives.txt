@@ -1,0 +1,2 @@
+%VAR{sport_adjectives}
+%VAR{sport_adult_adjectives_t}

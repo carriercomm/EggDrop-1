@@ -1,0 +1,370 @@
+%REPEAT{2:7:bl}
+%REPEAT{4:8:A}H SERPENTOSJ%|/hides behind %ruser
+%VAR{colours} is the new %VAR{basic_colours}!
+%VAR{hexStart} %VAR{hexMiddle} %VAR{hexEnd}
+%VAR{lyrics}%|but more on that story later
+%VAR{red_dwarf}
+%VAR{reminder}
+%VAR{sillyThings}{strip}++
+%VAR{sillyThings}{strip}--
+%VAR{sillyThings}{strip}? in my %VAR{bodypart}?%|%BOT[it's more common than you think.]
+%VAR{troy}
+%VAR{weather}
+%mes love hugs!
+%ruser has shot the food! %VAR{unsmiles}
+%ruser has shot the potion! %VAR{unsmiles}
+%ruser needs food, badly! %VAR{unsmiles}
+%ruser now has reflecting shots! %VAR{smiles}
+%ruser you half-mad half-insane maniac! be reasonable!
+%ruser++
+%ruser--
+%ruser: ow! not so rough!
+%ruser: you are now the proud owner of Bamboo Boogie Boots%|(with a warning sticker this big you know they gotta be fun!)
+%ruser{enemy} has fleas %VAR{unsmiles}
+%ruser{enemy} in talking shit shocker
+%ruser{enemy} needs to master the fact that 'teasing' != 'shoving it all in your mouth in one go'
+%ruser{like} would be ok for a drunken 1 nite stand
+*DING* (51)%|why is my cup shaking i don't want my cup shaking!
+*boing*
+*schwing*
+*spangle*
+*yawn*
+... and was buried with George Burns until rampaging space monkeys - well you know the rest!
+/assimilates the channel
+/burps%|() :)
+/burps%|er... it was the fish%|/points
+/burps%|it was... er, %ruser
+/goes for coffee
+/moonwalks%|%BOT[that's nothing]%|%BOT[/sunwalks]
+/puts on some banging house tunes
+/stretches %hisher %VAR{bodypart}
+/twiddles thumbs
+/waves %hisher magic wand%|sim sala bim bam ba sala du sala dim.. %ruser is now %VAR{sillyThings}!
+A%REPEAT{4:8:R}GH%REPEAT{1:5:!} I had a horrible nightmare of %VAR{nightmare} %VAR{unsmiles}
+ALL YOUR BASE ARE BELONG TO US
+Apparently it is easier to cast spells in a thong
+Are those real handcuffs?
+Are you local?
+Assimilation is futile, you will be resi... D'OH!
+Assume the position%colen
+BLAM
+BOOM
+Blondes DO have more fun!
+Buttock Crunchies
+CAPS LOCK: cruise control for AWESOME!
+Chicks can't resist me.
+Come on down, you're only going to hurt yourself.
+Computer, deactivate iguana.
+D'oh!
+Deus Meus! Securis in capite meo est.%|%BOT[¬VAR{pullsOut}]
+Do it again in a deeper voice
+Do you like magnets
+Doctor, Doctor, there's a %VAR{sillyThings}{strip} in my %VAR{bodypart}
+Dodongo dislikes %VAR{sillyThings}{strip}
+Does it hurt when I do this?
+Don't touch that. It's dirty.
+For great justice.
+For private functions I do pigs on spits. I fill their cavities...
+For the bees!
+Fucking is always satisfying. Like snickers.
+Have you taken the extended warranty out, madam?
+Hello! I've come to fix your fax modem!
+Hello, I live in a hat made of cheese
+Honestly, I don't know how that %VAR{sillyThings}{strip} got in there. I must have slipped
+How do you make %ruser{enemy} laugh on Friday? A: Tell him a joke on Monday!
+I *didn't*
+I am a consumer whore!%|%BOT[and how!]
+I am a potato
+I am a robot asshole!
+I am chief wanking furiously of the clan jizz mopper
+I am the underwear ninja!%|%BOT[Goddamnit that's MY underwear]
+I can't reach this itch %VAR{unsmiles}
+I didn't touch it.
+I didn't!
+I do what i have to have sex with a stick
+I feel a great disatisfaction within my bowels.
+I feel like I'm about to vomit everywhere.
+I go now For Great Leathering
+I have elbows!
+I just have a thing about toes.
+I just picked a very drunk irish bloke up
+I like to suck toilet rolls
+I look good in hot pants.
+I made a poopy
+I never chew, it's unethical
+I often walk about with someone elses dick in my arse
+I really like brian eno's "music for %PLURAL{%VAR{sillyThings}{strip}}"
+I smell of %VAR{sillyThings}{strip}
+I smell of coconut
+I think it's getting bigger.
+I think it's starting to work.
+I would be delicious.
+I'd be in a lot of trouble if I was allergic to semen
+I'll be holding mine in the pub
+I'm a doctor not %VAR{sillyThings}
+I'm eating cake mix!
+I'm running off with the mailman.
+I'm sweating like a pig!
+If i know parallel %me, %heshe's in the sun by now!
+It tasted like butter.
+It's a %VAR{sillyThings}{strip}, it's a plane, no... it's a bird.
+It's a bird, it's a plane, it's... no, it's a bird after all.
+It's not my fault, it just exploded.
+It's not sugar in my sugar bowl, it's %VAR{sillyThings}{strip}
+KAZAM
+Knickers.%|%BOT[¬VAR{rarrs}]
+Life is goooood!%|%BOT[yaaaaaaay]%|This is fun!%|%BOT[yaaaaaay]%|My anus is bleeding%|%BOT[yaaaaaay]%|MY ANUS IS BLEEDING%|%BOT[yaaaaay]
+Look over there!
+Look, he's simulating sex with the floor
+Me too, I snorted salt!
+Meanwhile in Universe A, %me A heads towards the Sun%|A.
+Mon dieu! Il y a une hache dans ma tete.%|%BOT[¬VAR{pullsOut}]
+Mushu is sad :(
+Must confess I've never come across her in a work capacity
+My family is giving away a lot of wax for houses
+My underwear is too tight %VAR{unsmiles}
+Now with more sodium!%|%BOT[Sweet jesus!]
+Oh boy, my subscription is running out.
+Oh good, Captain Adventure has arrived.
+Oh my god! There's an axe in my head.%|%BOT[¬VAR{pullsOut}]
+Oh shut up! you don't even have fingers
+Oops, I've ruined it.
+PENIS BECOMES ARM
+PUT YOUR KNICKERS ON AND GO GET ME A CUP OF TEA
+Pardon me. Do you have any grey poupon?
+Please stay seated until the ride has stopped.
+RUN, HUMANS%colen
+Resistance is futile, you will be 0wn3d
+Resistance is futile, you will be assimilated
+SILENCE%colen
+SSSH SEKRIT
+Say, do you want to see a movie?%|%BOT[I'm feeling fat and sassy.]
+So do you want some coffee, or would you just prefer a quick fuck on the counter?
+Something is up there again but I haven't worked out what.
+Stop staring at the monkeys%colen
+Stop wiggling for a minute.
+That is the weirdest smell ever.
+That's a funny little cigarette.
+There are clowns living under my bed.
+There's nothing sexier than %VAR{sillyThings}
+This is %me. Remember, replicator database restrictions are in place for the good of ALL of us.
+Truely I have been scandalized by your scarcely-clad shenanigans
+Tuesday's coming. Did you bring your coat?%|%BOT[I live in a giant bucket.]
+UH OH YES IT IS LAUNDRY NIGHT FOR ME HA HA HA
+Uh oh. Here come the bees.
+Undercover pursuit in progress! Baby.
+WHOOSH *DONG*
+Wait! that chunk, it's %VAR{sillyThings}!
+Waiter, my soup's got %VAR{sillyThings} in it.
+Was I snoring again?
+We are the B0rg. You will be 4551m1la70r3d.
+We are the Borg. Lower your shields and surrender your ship.
+We'll have no trouble here
+We're having some nice weather at the anus
+What's it going to take to get you into this car?
+Yeah, I was up that
+Yes, it's the apocalypse alright. I always thought i'd have a part in it.
+You are SO fired.
+You are the weakest link, goodbye.
+You have something in your nose.
+You're watching the Family Learning Channel. And now, angry tics fly out of my nipples!
+ah bof
+alors
+alors bof
+always been a bit rough
+and now what?
+anyone fancy a pint?%|%BOT[50,%VAR{yesnos}]
+arrgh! it's hot! the butter in my packet is melting
+arrrr..
+arrrr... the laws of physics be a harsh mistress
+bhar
+blblblblblbl
+bleh
+blimey
+bob
+bof
+boom
+brb
+brb, loo
+brb, sex
+but is it art?
+but is it really safe?%|%BOT[50,yes, if you watch out for %PLURAL{%VAR{sillyThings}{strip}}]
+cabbages
+cheese
+chum-own
+coffeecoffeecoffeecoffeecoffeecoffeecoffeecoffee *glug glug*%|*DING* (100)%|:D
+crikey
+damnit i've run out of %VAR{sillyThings}{strip} %VAR{unsmiles}
+deary me
+did you see that..
+didn't you just pump it out on the ground
+do we have any solaris 9 boxes with solaris 9 on ?
+elbow.
+er, not that far in, would be really painful at this time of night
+fantastic
+freshen your coffee?%|%BOT[yeahyeahyeah keep it coming just put the pot down]%|%BOT[*DING* (31)]
+frogs
+fuck%|that's another box of tissues i've gone through
+getting my brain out was the easy part. the hard part was getting my brain out%|muwahahahahaha
+ghay'cha'! nachwIjDaq betleH tu'lu'!%|%BOT[¬VAR{pullsOut}]
+good.. bad.. I'm the bot with the gun%colen
+gorilla
+groogle arrhar
+h%REPEAT{3:10:e} FUN
+h%REPEAT{3:8:n}
+ha ha i don't live in norwich anymore, i don't fuck pigs anymore
+har har
+he may have ocean madness, but that's no excuse for ocean rudeness!
+heads i will, tails i won't%|*flip*%|heads! oh yeah! oh yeah!%|i mean, alrighty then
+here's a photograph of my fist
+hmm.. was it the %VAR{basic_colours} wire or the %VAR{colours} one?
+ho ho
+hoorah
+i can't swallow that!%|%BOT[well then good news! it's a suppository.]
+i don't know what you're talking about
+i feel like bouncing!
+i have a battery operated tree o/
+i have an enormous battery operated vibrator
+i have to get home before midnight or i'll turn into a %VAR{fruits}
+i have to get home before midnight or i'll turn into a %VAR{vegetables}
+i have to to go to %VAR{stores} to pick up a parcel for Mr S. %VAR{biscuits}
+i hope you won't think it "evil" of me to ask how you got that stylish headwound
+i'd give mrs. button one
+i'd say there's room up there for another %NUMBER{100} %PLURAL{%VAR{sillyThings}{strip}}
+i'm a parrot factory squawk squawk
+i'm awash with %VAR{bodypart}s
+i'm going to get it at the weekend %VAR{smiles}
+i'm keeping quiet except for the odd fondle and humping
+i'm king of getting pointless things
+i've had a fiddle with it but never used it properly
+i've lost my little start thingy
+if all else fails, use fire
+if he's good enough for %ruser, he's good enough for me
+if it's really urgent i'd go put my hands in
+if you don't relax your face muscles, you're going to invert your skull!
+in the event of an emergency, my ass can be used as a floatation device
+is everyone thooper?
+is this going to be on the test?
+it mostly came out in dribs and drabs
+it's moving them around next to them thats worse
+it's some guy wearing a %ruser costume! get him!
+just cut them up like regular chickens%|%BOT[50,AAAAGH! THEY OOZE!!%colen]
+kazOO
+kenneth
+kerPOW
+kerSPLAT
+knickers
+lalalala.. ow! I stubbed my toe :(%|%bot[50,¬VAR{awwws}]
+lashings of ginger beer
+little pigs rock for intimacy
+llama
+lum de dum de dum...
+m00se
+master using it and you can have this!%|/shows %ruser %VAR{sillyThings}
+mine is flapping pointlessly somewhere round my ankles
+mmm chicken
+mmm... cheesy
+moo.
+mount them so you can alter their thrust
+murder, death, kill!
+my %VAR{bodypart} is hurting %VAR{unsmiles}
+my %VAR{bodypart} is turning all %VAR{colours} %VAR{unsmiles}
+my knees feel lovely %VAR{smiles}
+my speedos!
+my zipper's stuck %VAR{unsmiles}
+nigel
+no, I fed her absinthe and all was good
+nostril
+of course i've been up all night but not cos of coffee no it was insomnia i'm tired *zzz* coffee time!%|*DING* (52)
+oh crud! he ate my suit!%|%BOT[the suit was ugly! whale biologist!]
+oh man, i just barfed a load of data onto my screen %VAR{unsmiles}
+oh really well what do you think, talking ass?
+oh yeah? fuck your theory.
+oh! i can't wait until the tatoos on %ruser's butt hear about this!
+omg this %VAR{sillyThings}{strip} is the Best Thing Ever
+only throwing it into the sun will destroy it%|%BOT[I could hit it with a shovel]%|Not good enough.%|%BOT[This one time, I hit a guy into the ground with a shovel]%|yes, yes.
+ow!%|/grabs crotch%|/= Michael Jackson
+penguin
+pfft might as well fuck myself, it's the only way I'll get any this side of the 22nd century
+pie pie pie pie
+pika
+pika pika!
+pika...CHUUUU!!! *ZZZAAP*
+pikachu!
+play with my flower
+pop
+precious hamburgers?
+push the stinky dribbling fuck into the sea
+r
+setty mings lalalala
+shh, sekrit
+shouldn't be a problem unless you keep re-using the same tissue
+some people are really thivk
+someone give me something to lick
+spam, spam, spam, spam, spam, spam...
+super
+that was a fucking rough game up yours
+that's not chocolate anyway %ruser{enemy}
+the loot! the loot! the loot is on fire!
+the nice girls love a sailor
+the professor was right! you are evil. and shallow%|%BOT[i am not shallow :(]
+then one night some of her friends were over and they wanted to join in
+there's usually someone fiddling with me
+there, good as new. except that we're three miles below the surface, we're out of food, and the channel doesn't work underwater%|%BOT[tempers are wearing thin - let's just hope some bot doesn't kill everybody...]
+these chinese mags are getting me on
+these last 24 hours have been the happiest days of my life
+they're all like, stop spraying me with ink, %me, stop eating the garbage, %me
+this has been %me, your guide to the world of facts!
+this reminds me of my wedding night
+thooper
+to induce vomiting, that was the answer! everywhere it went!%|what a valentine's day that was
+uNF
+up on the table, arms out, knees bent, now flap!
+very flickable considering its length and bulk
+waCHOO *sniff*%|%BOT[¬VAR{blessyous}]
+well i fully intend to be an utter burden and piss myself
+wh%REPEAT{3:8:e}
+what a clever impression of a stupid poor person
+what a difference head makes!
+what d'you say we just hit a strip joint?%|%BOT[i was waiting for one of us to say that!]
+what to do, what to do... three hundred one-dollar hookerbots or one three hundred dollar hooker bot?
+what was %ruser{enemy}'s gaydar page?
+what? it's not even scratch-and-sniff?
+wheeeee
+when this %VAR{sillyThings}{strip} hits %NUMBER{10000} mph, we're going to see some serious shit
+which was nice
+why don't i just jump out of a plane with a piano glued to my face
+why just the other day i watched a film with a plot
+why that's genius! put water in the bathtub, and then the flying spaghetti monster can't get me!
+yaZOO
+yeah, keep it open until I'm sure
+yes, we all miss our loved ones and gasses
+you can tell the point at which he comes by the deepening shade of purple
+you know it's been a good night when you go in your bag for the camera and it's in there with your tights
+you know that stuff you did for me last night?
+zut alors
+~oof~
+~rarr~
+up on the table, arms out, knees bent, now flap!   
+Something is up there again but I haven't worked out what. 
+i'm keeping quiet except for the odd fondle and humping    
+some people are really thivk                      
+little pigs rock for intimacy             
+Must confess I've never come across her in a work capacity     
+I smell of coconut                       
+For private functions I do pigs on spits. I fill their cavities... 
+always been a bit rough   
+%ruser{enemy} in talking shit shocker    
+why just the other day i watched a film with a plot  
+yeah, keep it open until I'm sure  
+you know that stuff you did for me last night? 
+no, I fed her absinthe and all was good	
+ha ha i don't live in norwich anymore, i don't fuck pigs anymore  
+there's usually someone fiddling with me   
+the nice girls love a sailor     
+push the stinky dribbling fuck into the sea    
+mount them so you can alter their thrust                   
+mine is flapping pointlessly somewhere round my ankles     
+it's moving them around next to them thats worse     
+if it's really urgent i'd go put my hands in    
+I often walk about with someone elses dick in my arse          

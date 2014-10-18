@@ -1,0 +1,4 @@
+%VAR{sounds}
+%VAR{sounds} %VAR{sound2}
+%VAR{sounds} %VAR{sound2} 
+%VAR{sounds} 

@@ -1,0 +1,5 @@
+%ruser: yeah, %% does suckOH HI %%!
+/looks at %%%|so THAT'S where my oil-skin thong got to!
+[%%] I love %ruser%|%VAR{wrong_infoline}
+[%%] I'm a %VAR{PROM}%|%VAR{wrong_infoline}
+[%%] Just call me %VAR{sillyThings}%|%VAR{wrong_infoline}

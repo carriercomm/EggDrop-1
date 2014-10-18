@@ -1,0 +1,34 @@
+Debug (eggdrop v1.6.21) written Sun Sep 14 13:51:06 2014
+Full Patch List: 
+Tcl library: /usr/share/tcltk/tcl8.5
+Tcl version: 8.5.15 (header version 8.5.11)
+Tcl is threaded
+Configure flags: 
+Compile flags: gcc -g -O2 -pipe -Wall -I.. -I.. -DHAVE_CONFIG_H  
+Link flags: gcc
+Strip flags: touch
+Context: MegaHAL:megahal.c/2311, []
+         MegaHAL:megahal.c/2409, []
+         MegaHAL:megahal.c/2311, []
+         MegaHAL:megahal.c/2409, []
+         MegaHAL:megahal.c/2311, []
+         MegaHAL:megahal.c/2409, []
+         MegaHAL:megahal.c/2311, []
+         MegaHAL:megahal.c/2409, []
+         MegaHAL:megahal.c/3473, []
+         MegaHAL:megahal.c/3742, []
+         MegaHAL:megahal.c/3742, []
+         MegaHAL:megahal.c/1825, []
+         MegaHAL:megahal.c/1825, []
+         MegaHAL:megahal.c/2465, []
+         MegaHAL:megahal.c/1895, []
+         MegaHAL:megahal.c/1825 []
+
+SOCK ADDR     PORT  NICK      HOST              TYPE
+---- -------- ----- --------- ----------------- ----
+3    C0030A5F  9123 (telnet)  *                 lstn  9123
+4    00000000     0 (dns)                       dns   (ready)
+8    A2D5272A  6667 (server)  irc.freenode.net  serv  (lag: 0)
+
+Compiled without extensive memory debugging (sorry).
+Open sockets: 3 (listen), 4 (passed on), 8, 9 (file), done.

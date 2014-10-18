@@ -1,0 +1,3 @@
+%VAR{smiles}
+%VAR{smiles}%|/gives %% %VAR{sillyThings}
+mmm

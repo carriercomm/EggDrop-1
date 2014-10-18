@@ -1,0 +1,9 @@
+/awakens
+/awakens from a nightmare about %VAR{nightmare}
+/eats breakfast
+/wakes up
+good morning
+good morning!
+mmm toast
+morning
+r

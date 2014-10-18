@@ -1,0 +1,16 @@
+!
+!!!
+%colen
+:O
+:o
+A%REPEAT{4:7:R}GH!
+O_O
+blimey
+boom
+crikey
+crumbs
+i say%|%BOT[what do you say?]%|I say, %VAR{ers}...%|%VAR{randomStuff}.
+marmalade
+ooh 'eck
+wow
+yikes

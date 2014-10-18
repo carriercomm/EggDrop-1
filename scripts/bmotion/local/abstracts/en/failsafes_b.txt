@@ -1,0 +1,3 @@
+/%% %2 %SETTING{complex:failsafe:last:nick:moo}
+/%% %2 %SETTING{complex:failsafe:last:nick:moo} back with %VAR{sillyThings}
+/%VERB{%VAR{sillyThings}{strip}} %2 %SETTING{complex:failsafe:last:nick:moo} in return

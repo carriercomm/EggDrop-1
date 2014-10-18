@@ -1,0 +1,14 @@
+%% %VAR{smiles}
+%%!
+%%%colen
+BOOM!
+BOOM%colen
+a%REPEAT{3:8:r}
+alors bof
+bhar
+boohar %%
+boom
+oh my god it's %%... i'm so excited i wish i could wet my pants!
+pop
+r %%
+r.

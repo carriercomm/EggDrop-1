@@ -1,0 +1,9 @@
+alien
+bizzare
+elven
+goblinoid
+magical
+mysterious
+orcish
+strange
+weird

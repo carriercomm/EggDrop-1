@@ -1,0 +1,8 @@
+%SETTING{output:typos:typos:_:_}
+%colen
+-typo
+/butterfingers
+ffs
+grrr %SETTING{output:typos:typos:_:_}
+oops
+oops %SETTING{output:typos:typos:_:_}
