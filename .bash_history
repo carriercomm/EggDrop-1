@@ -193,3 +193,72 @@ kill 9370.pts-1.ny
 screen -x 9370.pts-1.ny
 screen -ls
 exit
+telnet localhost 2224
+cat .ssh/github.pub | pbcopy
+git commit -m "ignore gitwatch"
+git commit -m "ignore bashhistory"
+git commit -a -m "ignore bashhistory"
+git push -u origin master
+git remote -v
+git remote set-url origin git@github.com:patrick-hudson/EggDrop.git
+git remote -v
+git push -u origin master
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/github
+git push -u origin master
+./gitwatch.sh -r "git@github.com:patrick-hudson/EggDrop.git" -b "master" /home/patrick/
+rm github
+rm github.pub
+git push -u origin master
+ls -al
+git rm --cached github
+git rm --cached github.pub
+git push -u origin master
+git commit -a -m "removin stuffs"
+git push -u origin master
+ssh-remove
+ssh-add
+ps aux | grep ssh
+kill 7835
+cd .ssh/
+ls
+rm github
+rm github.pub 
+ssh-keygen -t rsa -C "patrick@hudson.bz"
+cat github.pub | pbcopy
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/github
+cd ~
+git push -u origin master
+git commit -a -m "removin stuffs"
+git push -u origin master
+nano .gitignore
+git rm --cached pid.FBIBot
+git commit -a -m "removin pid"
+git push -u origin master
+./gitwatch.sh -r "git@github.com:patrick-hudson/EggDrop.git" -b "master" /home/patrick/
+./gitwatch.sh -r "git@github.com:patrick-hudson/EggDrop.git" -b "master" -s 120 /home/patrick/ &
+jobs
+fg 9290
+jobs -l
+fg 1
+jobs -l
+bg
+jobs -l
+screen
+apt-get install screen
+sudo apt-get install screen
+screen
+screen -r
+screen -l
+screen -ls
+screen -S gitwatch
+screen -ls
+eggdrop
+telnet localhost 9123
+ls
+cd scripts/
+touch timespent
+ls | grep time
+telnet localhost 9123
+telnet localhost 9123
