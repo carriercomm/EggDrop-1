@@ -7,7 +7,7 @@ proc commit {nick host hand chan arg} {
   regsub -all {(?:\n|\t|\v|\r|\x01)} $page " " page
   if {[regexp -nocase {<div id="content">(.*?)</div>} $page " " commit]} {
   	regsub -nocase -- {<p class="permalink">(.*?)</p>} $commit "\\1" url
-  	regsub -nocase -- {<p>(.*?)</p>} $url "\\1" url
+  	regsub -nocase -- {<p>(.*?)</p>} $url "" url
   	regsub -nocase -- {<p>(.*?)</p>} $commit "\\1" commit
   	regsub -nocase -- {<p.*?>(.*?)</p>} $commit "\\1" commit
   	regsub -nocase -- {<a href=(.*?)></a>} $url "\\1" url
