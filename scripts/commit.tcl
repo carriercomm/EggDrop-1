@@ -8,9 +8,10 @@ proc commit {nick host hand chan arg} {
   if {[regexp -nocase {<div id="content">(.*?)</div>} $page " " commit]} {
   	regsub -nocase -- {<p>(.*?)</p>} $commit "\\1" commit
   	regsub -nocase -- {<p.*?>(.*?)</p>} $commit "\\1" commit
+  	regsub -nocase -- {<a href=(.*?)>.*?</a>} $commit "\\1" url
   	regsub -nocase -- {<a.*?>(.*?)</a>} $commit "" commit
   	regsub -nocase -- {\[\]} $commit "" commit
-  	putserv "PRIVMSG $chan :$commit"
+  	putserv "PRIVMSG $chan :$commit - $url"
   }
 }
 
