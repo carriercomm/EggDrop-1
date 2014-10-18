@@ -14,7 +14,8 @@ proc commit {nick host hand chan arg} {
   	regsub -nocase -- {<a href="(.*?)">permalink</a>} $url "\\1" url
   	regsub -nocase -- {<a.*?>(.*?)</a>} $commit "" commit
   	regsub -nocase -- {\[\]} $commit "" commit
-  	putserv "PRIVMSG $chan :$commit - $url"
+  	regsub -nocase -- {\[\]} $url "" url
+  	putserv "PRIVMSG $chan :$commit - http://whatthecommit.com$url"
   }
 }
 
