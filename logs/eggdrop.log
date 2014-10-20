@@ -341,3 +341,7 @@
 [17:15:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
 [17:18:28] 14<chanstats> saving data (14events) --> saved (1430), discarded (140)
 [17:20:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[17:21:00] 14<chanstats> saving data (14schedule) --> saved (1430), discarded (140)
+[17:21:34] incith:weather-2.9c: <DisturbedNSFW/#No!> !weather 40419
+[17:24:57] Tcl error [weburlwatch]: can't read "doctype": no such variable
+[17:25:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
