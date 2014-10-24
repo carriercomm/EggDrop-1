@@ -521,3 +521,9 @@
 [22:55:39] 14<chanstats> saving data (14events) --> saved (1439), discarded (140)
 [22:59:44] Tcl error [weburlwatch]: can't read "doctype": no such variable
 [23:00:00] #No! (+psCtn) : [m/23 o/6 h/0 v/0 n/17 b/1 e/0 I/0]
+[23:00:00] Writing user file...
+[23:00:00] Writing channel file...
+[23:01:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
+[23:04:45] Register: <JoshHuman/#No!> succesfully updated host to ~Josh@unaffiliated/joshhuman
+[23:04:45] 14<chanstats> saving data (14events) --> saved (1439), discarded (140)
+[23:05:00] #No! (+psCtn) : [m/23 o/6 h/0 v/0 n/17 b/1 e/0 I/0]
