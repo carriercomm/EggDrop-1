@@ -20,7 +20,7 @@ hagay@#no! 1414193823 16 67 0 0 0 4 0 4 2 0
 wfeather[edm]@#no! 1414289463 2 7 0 0 0 0 0 0 0 0
 blitzcraptop@#no! 1414213750 1590 9352 26 2 0 37 0 0 42 0
 chanserv@#patstestingroom 1414170094 0 0 0 0 0 0 2 0 0 0
-drsnoopdre@#no! 1414291866 17 51 0 0 0 0 0 0 0 0
+drsnoopdre@#no! 1414295070 23 63 0 0 0 0 0 0 0 0
 paradigm84_@#no! 1414262145 0 0 0 0 0 5 0 4 2 0
 paradigm84@#no! 1414275731 4 26 0 0 0 3 0 0 2 0
 mbphone@#no! 1414144741 0 0 0 0 0 1 0 1 0 0
