@@ -477,3 +477,8 @@
 [01:20:00] #No! (+psCtn) : [m/19 o/5 h/0 v/0 n/14 b/1 e/0 I/0]
 [01:23:53] 14<chanstats> saving data (14events) --> saved (1430), discarded (141)
 [01:25:00] #No! (+psCtn) : [m/19 o/5 h/0 v/0 n/14 b/1 e/0 I/0]
+[01:27:00] 14<chanstats> saving data (14schedule) --> saved (1430), discarded (140)
+[01:29:32] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
+[01:30:00] #No! (+psCtn) : [m/19 o/5 h/0 v/0 n/14 b/1 e/0 I/0]
+[01:30:30] incith:weather-2.9c: <DrSnoopDre/#No!> !weather 77449
+[01:35:00] #No! (+psCtn) : [m/19 o/5 h/0 v/0 n/14 b/1 e/0 I/0]
