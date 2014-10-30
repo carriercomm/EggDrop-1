@@ -558,3 +558,10 @@
 [02:12:05] 14<chanstats> saving data (14events) --> saved (1430), discarded (140)
 [02:15:00] Last message repeated 3 time(s).
 [02:15:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[02:17:00] 14<chanstats> saving data (14schedule) --> saved (1430), discarded (140)
+[02:17:59] 14<chanstats> saving data (14events) --> saved (1430), discarded (140)
+[02:17:59] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
+[02:18:47] incith:weather-2.9c: <AMDPhenomX4Q/#No!> !weather Bergen Norway 
+[02:19:07] incith:weather-2.9c: <C_C/#No!> !weather 83404
+[02:19:35] incith:weather-2.9c: <AMDPhenomX4Q/#No!> !weather 
+[02:20:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
