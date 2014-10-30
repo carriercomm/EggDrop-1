@@ -419,3 +419,6 @@
 [20:57:12] incith:weather-2.9c: <C_C/#No!> !weather 83404
 [20:57:16] incith:weather-2.9c: <C_C/#No!> !forecast 83404
 [21:00:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[21:00:00] Writing user file...
+[21:00:00] Writing channel file...
+[21:05:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
