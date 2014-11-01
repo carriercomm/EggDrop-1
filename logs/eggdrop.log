@@ -558,3 +558,7 @@
 [01:07:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
 [01:08:55] Tcl error [weburlwatch]: unable to convert date-time string "Sat, 01 Nov 2014 04:14:08 +0000": syntax error (characters 31-31)
 [01:10:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[01:12:00] Backing up seen data...
+[01:13:15] Tcl error [weburlwatch]: can't read "doctype": no such variable
+[01:13:42] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[01:15:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
