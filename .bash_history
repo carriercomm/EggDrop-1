@@ -262,3 +262,11 @@ touch timespent
 ls | grep time
 telnet localhost 9123
 telnet localhost 9123
+cd ~
+ls
+service eggdrop
+/etc/init.d/eggdrop
+/etc/init.d/eggdrop start
+/etc/init.d/eggdrop stop
+/etc/init.d/eggdrop start
+ping irc.hudson.bz
