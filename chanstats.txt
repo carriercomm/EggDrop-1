@@ -1,7 +1,6 @@
 chanserv@#patstestingroom 1414905542 0 0 0 0 0 0 1 0 0 0
 blitz6804@#no! 1414949983 489 3040 8 1 0 2 0 0 3 0
 mbudden@#no! 1414997418 194 704 0 0 0 10 3 1 6 11
-blitz68041@#no! 1414844750 0 0 0 0 0 1 0 0 0 1
 ven44x@#no! 1414986498 27 94 0 0 0 0 0 0 1 0
 pattesthack@#patstestingroom 1414928846 0 0 0 0 0 1 0 0 1 0
 paradigm84@#no! 1414941173 1 9 0 0 0 3 0 0 2 0
