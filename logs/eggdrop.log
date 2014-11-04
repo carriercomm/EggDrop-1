@@ -539,3 +539,10 @@
 [23:40:08] 14<chanstats> saving data (14events) --> saved (1437), discarded (140)
 [23:45:00] Last message repeated 1 time(s).
 [23:45:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
+[23:47:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
+[23:48:19] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
+[23:49:11] incith:weather-2.9c: <C_C/#No!> !weather 83404
+[23:49:28] incith:weather-2.9c: <Disturbed/#No!> !forecast 40419
+[23:49:28] incith:weather-2.9c: <C_C/#No!> !forecast 83404
+[23:49:32] 14<chanstats> saving data (14events) --> saved (1437), discarded (140)
+[23:50:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
