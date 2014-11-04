@@ -67,3 +67,7 @@
 [06:00:00] Writing user file...
 [06:00:00] Writing channel file...
 [06:05:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[06:07:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
+[06:09:48] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
+[06:09:52] 14<chanstats> saving data (14events) --> saved (1440), discarded (140)
+[06:10:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
