@@ -556,3 +556,7 @@
 [00:00:00] Writing channel file...
 [00:02:56] 14<chanstats> saving data (14events) --> saved (1437), discarded (140)
 [00:05:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
+[00:07:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
+[00:08:39] 14<chanstats> saving data (14events) --> saved (1437), discarded (140)
+[00:09:53] incith:weather-2.9c: <Scraps/#No!> !forecast 49855
+[00:10:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
