@@ -433,3 +433,6 @@
 [20:47:00] 14<chanstats> saving data (14schedule) --> saved (1433), discarded (140)
 [20:47:18] Register: <Disturbed/#No!> succesfully updated host to ~Disturbed@unaffiliated/disturbed117
 [20:50:00] #No! (+psCtn) : [m/25 o/5 h/0 v/0 n/20 b/1 e/0 I/0]
+[20:50:02] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
+[20:50:07] 14<chanstats> saving data (14events) --> saved (1433), discarded (140)
+[20:55:00] #No! (+psCtn) : [m/24 o/5 h/0 v/0 n/19 b/1 e/0 I/0]
