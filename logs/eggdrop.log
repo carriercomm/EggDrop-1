@@ -357,3 +357,8 @@
 [15:22:00] 14<chanstats> saving data (14schedule) --> saved (1440), discarded (140)
 [15:24:05] 14<chanstats> saving data (14events) --> saved (1440), discarded (140)
 [15:25:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[15:28:35] incith:weather-2.9c: <JoshHuman/#No!> !weather 02143
+[15:28:55] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
+[15:29:15] incith:weather-2.9c: <JoshHuman/#No!> !weather 02143
+[15:29:49] incith:weather-2.9c: <JoshHuman/#No!> !forecast 02143
+[15:30:09] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
