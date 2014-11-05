@@ -417,3 +417,12 @@
 [16:56:37] 14<chanstats> saving data (14events) --> saved (1440), discarded (140)
 [17:00:00] Last message repeated 1 time(s).
 [17:00:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
+[17:00:00] Writing user file...
+[17:00:00] Writing channel file...
+[17:00:47] 14<chanstats> saving data (14events) --> saved (1440), discarded (140)
+[17:02:00] 14<chanstats> saving data (14schedule) --> saved (1440), discarded (140)
+[17:02:01] 14<chanstats> saving data (14events) --> saved (1440), discarded (140)
+[17:05:00] Last message repeated 1 time(s).
+[17:05:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
+[17:08:02] 14<chanstats> saving data (14events) --> saved (1440), discarded (140)
+[17:10:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
