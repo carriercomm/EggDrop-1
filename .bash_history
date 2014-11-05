@@ -270,3 +270,10 @@ service eggdrop
 /etc/init.d/eggdrop stop
 /etc/init.d/eggdrop start
 ping irc.hudson.bz
+/etc/init.d/eggdrop stop
+/etc/init.d/eggdrop start
+telnet localhost 9123
+/etc/init.d/eggdrop start
+cd ~
+/etc/init.d/eggdrop start
+telnet localhost 9123
