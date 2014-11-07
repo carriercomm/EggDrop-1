@@ -277,3 +277,99 @@ telnet localhost 9123
 cd ~
 /etc/init.d/eggdrop start
 telnet localhost 9123
+ls
+tck
+tcl
+tclsh
+cd scripts/
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+tclsh rannsfw.tcl
+telnet localhost 9123
+telnet localhost 9123
+cd ~
+service eggdrop stop
+/etc/init.d/eggdrop stop
+/etc/init.d/eggdrop start
+telnet localhost 9123
+/etc/init.d/eggdrop start
+telnet localhost 9123
