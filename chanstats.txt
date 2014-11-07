@@ -1,6 +1,5 @@
 chanserv@#patstestingroom 1415362195 0 0 0 0 0 0 1 0 0 0
 mbudden@#no! 1415328551 512 2195 0 0 0 14 4 1 8 15
-disturbedhighasf@#no! 1415198993 176 762 5 0 0 0 0 0 0 1
 paradigm84@#no! 1415299723 6 21 0 0 0 1 0 0 1 0
 pepejovi@#no! 1415353586 70 244 0 0 0 1 0 0 1 0
 norxwork@#no! 1415286752 9 63 0 0 0 1 0 0 1 0
