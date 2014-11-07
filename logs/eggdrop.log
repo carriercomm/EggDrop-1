@@ -1157,3 +1157,11 @@
 [16:39:00] Last message repeated 1 time(s).
 [16:39:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
 [16:40:00] #No! (+psCtn) : [m/24 o/4 h/0 v/0 n/20 b/1 e/0 I/0]
+[16:41:54] Register: <HackPat/#No!> succesfully updated host to ~HackPat@2001:19f0:6400:8041::64
+[16:43:41] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[16:44:18] Telnet connection: 127.0.0.1/46353
+[16:44:18] Timeout/EOF ident connection
+[16:44:22] Logged in: SS_Patric (telnet@127.0.0.1/46353)
+[16:44:25] #SS_Patric# ignores 
+[16:44:31] #SS_Patric# -ignore Wfeather!*@*
+[16:45:04] #No! (+psCtn) : [m/24 o/4 h/0 v/0 n/20 b/1 e/0 I/0]
