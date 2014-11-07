@@ -6,6 +6,7 @@
 #       !ignores
 package require http
 package require tls
+package require json
 # The trigger
 
 set pubtrig "!"
@@ -22,8 +23,8 @@ proc tits:pub {} {
   dict set hdr Authorization "Client-ID cefb2e6ae32f74f"
   http::register https 443 [list ::tls::socket -tls1 1]
   set token [http::geturl $theurl -headers $hdr -query]
-  set responseBody [http::data $token]
-  puts [dict values $responseBody]
+  set responseBody [::json::json2dict [http::data $token]]
+  puts $responseBody
   http::cleanup $token
 
 }  
