@@ -19,14 +19,15 @@ proc getTrigger {} {
 #bind pub - ${pubtrig}tits tits:pub
 
 proc tits:pub {} {
-  set page myRand(0 100)
-  set theurl "https://api.imgur.com/3/gallery/r/boobs/time/67"
+  set page [myRand 0 100]
+  set theurl "https://api.imgur.com/3/gallery/r/boobs/time/$page"
   dict set hdr Authorization "Client-ID cefb2e6ae32f74f"
   http::register https 443 [list ::tls::socket -tls1 1]
   set token [http::geturl $theurl -headers $hdr -query]
   set responseBody [::json::json2dict [http::data $token]]
   set data [lindex $responseBody 1]
-  set link [lindex $data 1]
+  set linkid [myRand 0 30]
+  set link [lindex $data $linkid]
   puts $link
   puts [dict size $data]
   http::cleanup $token
