@@ -19,7 +19,7 @@ proc getTrigger {} {
 #bind pub - ${pubtrig}tits tits:pub
 
 proc tits:pub {} {
-  set page [myRand 0 100]
+  set page [myRand 0 50]
   set theurl "https://api.imgur.com/3/gallery/r/boobs/time/$page"
   dict set hdr Authorization "Client-ID cefb2e6ae32f74f"
   http::register https 443 [list ::tls::socket -tls1 1]
@@ -30,9 +30,13 @@ proc tits:pub {} {
   set imagedata [lindex $data $linkid]
   if {[regexp -nocase {link (.*?) reddit_comments} $imagedata " " link]} {
     regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
+  } else {
+    set link "Wohhh there cowboy, slow down!"
   }
   if {[regexp -nocase {title {(.*?)} description} $imagedata " " title]} {
     regsub -nocase -- {title {(.*?)} description} $title "\\1" title
+  } else {
+    set title "Title Unknown"
   }
   puts $link
   puts $title
