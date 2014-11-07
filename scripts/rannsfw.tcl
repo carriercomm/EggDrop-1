@@ -24,9 +24,10 @@ proc tits:pub {} {
   http::register https 443 [list ::tls::socket -tls1 1]
   set token [http::geturl $theurl -headers $hdr -query]
   set responseBody [::json::json2dict [http::data $token]]
-  set link [lindex $responseBody 2]
+  set data [lindex $responseBody 1]
+  set link [lindex $data 1]
   puts $link
-  puts [dict size $responseBody]
+  puts [dict size $data]
   http::cleanup $token
 
 }  
