@@ -19,7 +19,8 @@ proc getTrigger {} {
 #bind pub - ${pubtrig}tits tits:pub
 
 proc tits:pub {} {
-  set theurl "https://api.imgur.com/3/gallery/r/boobs"
+  set page myRand(0 100)
+  set theurl "https://api.imgur.com/3/gallery/r/boobs/time/67"
   dict set hdr Authorization "Client-ID cefb2e6ae32f74f"
   http::register https 443 [list ::tls::socket -tls1 1]
   set token [http::geturl $theurl -headers $hdr -query]
@@ -31,7 +32,12 @@ proc tits:pub {} {
   http::cleanup $token
 
 }  
-
+proc myRand { min max } {
+    set maxFactor [expr [expr $max + 1] - $min]
+    set value [expr int([expr rand() * 100])]
+    set value [expr [expr $value % $maxFactor] + $min]
+return $value
+}
 tits:pub
 
 #putlog ".:Loaded:. ignore.tcl - HackPat@Freenode"
