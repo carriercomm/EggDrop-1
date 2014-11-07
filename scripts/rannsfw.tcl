@@ -130,6 +130,7 @@ proc nsfw:pub {nick host hand chan arg} {
   set imagedata [lindex $data $linkid]
   if {$arg == "help"} {
     putserv "PRIVMSG $chan :\002NSFW\002 use !tits for random tits, !ass for random ass, !pussy for random pussy, !nsfw for random porn, !nsfw NUMBER for a list of porn"
+    return "hai"
   }
   if {$arg != "" && $arg != "help"} {
     set listnsfw ""
