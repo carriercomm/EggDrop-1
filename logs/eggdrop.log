@@ -919,3 +919,8 @@
 [07:41:52] Tcl error [weburlwatch]: unable to convert date-time string "Fri, 07 Nov 2014 12:38:01 +0000": syntax error (characters 31-31)
 [07:42:04] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
 [07:45:00] #No! (+psCtn) : [m/23 o/6 h/0 v/0 n/17 b/1 e/0 I/0]
+[07:45:52] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[07:46:08] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
+[07:49:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[07:49:54] incith:weather-2.9c: <C_C/#No!> !weather 83404
+[07:50:00] #No! (+psCtn) : [m/23 o/6 h/0 v/0 n/17 b/1 e/0 I/0]
