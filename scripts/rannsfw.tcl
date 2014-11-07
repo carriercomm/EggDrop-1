@@ -21,6 +21,7 @@ proc getTrigger {} {
 proc tits:pub {} {
   set theurl "https://api.imgur.com/3/gallery/r/boobs"
   dict set hdr Authorization "Client-ID cefb2e6ae32f74f"
+  http::register https 443 [list ::tls::socket -tls1 1]
   set token [http::geturl $theurl -headers $hdr -query]
   set responseBody [http::data $token]
   puts $responseBody
