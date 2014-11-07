@@ -4,8 +4,11 @@
 #       !ignore add <nick> <duration> <reason>
 #       !ignore del *!*host@mask.etc
 #       !ignores
+package require http
+package require tls
 
 # The trigger
+
 set pubtrig "!"
 
 # ---- EDIT END ----
@@ -18,7 +21,7 @@ proc getTrigger {} {
 proc tits:pub {} {
   set theurl "https://api.imgur.com/3/gallery/r/boobs"
   dict set hdr Authorization "Client-ID cefb2e6ae32f74f"
-  set token [http::geturl $theurl -headers $hdr -query $body]
+  set token [http::geturl $theurl -headers $hdr -query]
   set responseBody [http::data $token]
   puts $responseBody
   http::cleanup $token
