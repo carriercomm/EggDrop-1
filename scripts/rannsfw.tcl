@@ -6,7 +6,8 @@
 #       !ignores
 package require http
 package require tls
-package require json
+package require Tcl 8.4
+package require json 1.1.2
 # The trigger
 
 set pubtrig "!"
