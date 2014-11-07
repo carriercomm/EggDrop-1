@@ -28,7 +28,9 @@ proc tits:pub {} {
   set data [lindex $responseBody 1]
   set linkid [myRand 0 30]
   set imagedata [lindex $data $linkid]
-  set link [lindex $data 0]
+  if {[regexp -nocase {link (.*?) reddit_comments} $imagedata " " link]} {
+    regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
+  }
   puts $link
   puts [dict size $data]
   http::cleanup $token
