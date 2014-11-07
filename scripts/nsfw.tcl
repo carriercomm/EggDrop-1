@@ -1,4 +1,4 @@
-bind pub - !nsfw notsafeforwork
+bind pub - !nopelol notsafeforwork
 
 proc notsafeforwork {nick host hand chan arg} {
  set customtext "\002Please tag all not safe for work images, texts and websites. Not doing so will earn you a kick"
