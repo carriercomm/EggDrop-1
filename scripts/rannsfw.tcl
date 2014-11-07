@@ -31,8 +31,11 @@ proc tits:pub {} {
   if {[regexp -nocase {link (.*?) reddit_comments} $imagedata " " link]} {
     regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
   }
+  if {[regexp -nocase {title {(.*?)} description} $imagedata " " title]} {
+    regsub -nocase -- {title {(.*?)} description} $title "\\1" title
+  }
   puts $link
-  puts [dict size $data]
+  puts $title
   http::cleanup $token
 
 }  
