@@ -16,9 +16,9 @@ proc getTrigger {} {
   global pubtrig
   return $pubtrig
 }
-#bind pub - ${pubtrig}tits tits:pub
+bind pub - ${pubtrig}tits tits:pub
 
-proc tits:pub {} {
+proc tits:pub {nick host hand chan arg} {
   set page [myRand 0 50]
   set theurl "https://api.imgur.com/3/gallery/r/boobs/time/$page"
   dict set hdr Authorization "Client-ID cefb2e6ae32f74f"
@@ -38,10 +38,8 @@ proc tits:pub {} {
   } else {
     set title "Title Unknown"
   }
-  puts $link
-  puts $title
+  putserv "PRIVMSG $chan :Your random tits! $link - Title: $title"
   http::cleanup $token
-
 }  
 proc myRand { min max } {
     set maxFactor [expr [expr $max + 1] - $min]
@@ -49,6 +47,5 @@ proc myRand { min max } {
     set value [expr [expr $value % $maxFactor] + $min]
 return $value
 }
-tits:pub
 
 #putlog ".:Loaded:. ignore.tcl - HackPat@Freenode"
