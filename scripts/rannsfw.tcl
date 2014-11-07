@@ -27,7 +27,8 @@ proc tits:pub {} {
   set responseBody [::json::json2dict [http::data $token]]
   set data [lindex $responseBody 1]
   set linkid [myRand 0 30]
-  set link [lindex $data $linkid]
+  set imagedata [lindex $data $linkid]
+  set link [lindex $data 0]
   puts $link
   puts [dict size $data]
   http::cleanup $token
