@@ -1,4 +1,4 @@
-#4v: eggdrop v1.6.21 -- FBIBot -- written Fri Nov  7 16:00:00 2014
+#4v: eggdrop v1.6.21 -- FBIBot -- written Fri Nov  7 17:00:00 2014
 SS_Patric  - hjlmnoptx               
 ! #no!                 1405702944 -          
 --HOSTS *!*fuckyou@*.hstntx.sbcglobal.net
@@ -6,15 +6,15 @@ SS_Patric  - hjlmnoptx
 --HOSTS SS_Patric
 --HOSTS SS_Patrick
 --HOSTS *!*@unaffiliated/ss-patrick/*
---LASTON 1415365444 partyline
+--LASTON 1415396662 partyline
 --PASS +zMHw3/IGG4M/
 --XTRA created 1385184819
 --XTRA incith:weather.location 77449
 HackPat    - hlop                    
 --HOSTS *!*sid43215@gateway/web/irccloud.com/x-twlymzxnbruycsio
---HOSTS *!*HackPat@2001:19f0:6400:8041::*
 --HOSTS *!*HackPat@*.hudson.bz
---LASTON 1415377125 #No!
+--HOSTS *!*HackPat@2001:19f0:6400:8041::*
+--LASTON 1415396494 #No!
 --XTRA created 1411233652
 --XTRA incith:weather.location 77449
 NixZiZ     - hp                      
@@ -100,8 +100,6 @@ joshphone  - hp
 --HOSTS *!*androirc@38.111.9.*
 --LASTON 1415383883 #No!
 --XTRA created 1415321086
-*ignore - -
-- Wfeather!*@*:+0:SS_Patric:1413266162:requested
 ::#patstestingroom bans
 ::#No! bans
 &&#patstestingroom exempts
