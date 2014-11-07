@@ -20,7 +20,7 @@ bind pub - ${pubtrig}tits tits:pub
 
 proc tits:pub {nick host hand chan arg} {
   set page [myRand 0 50]
-  set theurl "https://api.imgur.com/3/gallery/r/boobs/time/$page"
+  set theurl "https://api.imgur.com/3/gallery/r/Boobies/time/$page"
   dict set hdr Authorization "Client-ID cefb2e6ae32f74f"
   http::register https 443 [list ::tls::socket -tls1 1]
   set token [http::geturl $theurl -headers $hdr -query]
