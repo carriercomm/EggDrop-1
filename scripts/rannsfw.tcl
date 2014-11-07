@@ -34,6 +34,7 @@ proc tits:pub {nick host hand chan arg} {
   set imagedata [lindex $data $linkid]
   if {[regexp -nocase {link (.*?) reddit_comments} $imagedata " " link]} {
     regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
+    regsub -nocase -- {looping true} $link "" link
   } else {
     set link "Wohhh there cowboy, slow down!"
   }
@@ -57,6 +58,7 @@ proc ass:pub {nick host hand chan arg} {
   set imagedata [lindex $data $linkid]
   if {[regexp -nocase {link (.*?) reddit_comments} $imagedata " " link]} {
     regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
+    regsub -nocase -- {looping true} $link "" link
   } else {
     set link "Wohhh there cowboy, slow down!"
   }
@@ -80,6 +82,7 @@ proc pussy:pub {nick host hand chan arg} {
   set imagedata [lindex $data $linkid]
   if {[regexp -nocase {link (.*?) reddit_comments} $imagedata " " link]} {
     regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
+    regsub -nocase -- {looping true} $link "" link
   } else {
     set link "Wohhh there cowboy, slow down!"
   }
@@ -112,7 +115,7 @@ proc gif:pub {nick host hand chan arg} {
   } else {
     set title "Title Unknown"
   }
-  putserv "PRIVMSG $chan :\002NSFW\002 Your random pussy! $link - Title: $title"
+  putserv "PRIVMSG $chan :\002NSFW\002 Your random porn gif! $link - Title: $title"
   http::cleanup $token
 }
 proc nsfw:pub {nick host hand chan arg} {
@@ -134,6 +137,7 @@ proc nsfw:pub {nick host hand chan arg} {
       set randata [lindex $data $i]
         if {[regexp -nocase {link (.*?) reddit_comments} $randata " " link]} {
           regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
+          regsub -nocase -- {looping true} $link "" link
           lappend listnsfw $link
         } else {
           set link "Wohhh there cowboy, slow down!"
@@ -143,6 +147,7 @@ proc nsfw:pub {nick host hand chan arg} {
   } else {
         if {[regexp -nocase {link (.*?) reddit_comments} $imagedata " " link]} {
           regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
+          regsub -nocase -- {looping true} $link "" link
         } else {
           set link "Wohhh there cowboy, slow down!"
         }
