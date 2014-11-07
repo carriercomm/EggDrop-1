@@ -1,4 +1,4 @@
-#4v: eggdrop v1.6.21 -- FBIBot -- written Fri Nov  7 11:00:00 2014
+#4v: eggdrop v1.6.21 -- FBIBot -- written Fri Nov  7 12:00:00 2014
 SS_Patric  - hjlmnoptx               
 ! #no!                 1405702944 -          
 --HOSTS *!*fuckyou@*.hstntx.sbcglobal.net
@@ -13,16 +13,17 @@ SS_Patric  - hjlmnoptx
 HackPat    - hlop                    
 --HOSTS *!*sid43215@gateway/web/irccloud.com/x-twlymzxnbruycsio
 --HOSTS *!*HackPat@2001:19f0:6400:8041::*
+--HOSTS *!*HackPat@*.hudson.bz
+--LASTON 1415377125 #No!
 --XTRA created 1411233652
 --XTRA incith:weather.location 77449
---LASTON 1414242297 #patstestingroom
 NixZiZ     - hp                      
---LASTON 1415375589 #No!
 --HOSTS *!*NixZiZ@184.146.181.*
 --HOSTS *!*d87e5147@*.126.81.71
 --HOSTS *!*4066f90d@*.102.249.13
 --HOSTS *!*NixZiZ@*.dsl.bell.ca
 --HOSTS *!*quassel@*.dsl.bell.ca
+--LASTON 1415375589 #No!
 --XTRA created 1411233683
 --XTRA incith:weather.location caledon, ontario
 NotPat     - hp                      
@@ -95,9 +96,9 @@ AMDPhenom  - hp
 --XTRA created 1414650022
 --LASTON 1415334109 #No!
 joshphone  - hp                      
---HOSTS *!*androirc@unaffiliated/joshhuman
+--LASTON 1415378838 #No!
 --HOSTS *!*androirc@38.111.9.*
---LASTON 1415374481 #No!
+--HOSTS *!*androirc@unaffiliated/joshhuman
 --XTRA created 1415321086
 *ignore - -
 - Wfeather!*@*:+0:SS_Patric:1413266162:requested
