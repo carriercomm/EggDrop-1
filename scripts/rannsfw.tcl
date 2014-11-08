@@ -186,14 +186,17 @@ proc nsfw:pub {nick host hand chan arg} {
 			  set linkid [myRand 0 150]
 			  set imagedata [lindex $data $linkid]
 			  set i 0
-			  array set list {}
-			  set list(id) {}
-			  set list(title) {}
+			  array set idlist {}
+			  set idlist(id) {}
+			  array set titlelist {}
+			  set titlelist(title) {}
 			  foreach link [dict get $responseBody data] {
-				  set list($i) [dict get $link id]
-				  lappend list() $i
+				  set idlist($i) [dict get $link id]
+				  lappend idlist() $i
+				  set titlelist($i) [dict get $link title]
+				  lappend titlelist() $i
 			  }
-			  putserv "PRIVMSG $chan : $list(0)"
+			  putserv "PRIVMSG $chan : $idlist(0) $titlelist(0)"
 			  set fp [open "scripts/rantest.txt" w+]
     		  puts $fp [dict filter $data key "link"]
      		  close $fp
