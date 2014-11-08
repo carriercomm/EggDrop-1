@@ -207,10 +207,10 @@ proc nsfw:pub {nick host hand chan arg} {
 		  			set arg2 10
 		  		}
 		  		unset i
+		  		array set completelist {}
 		    	for {set i 0} {$i < $arg2} {incr i} {
 		    		set forran [myRand 0 [array size idlist]]
-		    		lappend listnsfw $idlist($forran)
-		    		lappend listtitle $titlelist($forran)
+		    		set completelist($i) "$idlist($forran) - $titlelist($forran)"
 
 		   		}
 		   		unset i
@@ -218,7 +218,7 @@ proc nsfw:pub {nick host hand chan arg} {
 		   			putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $listnsfw $listtitle"
 		   		} else {
 		   			for {set i 0} {$i < $arg2} {incr i} {
-		   				putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $listnsfw(1) - $listtitle(1)"
+		   				putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $completelist($i)"
 		   			}
 		   		}
 	        
