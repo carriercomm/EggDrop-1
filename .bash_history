@@ -376,3 +376,9 @@ telnet localhost 9123
 telnet localhost 9123
 telnet localhost 9123
 telnet localhost 9123
+telnet localhost 9123
+telnet localhost 9123
+telnet localhost 9123
+/etc/init.d/eggdrop start
+telnet localhost 9123
+telnet localhost 9123
