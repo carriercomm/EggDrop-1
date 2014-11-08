@@ -128,6 +128,15 @@ proc gif:pub {nick host hand chan arg} {
   http::cleanup $token
 }
 proc nsfw:pub {nick host hand chan arg} {
+	if {$arg1 == "help"} {
+		putserv "PRIVMSG $chan :\002NSFW\002 !ass - Returns a random ass picture from /r/ass"
+		putserv "PRIVMSG $chan :\002NSFW\002 !pussy - Returns a random ass picture from /r/pussy"
+		putserv "PRIVMSG $chan :\002NSFW\002 !tits - Returns a random ass picture from /r/Boobies"
+		putserv "PRIVMSG $chan :\002NSFW\002 !gif - Returns a random gif picture from /r/NSFW_GIF"
+		putserv "PRIVMSG $chan :\002NSFW\002 !nsfw \[number\] - Returns a list of random pictures from /r/nsfw"
+		putserv "PRIVMSG $chan :\002NSFW\002 !nsfw \[subreddit\] \[number\] - Returns a list of random pictures from /r/\[subreddit\]"
+	return ""
+	}
   set page [myRand 0 50]
   set arg1 [lindex $arg 0]
   set arg2 [lindex $arg 1]
@@ -145,15 +154,6 @@ proc nsfw:pub {nick host hand chan arg} {
 	  set titlelist($i) [dict get $link title]
 	  incr i
   }
-	  if {$arg1 == "help"} {
-		putserv "PRIVMSG $chan :\002NSFW\002 !ass - Returns a random ass picture from /r/ass"
-		putserv "PRIVMSG $chan :\002NSFW\002 !pussy - Returns a random ass picture from /r/pussy"
-		putserv "PRIVMSG $chan :\002NSFW\002 !tits - Returns a random ass picture from /r/Boobies"
-		putserv "PRIVMSG $chan :\002NSFW\002 !gif - Returns a random gif picture from /r/NSFW_GIF"
-		putserv "PRIVMSG $chan :\002NSFW\002 !nsfw \[number\] - Returns a list of random pictures from /r/nsfw"
-		putserv "PRIVMSG $chan :\002NSFW\002 !nsfw \[subreddit\] \[number\] - Returns a list of random pictures from /r/\[subreddit\]"
-	    return ""
-	  }
 	  if {[regexp {^([0-9]+)$} $arg1]} {
 	  	if {$arg1 > 4} {
 	  		set arg1 4
@@ -208,18 +208,18 @@ proc nsfw:pub {nick host hand chan arg} {
 		   		}
 	        
 	  } else {
-	  	    if {[regexp -nocase {link (.*?) reddit_comments} $imagedata " " link]} {
-	          regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
-	          regsub -nocase -- {looping true} $link "" link
-	        } else {
-	          set link "Wohhh there cowboy, slow down!"
-	        }
-	        if {[regexp -nocase {title {(.*?)} description} $imagedata " " title]} {
-	          regsub -nocase -- {title {(.*?)} description} $title "\\1" title
-	        } else {
-	          set title "Title Unknown"
-	        }
-	        putserv "PRIVMSG $chan :\002NSFW\002 Random porn $link - Title: $title"
+		  set i 0
+		  array set idlist {}
+		  array set titlelist {}
+		  foreach link [dict get $responseBody data] {
+			  set idlist($i) [dict get $link link]
+			  set titlelist($i) [dict get $link title]
+			  incr i
+		  }
+		array set completelist {}
+		set forran [myRand 0 [array size idlist]]
+  		set completelist(0) "$idlist($forran) - $titlelist($forran)"
+  		putserv "PRIVMSG $chan :\002NSFW\002 Random NSFW $completelist($i)"
 	  }
   
   http::cleanup $token
