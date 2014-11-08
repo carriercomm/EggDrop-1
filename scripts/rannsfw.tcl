@@ -148,9 +148,15 @@ proc nsfw:pub {nick host hand chan arg} {
   http::register https 443 [list ::tls::socket -tls1 1]
   set token [http::geturl $theurl -headers $hdr -query]
   set responseBody [::json::json2dict [http::data $token]]
-  set data [lindex $responseBody 1]
-  set linkid [myRand 0 30]
-  set imagedata [lindex $data $linkid]
+  set data [dict filter $responseBody key "data"]
+  set i 0
+  array set idlist {}
+  array set titlelist {}
+  foreach link [dict get $responseBody data] {
+	  set idlist($i) [dict get $link link]
+	  set titlelist($i) [dict get $link title]
+	  incr i
+  }
 	  if {$arg1 == "help"} {
 		putserv "PRIVMSG $chan :\002NSFW\002 !ass - Returns a random ass picture from /r/ass"
 		putserv "PRIVMSG $chan :\002NSFW\002 !pussy - Returns a random ass picture from /r/pussy"
@@ -164,18 +170,15 @@ proc nsfw:pub {nick host hand chan arg} {
 	  	if {$arg1 > 4} {
 	  		set arg1 4
 	  	}
-	    set listnsfw ""
-	    for {set i 0} {$i < $arg1} {incr i} {
-	      set randata [lindex $data $i]
-	        if {[regexp -nocase {link (.*?) reddit_comments} $randata " " link]} {
-	          regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
-	          regsub -nocase -- {looping true} $link "" link
-	          lappend listnsfw $link
-	        } else {
-	          set link "Wohhh there cowboy, slow down!"
-	        }
-	    }
-	    putserv "PRIVMSG $chan :\002NSFW\002 Random Tities/Ass/Pussy/Whoknows $listnsfw"
+		  array set completelist {}
+		 	for {set i 0} {$i < $arg1} {incr i} {
+		  		set forran [myRand 0 [array size idlist]]
+		   		set completelist($i) "$idlist($forran) - $titlelist($forran)"
+		   	}
+		  set linkid [myRand 0 [array size idlist]]
+		  for {set i 0} {$i < $arg1} {incr i} {
+			putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $completelist($i)"
+		  }
 	  } elseif {[regexp {^([a-zA-Z]+)$} $arg1]} {
 	  		  set page [myRand 1 20]
 	  		  set theurl "https://api.imgur.com/3/gallery/r/$arg1/time/$page"
@@ -186,27 +189,21 @@ proc nsfw:pub {nick host hand chan arg} {
 			  set data [dict filter $responseBody key "data"]
 			  set i 0
 			  array set idlist {}
-			  set idlist(id) {}
 			  array set titlelist {}
-			  set titlelist(id) {}
 			  foreach link [dict get $responseBody data] {
 				  set idlist($i) [dict get $link link]
 				  set titlelist($i) [dict get $link title]
 				  incr i
 			  }
-			    foreach idx [lsort [array names idlist]] {
-			  		putlog "$idlist($idx) $titlelist($idx)"
-				}
 			  set linkid [myRand 0 [array size idlist]]
 			  set listnsfw ""
 			  set listtitle ""
 				if {$arg2 == "" || $arg2 == 0} {
 					set arg2 1
 				}
-				if {$arg2 > 10} {
-		  			set arg2 10
+				if {$arg2 > 4} {
+		  			set arg2 4
 		  		}
-		  		unset i
 		  		array set completelist {}
 		    	for {set i 0} {$i < $arg2} {incr i} {
 		    		set forran [myRand 0 [array size idlist]]

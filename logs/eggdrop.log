@@ -5028,3 +5028,44 @@
 [11:46:40]  
 [11:50:00] 14<chanstats> saving data (14schedule) --> saved (1453), discarded (140)
 [11:50:00] #No! (+psCtn) : [m/23 o/4 h/0 v/0 n/19 b/1 e/0 I/0]
+[11:54:29] #SS_Patric# rehash
+[11:54:29] Writing user file...
+[11:54:29] Writing channel file...
+[11:54:29] Rehashing ...
+[11:54:29] Writing channel file...
+[11:54:29] Listening at telnet port 9123 (all).
+[11:54:29] beer.tcl v.1.beta1 by SpiKe^^ loaded
+[11:54:29] bseen1.4.2c:  -- Bass's SEEN loaded --
+[11:54:29] 14<chanstats> version 1.3.0 by arfer loaded
+[11:54:29] Random commit v1.0
+[11:54:29] compliment HackPat @ FreeNode
+[11:54:29] durby: Found trf package. Fast lane activated!
+[11:54:29] durby 0.3.0 has been loaded.
+[11:54:29] egghttp.tcl API v1.1.0 by strikelight now loaded.
+[11:54:29] *Loaded* 01,11-FML- Random by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[11:54:29] Justdabomb2's High Low Script Loaded
+[11:54:29] Horoscope Script by Ford_Lawnmower successfully loaded!
+[11:54:29] .:Loaded:. ignore.tcl - HackPat@Freenode
+[11:54:29] *Loaded* 01,08IMDb by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[11:54:29]  - incith:dictionary-1.9 loaded.
+[11:54:29] Incith:Google: https supported: tls package found.
+[11:54:29] incith:google-2.1x: Loaded. (hrz version, long live hrz! Zanzibar I owe you a joint or three!)
+[11:54:29] incith:google-2.1x :: Http: 2.7.7;BotIsPatched: 0;EncodingSystem: utf-8;Tcl: 8.5;Eggdrop: 1.6.21;Suzi: NO
+[11:54:29]  - incith:weather-2.9c loaded.
+[11:54:29] Insulterrrrrrr HackPat @ FreeNode
+[11:54:29] Last Spoke tracker by Pistos (evolved by speechles) -- loaded
+[11:54:29] Insulterrrrrrr HackPat @ FreeNode
+[11:54:29] .:Loaded:. register.tcl - HackPat@freenode
+[11:54:29] Tcl error in file 'eggdrop.conf':
+[11:54:29] wrong # args: should be "proc name args body"
+    while executing
+"proc nsfw:pub {nick host hand chan arg} {
+  set page [myRand 0 50]
+  set arg1 [lindex $arg 0]
+  set arg2 [lindex $arg 1]
+  set theurl "https://api.img..."
+    (file "scripts/rannsfw.tcl" line 142)
+    invoked from within
+"source scripts/rannsfw.tcl"
+    (file "eggdrop.conf" line 1405)
+[11:54:29] * CONFIG FILE NOT LOADED (NOT FOUND, OR ERROR)
