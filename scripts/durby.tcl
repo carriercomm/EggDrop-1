@@ -269,9 +269,8 @@ variable durbyCollectTitles  1
 # <--- end of config; script begins
 
 package require http
-if {![catch {package require tls}]} { 
-   http::register https 443 tls::socket
-}
+package require tls
+http::register https 443 tls::socket
 if {([lsearch [info commands] zlib] == -1) && ([catch {package require zlib} error] !=0)} {
   if {([catch {package require Trf} error] == 0) || ([lsearch [info commands] zip] != -1)} {
     putlog "durby: Found trf package. Fast lane activated!"
