@@ -154,6 +154,9 @@ proc nsfw:pub {nick host hand chan arg} {
     return ""
   }
   if {[regexp {^([0-9]+)$} $arg1]} {
+  	if {$arg1 > 10} {
+  		set arg1 10
+  	}
     set listnsfw ""
     for {set i 0} {$i < $arg1} {incr i} {
       set randata [lindex $data $i]
@@ -179,6 +182,9 @@ proc nsfw:pub {nick host hand chan arg} {
 		  if {$arg2 == "" || $arg2 == 0} {
 		  	set arg2 1
 		  }
+		if {$arg2 > 10} {
+  			set arg2 10
+  		}
     	for {set i 0} {$i < $arg2} {incr i} {
     		set randata [lindex $data $i]
 	        if {[regexp -nocase {link (.*?) reddit_comments} $randata " " link]} {
