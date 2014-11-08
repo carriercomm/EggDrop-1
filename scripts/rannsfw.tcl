@@ -177,13 +177,13 @@ proc nsfw:pub {nick host hand chan arg} {
 	    }
 	    putserv "PRIVMSG $chan :\002NSFW\002 Random Tities/Ass/Pussy/Whoknows $listnsfw"
 	  } elseif {[regexp {^([a-zA-Z]+)$} $arg1]} {
-	  		  set theurl "https://api.imgur.com/3/gallery/r/$arg1/top/day/$page"
+	  		  set theurl "https://api.imgur.com/3/gallery/r/$arg1/top/day/"
 			  dict set hdr Authorization "Client-ID cefb2e6ae32f74f"
 			  http::register https 443 [list ::tls::socket -tls1 1]
 			  set token [http::geturl $theurl -headers $hdr -query]
 			  set responseBody [::json::json2dict [http::data $token]]
 			  set data [lindex $responseBody 1]
-			  set linkid [myRand 0 2]
+			  set linkid [myRand 0 150]
 			  set imagedata [lindex $data $linkid]
 			  set listnsfw ""
 				if {$arg2 == "" || $arg2 == 0} {
