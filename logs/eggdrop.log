@@ -135,3 +135,11 @@
 [07:49:55] Lost dcc connection to SS_Patric (telnet@127.0.0.1/49512)
 [07:50:00] 14<chanstats> saving data (14schedule) --> saved (1441), discarded (140)
 [07:50:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[07:59:14] Last message repeated 1 time(s).
+[07:59:14] Telnet connection: 127.0.0.1/44187
+[07:59:14] Timeout/EOF ident connection
+[07:59:21] Logged in: SS_Patric (telnet@127.0.0.1/44187)
+[07:59:40] #SS_Patric# help
+[07:59:46] #SS_Patric# (#patstestingroom) channel
+[08:00:00] 14<chanstats> saving data (14schedule) --> saved (1441), discarded (140)
+[08:00:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
