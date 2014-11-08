@@ -1173,3 +1173,77 @@
 [10:34:13] Writing channel file...
 [10:34:13] Userfile loaded, unpacking...
 [10:35:00] #No! (+psCtn) : [m/23 o/4 h/0 v/0 n/19 b/1 e/0 I/0]
+[10:35:07] #SS_Patric# rehash
+[10:35:07] Writing user file...
+[10:35:07] Writing channel file...
+[10:35:07] Rehashing ...
+[10:35:07] Writing channel file...
+[10:35:07] Listening at telnet port 9123 (all).
+[10:35:07] beer.tcl v.1.beta1 by SpiKe^^ loaded
+[10:35:07] bseen1.4.2c:  -- Bass's SEEN loaded --
+[10:35:07] 14<chanstats> version 1.3.0 by arfer loaded
+[10:35:07] Random commit v1.0
+[10:35:07] compliment HackPat @ FreeNode
+[10:35:07] durby: Found trf package. Fast lane activated!
+[10:35:07] durby 0.3.0 has been loaded.
+[10:35:07] egghttp.tcl API v1.1.0 by strikelight now loaded.
+[10:35:07] *Loaded* 01,11-FML- Random by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[10:35:07] Justdabomb2's High Low Script Loaded
+[10:35:07] Horoscope Script by Ford_Lawnmower successfully loaded!
+[10:35:07] .:Loaded:. ignore.tcl - HackPat@Freenode
+[10:35:07] *Loaded* 01,08IMDb by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[10:35:07]  - incith:dictionary-1.9 loaded.
+[10:35:07] Incith:Google: https supported: tls package found.
+[10:35:07] incith:google-2.1x: Loaded. (hrz version, long live hrz! Zanzibar I owe you a joint or three!)
+[10:35:07] incith:google-2.1x :: Http: 2.7.7;BotIsPatched: 0;EncodingSystem: utf-8;Tcl: 8.5;Eggdrop: 1.6.21;Suzi: NO
+[10:35:07]  - incith:weather-2.9c loaded.
+[10:35:07] Insulterrrrrrr HackPat @ FreeNode
+[10:35:07] Last Spoke tracker by Pistos (evolved by speechles) -- loaded
+[10:35:07] Insulterrrrrrr HackPat @ FreeNode
+[10:35:07] .:Loaded:. register.tcl - HackPat@freenode
+[10:35:07] .:Loaded:. rannsfw.tcl - HackPat@Freenode
+[10:35:07] *Loaded* 08,07UrbanDictionary v1.01 by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[10:35:07] *Loaded* 01,00You00,04Tube URL check V 00.03 by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[10:35:07] Loading dccwhois.tcl...
+[10:35:07] Loaded dccwhois.tcl
+[10:35:07] Userinfo TCL v1.07 loaded (URL BF GF IRL EMAIL DOB PHONE ICQ).
+[10:35:07] use '.help userinfo' for commands.
+[10:35:07] Writing channel file...
+[10:35:07] Userfile loaded, unpacking...
+[10:35:11] Tcl error [nsfw:pub]: key "id" not known in dictionary
+[10:35:42] #SS_Patric# rehash
+[10:35:42] Writing user file...
+[10:35:42] Writing channel file...
+[10:35:42] Rehashing ...
+[10:35:42] Writing channel file...
+[10:35:42] Listening at telnet port 9123 (all).
+[10:35:42] beer.tcl v.1.beta1 by SpiKe^^ loaded
+[10:35:42] bseen1.4.2c:  -- Bass's SEEN loaded --
+[10:35:42] 14<chanstats> version 1.3.0 by arfer loaded
+[10:35:42] Random commit v1.0
+[10:35:42] compliment HackPat @ FreeNode
+[10:35:42] durby: Found trf package. Fast lane activated!
+[10:35:42] durby 0.3.0 has been loaded.
+[10:35:42] egghttp.tcl API v1.1.0 by strikelight now loaded.
+[10:35:42] *Loaded* 01,11-FML- Random by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[10:35:42] Justdabomb2's High Low Script Loaded
+[10:35:42] Horoscope Script by Ford_Lawnmower successfully loaded!
+[10:35:42] .:Loaded:. ignore.tcl - HackPat@Freenode
+[10:35:42] *Loaded* 01,08IMDb by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[10:35:42]  - incith:dictionary-1.9 loaded.
+[10:35:42] Incith:Google: https supported: tls package found.
+[10:35:42] incith:google-2.1x: Loaded. (hrz version, long live hrz! Zanzibar I owe you a joint or three!)
+[10:35:42] incith:google-2.1x :: Http: 2.7.7;BotIsPatched: 0;EncodingSystem: utf-8;Tcl: 8.5;Eggdrop: 1.6.21;Suzi: NO
+[10:35:42]  - incith:weather-2.9c loaded.
+[10:35:42] Insulterrrrrrr HackPat @ FreeNode
+[10:35:42] Last Spoke tracker by Pistos (evolved by speechles) -- loaded
+[10:35:42] Insulterrrrrrr HackPat @ FreeNode
+[10:35:42] .:Loaded:. register.tcl - HackPat@freenode
+[10:35:42] .:Loaded:. rannsfw.tcl - HackPat@Freenode
+[10:35:42] *Loaded* 08,07UrbanDictionary v1.01 by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[10:35:42] *Loaded* 01,00You00,04Tube URL check V 00.03 by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[10:35:42] Loading dccwhois.tcl...
+[10:35:42] Loaded dccwhois.tcl
+[10:35:42] Userinfo TCL v1.07 loaded (URL BF GF IRL EMAIL DOB PHONE ICQ).
+[10:35:42] use '.help userinfo' for commands.
+[10:35:4

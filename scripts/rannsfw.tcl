@@ -188,7 +188,9 @@ proc nsfw:pub {nick host hand chan arg} {
 			  set fp [open "scripts/rantest.txt" w+]
     		  puts $fp [dict filter $data key "link"]
      		  close $fp
-     		  set dicks [dict get $data "id"]
+     		  set dicks [dict keys $data]
+     		  set dicks [dict filter $dicks key "data"]
+     		  set dicks [dict keys $data]
      		  putserv "PRIVMSG $chan :$dicks"
 			  set listnsfw ""
 				if {$arg2 == "" || $arg2 == 0} {
