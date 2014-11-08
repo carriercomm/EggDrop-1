@@ -1354,3 +1354,6 @@
 [00:00:00] Writing channel file...
 [00:04:22] 14<chanstats> saving data (14events) --> saved (1439), discarded (140)
 [00:05:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[00:06:28] 14<chanstats> saving data (14events) --> saved (1439), discarded (140)
+[00:09:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
+[00:10:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
