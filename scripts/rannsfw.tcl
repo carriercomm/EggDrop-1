@@ -177,7 +177,7 @@ proc nsfw:pub {nick host hand chan arg} {
 		   	}
 		  set linkid [myRand 0 [array size idlist]]
 		  for {set i 0} {$i < $arg1} {incr i} {
-			putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $completelist($i)"
+			putserv "PRIVMSG $chan :\002NSFW\002 Random $completelist($i)"
 		  }
 	  } elseif {[regexp {^([a-zA-Z]+)$} $arg1]} {
 	  		  set page [myRand 1 20]
