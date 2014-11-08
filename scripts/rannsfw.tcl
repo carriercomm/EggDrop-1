@@ -186,7 +186,7 @@ proc nsfw:pub {nick host hand chan arg} {
 			  set linkid [myRand 0 150]
 			  set imagedata [lindex $data $linkid]
 			  set fp [open "scripts/rantest.txt" w+]
-    		  puts $fp [dict filter $data key {"data"}]
+    		  puts $fp [dict filter {$responseBody} value {"data"}]
      		  close $fp
 			  set listnsfw ""
 				if {$arg2 == "" || $arg2 == 0} {
