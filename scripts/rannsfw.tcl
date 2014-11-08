@@ -139,6 +139,8 @@ proc gif:pub {nick host hand chan arg} {
 }
 proc nsfw:pub {nick host hand chan arg} {
   set page [myRand 0 50]
+  set arg1 [lindex $arg 0]
+  set arg2 [lindex $arg 1]
   set theurl "https://api.imgur.com/3/gallery/r/nsfw/time/$page"
   dict set hdr Authorization "Client-ID cefb2e6ae32f74f"
   http::register https 443 [list ::tls::socket -tls1 1]
@@ -147,13 +149,13 @@ proc nsfw:pub {nick host hand chan arg} {
   set data [lindex $responseBody 1]
   set linkid [myRand 0 30]
   set imagedata [lindex $data $linkid]
-  if {$arg == "help"} {
+  if {$arg1 == "help"} {
     putserv "PRIVMSG $chan :\002NSFW\002 use !tits for random tits, !ass for random ass, !pussy for random pussy, !nsfw for random porn, !nsfw NUMBER for a list of porn"
-    return "hai"
+    return ""
   }
-  if {$arg != "" && $arg != "help"} {
+  if {[regexp {^([0-9]+)$} $arg1]} {
     set listnsfw ""
-    for {set i 0} {$i < $arg} {incr i} {
+    for {set i 0} {$i < $arg1} {incr i} {
       set randata [lindex $data $i]
         if {[regexp -nocase {link (.*?) reddit_comments} $randata " " link]} {
           regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
@@ -164,7 +166,15 @@ proc nsfw:pub {nick host hand chan arg} {
         }
     }
     putserv "PRIVMSG $chan :\002NSFW\002 Random Tities/Ass/Pussy/Whoknows $listnsfw"
-  } else {
+  } elseif {[regexp {^([a-zA-Z]+)$} $arg1]} {
+  		  set theurl "https://api.imgur.com/3/gallery/r/$arg1/time/$page"
+		  dict set hdr Authorization "Client-ID cefb2e6ae32f74f"
+		  http::register https 443 [list ::tls::socket -tls1 1]
+		  set token [http::geturl $theurl -headers $hdr -query]
+		  set responseBody [::json::json2dict [http::data $token]]
+		  set data [lindex $responseBody 1]
+		  set linkid [myRand 0 30]
+		  set imagedata [lindex $data $linkid]
         if {[regexp -nocase {link (.*?) reddit_comments} $imagedata " " link]} {
           regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
           regsub -nocase -- {looping true} $link "" link
@@ -176,7 +186,20 @@ proc nsfw:pub {nick host hand chan arg} {
         } else {
           set title "Title Unknown"
         }
-        putserv "PRIVMSG $chan :\002NSFW\002 Random Tities/Ass/Pussy/Whoknows $link - Title: $title"
+        putserv "PRIVMSG $chan :\002NSFW\002 Random $arg2 $link - Title: $title"
+  } else {
+  	    if {[regexp -nocase {link (.*?) reddit_comments} $imagedata " " link]} {
+          regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
+          regsub -nocase -- {looping true} $link "" link
+        } else {
+          set link "Wohhh there cowboy, slow down!"
+        }
+        if {[regexp -nocase {title {(.*?)} description} $imagedata " " title]} {
+          regsub -nocase -- {title {(.*?)} description} $title "\\1" title
+        } else {
+          set title "Title Unknown"
+        }
+        putserv "PRIVMSG $chan :\002NSFW\002 Random porn $link - Title: $title"
   }
   
   http::cleanup $token
