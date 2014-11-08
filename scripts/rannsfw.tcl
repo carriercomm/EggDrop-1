@@ -185,11 +185,12 @@ proc nsfw:pub {nick host hand chan arg} {
 			  set data [dict filter $responseBody key "data"]
 			  set linkid [myRand 0 150]
 			  set imagedata [lindex $data $linkid]
+			  foreach link [dict get $responseBody data] { 
+				  putlog "[dict get $link title]" 
+			  }
 			  set fp [open "scripts/rantest.txt" w+]
     		  puts $fp [dict filter $data key "link"]
      		  close $fp
-     		  set dicks [dict get $data data id]
-     		  putserv "PRIVMSG $chan :$dicks"
 			  set listnsfw ""
 				if {$arg2 == "" || $arg2 == 0} {
 					set arg2 1
