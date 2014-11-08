@@ -1,11 +1,7 @@
 #EggDrop-Scripts
-===============
-
 Just a place to put my scripts
 
 #rannsfw.tcl
-
-===============
   
 	Commands: 
 	---------
@@ -19,8 +15,6 @@ Just a place to put my scripts
 
 #ignore.tcl
 
-===============
-
 	Commands: 
 	---------
 	OPs:  !ignore add <*!*host@mask.etc> <duration> <reason>
@@ -30,7 +24,6 @@ Just a place to put my scripts
 
 
 #register.tcl
-===============
 
 	Commands: 
 	---------
