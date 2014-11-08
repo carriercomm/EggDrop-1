@@ -186,7 +186,7 @@ proc nsfw:pub {nick host hand chan arg} {
 			  set linkid [myRand 0 150]
 			  set imagedata [lindex $data $linkid]
 			  foreach link [dict get $responseBody data] { 
-				  putlog "[dict get $link title]" 
+				  putlog "[dict get $link title id]" 
 			  }
 			  set fp [open "scripts/rantest.txt" w+]
     		  puts $fp [dict filter $data key "link"]
