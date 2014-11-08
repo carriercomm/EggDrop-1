@@ -200,7 +200,7 @@ proc nsfw:pub {nick host hand chan arg} {
 		   		}
 		   		unset i
 		   		if {$arg2 == 1} {
-		   			putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $listnsfw $listtitle"
+		   			putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $completelist(0)"
 		   		} else {
 		   			for {set i 0} {$i < $arg2} {incr i} {
 		   				putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $completelist($i)"
