@@ -218,7 +218,7 @@ proc nsfw:pub {nick host hand chan arg} {
 		   			putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $listnsfw $listtitle"
 		   		} else {
 		   			for {set i 0} {$i < $arg2} {incr i} {
-		   				putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $listnsfw($i) - $listtitle($i)"
+		   				putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $listnsfw(1) - $listtitle(1)"
 		   			}
 		   		}
 	        
