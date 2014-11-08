@@ -1275,3 +1275,8 @@
 [21:09:00] Last message repeated 1 time(s).
 [21:09:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
 [21:10:00] #No! (+psCtn) : [m/23 o/6 h/0 v/0 n/17 b/1 e/0 I/0]
+[21:11:05] Tcl error [weburlwatch]: can't read "doctype": no such variable
+[21:11:05] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[21:12:00] Backing up seen data...
+[21:14:47] Lost dcc connection to SS_Patric (telnet@127.0.0.1/46353)
+[21:15:00] #No! (+psCtn) : [m/23 o/6 h/0 v/0 n/17 b/1 e/0 I/0]
