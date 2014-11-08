@@ -270,7 +270,7 @@ variable durbyCollectTitles  1
 
 package require http
 package require tls
-http::register https 443 tls::socket
+http::register https 443 [list ::tls::socket -tls1 1 -ssl2 0 -ssl3 0]
 if {([lsearch [info commands] zlib] == -1) && ([catch {package require zlib} error] !=0)} {
   if {([catch {package require Trf} error] == 0) || ([lsearch [info commands] zip] != -1)} {
     putlog "durby: Found trf package. Fast lane activated!"
