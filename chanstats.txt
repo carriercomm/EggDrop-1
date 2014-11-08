@@ -3,7 +3,7 @@ hackpat@#hardfolding 1415457095 28 87 0 0 0 0 0 0 0 0
 an|0n@#no! 1415454151 33 119 0 0 0 2 1 0 1 0
 pattesthack@#patstestingroom 1415429806 11 31 0 0 0 1 0 0 0 0
 shadow__away@#hardfolding 1415453552 0 0 0 0 0 2 0 0 2 0
-pattesttwo@#patstestingroom 1415458246 18 36 0 0 0 1 0 0 0 0
+pattesttwo@#patstestingroom 1415458698 21 42 0 0 0 1 0 0 0 0
 scraps@#no! 1415437345 8222 43122 21 0 0 94 31 18 86 10
 c_c-away@#no! 1415447976 30 104 0 1 0 4 0 0 5 27
 nixziz@#no! 1415458385 366 1492 2 0 0 7 2 0 3 1
@@ -14,7 +14,7 @@ wakwaka69@#no! 1415420952 1 1 0 0 0 1 0 0 1 0
 chimp@#no! 1415430146 0 0 0 0 0 1 0 0 0 1
 pepejovi@#no! 1415353586 70 244 0 0 0 1 0 0 1 0
 [march]@#no! 1415445478 0 0 0 0 0 0 0 0 1 0
-sc0tty8@#hardfolding 1415456954 1 6 0 0 0 0 0 0 0 0
+sc0tty8@#hardfolding 1415458498 2 7 0 0 0 0 0 0 0 0
 hackpat@#no! 1415457019 1457 7123 7 0 0 2 0 0 1 3
 deeeebs@#no! 1415391935 42 150 0 0 0 2 0 0 2 0
 c_c@#no! 1415447931 4222 27090 1 12 0 13 1 0 9 36
@@ -35,9 +35,10 @@ wfeather[edm]@#no! 1415374658 203 850 3 0 1 0 0 0 1 2
 nixziz-c00p@#no! 1415403209 69 265 0 0 0 3 0 0 3 0
 derbear@#no! 1415413369 12 85 0 0 0 1 0 0 1 0
 an|0n@#hardfolding 1415454151 8 18 0 0 0 0 0 0 1 0
+foxtrotniner@#hardfolding 1415458541 3 7 0 0 0 0 0 0 0 0
 blitzcraptop@#no! 1415421435 598 3411 7 2 0 76 0 0 77 0
 chanserv@#patstestingroom 1415428196 0 0 0 0 0 0 2 0 0 0
-nixziz@#hardfolding 1415458177 3 20 0 0 0 3 0 0 2 0
+nixziz@#hardfolding 1415458637 6 33 0 0 0 3 0 0 2 0
 paradigm84@#no! 1415299723 6 21 0 0 0 1 0 0 1 0
 norxwork@#no! 1415286752 9 63 0 0 0 1 0 0 1 0
 pattesthack@#no! 1415428196 0 0 0 0 0 1 0 0 0 0

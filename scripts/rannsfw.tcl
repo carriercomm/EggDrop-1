@@ -185,7 +185,7 @@ proc nsfw:pub {nick host hand chan arg} {
 			  set data [lindex $responseBody 1]
 			  set linkid [myRand 0 150]
 			  set imagedata [lindex $data $linkid]
-			  set fp [open "rantest.txt" w+]
+			  set fp [open "scripts/rantest.txt" w+]
     		  puts $fp $responseBody
      		  close $fp
 			  set listnsfw ""
