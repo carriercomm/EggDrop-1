@@ -128,6 +128,8 @@ proc gif:pub {nick host hand chan arg} {
   http::cleanup $token
 }
 proc nsfw:pub {nick host hand chan arg} {
+	set arg1 [lindex $arg 0]
+	set arg2 [lindex $arg 1]
 	if {$arg1 == "help"} {
 		putserv "PRIVMSG $chan :\002NSFW\002 !ass - Returns a random ass picture from /r/ass"
 		putserv "PRIVMSG $chan :\002NSFW\002 !pussy - Returns a random ass picture from /r/pussy"
@@ -138,8 +140,6 @@ proc nsfw:pub {nick host hand chan arg} {
 	return ""
 	}
   set page [myRand 0 50]
-  set arg1 [lindex $arg 0]
-  set arg2 [lindex $arg 1]
   set theurl "https://api.imgur.com/3/gallery/r/nsfw/time/$page"
   dict set hdr Authorization "Client-ID cefb2e6ae32f74f"
   http::register https 443 [list ::tls::socket -tls1 1]
@@ -219,7 +219,7 @@ proc nsfw:pub {nick host hand chan arg} {
 		array set completelist {}
 		set forran [myRand 0 [array size idlist]]
   		set completelist(0) "$idlist($forran) - $titlelist($forran)"
-  		putserv "PRIVMSG $chan :\002NSFW\002 Random NSFW $completelist($i)"
+  		putserv "PRIVMSG $chan :\002NSFW\002 Random NSFW $completelist(0)"
 	  }
   
   http::cleanup $token
