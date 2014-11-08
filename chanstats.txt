@@ -5,7 +5,7 @@ an|0n@#no! 1415454151 33 119 0 0 0 2 1 0 1 0
 shadow__away@#hardfolding 1415453552 0 0 0 0 0 2 0 0 2 0
 nixziz@#no! 1415458385 366 1492 2 0 0 7 2 0 3 1
 c_c-away@#no! 1415447976 30 104 0 1 0 4 0 0 5 27
-scraps@#no! 1415472215 8223 43123 21 0 0 94 31 18 86 10
+scraps@#no! 1415472390 8224 43124 21 0 0 94 31 18 86 10
 pattesttwo@#patstestingroom 1415469683 128 259 0 0 0 1 0 0 1 0
 vipershark@#no! 1415419418 0 0 0 0 0 0 0 0 1 0
 wfeather@#hardfolding 1415464991 6 31 0 0 0 0 0 0 0 0
@@ -42,7 +42,6 @@ foxtrotniner@#hardfolding 1415458541 3 7 0 0 0 0 0 0 0 0
 blitzcraptop@#no! 1415421435 598 3411 7 2 0 76 0 0 77 0
 chanserv@#patstestingroom 1415428196 0 0 0 0 0 0 2 0 0 0
 nixziz@#hardfolding 1415458637 6 33 0 0 0 3 0 0 2 0
-paradigm84@#no! 1415299723 6 21 0 0 0 1 0 0 1 0
 pattesthack@#no! 1415428196 0 0 0 0 0 1 0 0 0 0
 disturbed@#no! 1415471504 18865 73600 743 2 0 169 41 5 180 117
 joshphone@#no! 1415426402 34 114 0 0 0 11 0 0 11 0
