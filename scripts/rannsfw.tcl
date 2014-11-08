@@ -206,16 +206,20 @@ proc nsfw:pub {nick host hand chan arg} {
 				if {$arg2 > 10} {
 		  			set arg2 10
 		  		}
+		  		unset i
 		    	for {set i 0} {$i < $arg2} {incr i} {
 		    		set forran [myRand 0 [array size idlist]]
 		    		lappend listnsfw $idlist($forran)
 		    		lappend listtitle $titlelist($forran)
 
 		   		}
+		   		unset i
 		   		if {$arg2 == 1} {
-		   			putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $listnsfw "
+		   			putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $listnsfw $listtitle"
 		   		} else {
-		   			putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $listnsfw - $listtitle"
+		   			for {set i 0} {$i < $arg2} {incr i} {
+		   				putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $listnsfw($i) - $listtitle($i)"
+		   			}
 		   		}
 	        
 	  } else {
