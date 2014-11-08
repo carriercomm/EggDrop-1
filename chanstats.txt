@@ -1,13 +1,13 @@
 amdphenomx4_c@#no! 1415428417 0 0 0 0 0 1 0 0 1 0
 chanserv@#patstestingroom 1415428196 0 0 0 0 0 0 2 0 0 0
 mbudden@#no! 1415447971 518 2211 0 0 0 14 4 1 8 16
-hackpat@#hardfolding 1415452823 21 61 0 0 0 0 0 0 0 0
+hackpat@#hardfolding 1415452837 24 80 0 0 0 0 0 0 0 0
 blitzcraptop2@#no! 1415419726 1 1 0 0 0 1 0 0 1 0
 chimp@#no! 1415430146 0 0 0 0 0 1 0 0 0 1
 pattesthack@#patstestingroom 1415429806 11 31 0 0 0 1 0 0 0 0
 an|0n@#no! 1415449522 33 119 0 0 0 2 1 0 0 0
 paradigm84@#no! 1415299723 6 21 0 0 0 1 0 0 1 0
-shadow__away@#hardfolding 1415451952 0 0 0 0 0 1 0 0 1 0
+shadow__away@#hardfolding 1415453204 0 0 0 0 0 1 0 0 2 0
 pepejovi@#no! 1415353586 70 244 0 0 0 1 0 0 1 0
 norxwork@#no! 1415286752 9 63 0 0 0 1 0 0 1 0
 [march]@#no! 1415445478 0 0 0 0 0 0 0 0 1 0
@@ -36,7 +36,7 @@ wfeather@#hardfolding 1415451822 4 18 0 0 0 0 0 0 0 0
 mcdoublehigh@#no! 1415377125 133 340 0 0 0 0 0 0 1 0
 nixziz-c00p@#no! 1415403209 69 265 0 0 0 3 0 0 3 0
 wfeather[edm]@#no! 1415374658 203 850 3 0 1 0 0 0 1 2
-an|0n@#hardfolding 1415452378 7 17 0 0 0 0 0 0 0 0
+an|0n@#hardfolding 1415453136 8 18 0 0 0 0 0 0 0 0
 likekayne@#no! 1415438187 8 35 0 0 0 0 0 0 0 1
 joshhuman@#no! 1415412493 1728 8542 1 0 2 214 3 8 202 3
 disturbed_@#no! 1415386781 43 174 4 0 0 19 1 0 8 10

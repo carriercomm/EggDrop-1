@@ -168,3 +168,7 @@
 [08:18:14] Lost dcc connection to SS_Patric (telnet@127.0.0.1/44187)
 [08:20:00] 14<chanstats> saving data (14schedule) --> saved (1446), discarded (140)
 [08:20:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[08:20:23] 14<chanstats> saving data (14events) --> saved (1446), discarded (140)
+[08:25:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[08:30:00] 14<chanstats> saving data (14schedule) --> saved (1446), discarded (140)
+[08:30:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
