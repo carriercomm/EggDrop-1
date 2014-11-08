@@ -1623,4 +1623,10 @@
 [10:47:55] *Loaded* 01,00You00,04Tube URL check V 00.03 by Ford_Lawnmower irc.GeekShed.net #Script-Help
 [10:47:55] Loading dccwhois.tcl...
 [10:47:55] Loaded dccwhois.tcl
-[10:47:55] Userinfo TCL v1.07 loaded (URL BF GF IRL EMAIL DO
+[10:47:55] Userinfo TCL v1.07 loaded (URL BF GF IRL EMAIL DOB PHONE ICQ).
+[10:47:55] use '.help userinfo' for commands.
+[10:47:55] Writing channel file...
+[10:47:55] Userfile loaded, unpacking...
+[10:48:03] Tcl error [nsfw:pub]: missing value to go with key
+[10:50:00] 14<chanstats> saving data (14schedule) --> saved (1450), discarded (140)
+[10:50:00] #No! (+psCtn) : [m/23 o/4 h/0 v/0 n/19 b/1 e/0 I/0]
