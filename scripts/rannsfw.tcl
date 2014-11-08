@@ -196,7 +196,9 @@ proc nsfw:pub {nick host hand chan arg} {
 				  set titlelist($i) [dict get $link title]
 				  lappend titlelist() $i
 			  }
-			  putserv "PRIVMSG $chan : [parray idlist]"
+			    foreach idx [lsort [array names idlist]] {
+			  		putlog "$idlist(1)"
+				}
 			  set fp [open "scripts/rantest.txt" w+]
     		  puts $fp [dict filter $data key "link"]
      		  close $fp
