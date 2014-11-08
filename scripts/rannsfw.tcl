@@ -161,8 +161,8 @@ proc nsfw:pub {nick host hand chan arg} {
 	    return ""
 	  }
 	  if {[regexp {^([0-9]+)$} $arg1]} {
-	  	if {$arg1 > 10} {
-	  		set arg1 10
+	  	if {$arg1 > 4} {
+	  		set arg1 4
 	  	}
 	    set listnsfw ""
 	    for {set i 0} {$i < $arg1} {incr i} {
@@ -199,6 +199,7 @@ proc nsfw:pub {nick host hand chan arg} {
 				}
 			  set linkid [myRand 0 [array size idlist]]
 			  set listnsfw ""
+			  set listtitle ""
 				if {$arg2 == "" || $arg2 == 0} {
 					set arg2 1
 				}
@@ -206,12 +207,15 @@ proc nsfw:pub {nick host hand chan arg} {
 		  			set arg2 10
 		  		}
 		    	for {set i 0} {$i < $arg2} {incr i} {
-		    		lappend listnsfw $idlist([myRand 0 [array size idlist]])
+		    		set forran [myRand 0 [array size idlist]]
+		    		lappend listnsfw $idlist($forran)
+		    		lappend listtitle $titlelist($forran)
+
 		   		}
 		   		if {$arg2 == 1} {
-		   			putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $listnsfw"
+		   			putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $listnsfw "
 		   		} else {
-		   			putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $listnsfw"
+		   			putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $listnsfw - $listtitle"
 		   		}
 	        
 	  } else {
