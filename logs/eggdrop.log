@@ -204,3 +204,54 @@
 [09:30:00] Last message repeated 1 time(s).
 [09:30:00] 14<chanstats> saving data (14schedule) --> saved (1448), discarded (140)
 [09:30:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[09:30:19] 14<chanstats> saving data (14events) --> saved (1448), discarded (140)
+[09:35:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[09:36:42] Register: <AMDPhenomX4_c/#No!> succesfully updated host to ~AMDPhenom@unaffiliated/amdphenomx4
+[09:39:23] Telnet connection: 127.0.0.1/49970
+[09:39:23] Timeout/EOF ident connection
+[09:39:26] Bad Password: [SS_Patric]telnet@127.0.0.1/49970
+[09:39:28] Telnet connection: 127.0.0.1/50061
+[09:39:28] Timeout/EOF ident connection
+[09:39:31] Bad Password: [SS_Patric]telnet@127.0.0.1/50061
+[09:39:32] Telnet connection: 127.0.0.1/50142
+[09:39:32] Timeout/EOF ident connection
+[09:39:34] Logged in: SS_Patric (telnet@127.0.0.1/50142)
+[09:39:37] #SS_Patric# rehash
+[09:39:37] Writing user file...
+[09:39:37] Writing channel file...
+[09:39:37] Rehashing ...
+[09:39:37] Writing channel file...
+[09:39:37] Listening at telnet port 9123 (all).
+[09:39:37] beer.tcl v.1.beta1 by SpiKe^^ loaded
+[09:39:37] bseen1.4.2c:  -- Bass's SEEN loaded --
+[09:39:37] 14<chanstats> version 1.3.0 by arfer loaded
+[09:39:37] Random commit v1.0
+[09:39:37] compliment HackPat @ FreeNode
+[09:39:37] durby: Found trf package. Fast lane activated!
+[09:39:37] durby 0.3.0 has been loaded.
+[09:39:37] egghttp.tcl API v1.1.0 by strikelight now loaded.
+[09:39:37] *Loaded* 01,11-FML- Random by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[09:39:37] Justdabomb2's High Low Script Loaded
+[09:39:37] Horoscope Script by Ford_Lawnmower successfully loaded!
+[09:39:37] .:Loaded:. ignore.tcl - HackPat@Freenode
+[09:39:37] *Loaded* 01,08IMDb by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[09:39:37]  - incith:dictionary-1.9 loaded.
+[09:39:37] Incith:Google: https supported: tls package found.
+[09:39:37] incith:google-2.1x: Loaded. (hrz version, long live hrz! Zanzibar I owe you a joint or three!)
+[09:39:37] incith:google-2.1x :: Http: 2.7.7;BotIsPatched: 0;EncodingSystem: utf-8;Tcl: 8.5;Eggdrop: 1.6.21;Suzi: NO
+[09:39:37]  - incith:weather-2.9c loaded.
+[09:39:37] Insulterrrrrrr HackPat @ FreeNode
+[09:39:37] Last Spoke tracker by Pistos (evolved by speechles) -- loaded
+[09:39:37] Insulterrrrrrr HackPat @ FreeNode
+[09:39:37] .:Loaded:. register.tcl - HackPat@freenode
+[09:39:37] .:Loaded:. rannsfw.tcl - HackPat@Freenode
+[09:39:37] *Loaded* 08,07UrbanDictionary v1.01 by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[09:39:37] *Loaded* 01,00You00,04Tube URL check V 00.03 by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[09:39:37] Loading dccwhois.tcl...
+[09:39:37] Loaded dccwhois.tcl
+[09:39:37] Userinfo TCL v1.07 loaded (URL BF GF IRL EMAIL DOB PHONE ICQ).
+[09:39:37] use '.help userinfo' for commands.
+[09:39:37] Writing channel file...
+[09:39:37] Userfile loaded, unpacking...
+[09:40:00] 14<chanstats> saving data (14schedule) --> saved (1448), discarded (140)
+[09:40:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
