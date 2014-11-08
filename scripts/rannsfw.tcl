@@ -183,8 +183,6 @@ proc nsfw:pub {nick host hand chan arg} {
 			  set token [http::geturl $theurl -headers $hdr -query]
 			  set responseBody [::json::json2dict [http::data $token]]
 			  set data [dict filter $responseBody key "data"]
-			  set linkid [myRand 0 150]
-			  set imagedata [lindex $data $linkid]
 			  set i 0
 			  array set idlist {}
 			  set idlist(id) {}
@@ -198,10 +196,7 @@ proc nsfw:pub {nick host hand chan arg} {
 			    foreach idx [lsort [array names idlist]] {
 			  		putlog "$idlist($idx) $titlelist($idx)"
 				}
-				putlog [array size idlist]
-			  set fp [open "scripts/rantest.txt" w+]
-    		  puts $fp [dict filter $data key "link"]
-     		  close $fp
+			  set linkid [myRand 0 [array size idlist]]
 			  set listnsfw ""
 				if {$arg2 == "" || $arg2 == 0} {
 					set arg2 1
@@ -210,22 +205,10 @@ proc nsfw:pub {nick host hand chan arg} {
 		  			set arg2 10
 		  		}
 		    	for {set i 0} {$i < $arg2} {incr i} {
-		    		set randata [lindex $data $i]
-			        if {[regexp -nocase {link (.*?) reddit_comments} $randata " " link]} {
-			          regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
-			          regsub -nocase -- {looping true} $link "" link
-			          lappend listnsfw $link
-			        } else {
-			          set link "Wohhh there cowboy, slow down!"
-			        }
-			        if {[regexp -nocase {title {(.*?)} description} $imagedata " " title]} {
-			          regsub -nocase -- {title {(.*?)} description} $title "\\1" title
-			        } else {
-			          set title "Title Unknown"
-			        }
+		    		lappend listnsfw $idlist([myRand 0 [array size idlist]])
 		   		}
 		   		if {$arg2 == 1} {
-		   			putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $link - Title: $title"
+		   			putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $listnsfw"
 		   		} else {
 		   			putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $listnsfw"
 		   		}
