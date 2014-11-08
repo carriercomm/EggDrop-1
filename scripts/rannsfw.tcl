@@ -192,12 +192,12 @@ proc nsfw:pub {nick host hand chan arg} {
 			  set titlelist(title) {}
 			  foreach link [dict get $responseBody data] {
 				  set idlist($i) [dict get $link id]
-				  lappend idlist() $i
 				  set titlelist($i) [dict get $link title]
 				  lappend titlelist() $i
+				  incr i
 			  }
 			    foreach idx [lsort [array names idlist]] {
-			  		putlog "$idlist(1)"
+			  		putlog "$idlist($idx)"
 				}
 			  set fp [open "scripts/rantest.txt" w+]
     		  puts $fp [dict filter $data key "link"]
