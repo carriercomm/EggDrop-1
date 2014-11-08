@@ -186,7 +186,7 @@ proc nsfw:pub {nick host hand chan arg} {
         } else {
           set title "Title Unknown"
         }
-        putserv "PRIVMSG $chan :\002NSFW\002 Random $arg2 $link - Title: $title"
+        putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $link - Title: $title"
   } else {
   	    if {[regexp -nocase {link (.*?) reddit_comments} $imagedata " " link]} {
           regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
