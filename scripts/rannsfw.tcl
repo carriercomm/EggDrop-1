@@ -19,10 +19,12 @@
 # SOFTWARE.
 # Commands: 
 # ---------
-# OPs:  !ignore add <*!*host@mask.etc> <duration> <reason>
-#       !ignore add <nick> <duration> <reason>
-#       !ignore del *!*host@mask.etc
-#       !ignores
+# Public:   !ass - Returns a random ass picture from /r/ass
+#       	!pussy - Returns a random ass picture from /r/pussy
+#       	!tits - Returns a random ass picture from /r/Boobies
+#       	!gif - Returns a random gif picture from /r/NSFW_GIF
+#       	!nsfw [number] - Returns a list of random pictures from /r/nsfw
+#       	!nsfw [subreddit] [number] - Returns a list of random pictures from /r/[subreddit]
 package require http
 package require tls
 package require json
@@ -150,7 +152,12 @@ proc nsfw:pub {nick host hand chan arg} {
   set linkid [myRand 0 30]
   set imagedata [lindex $data $linkid]
   if {$arg1 == "help"} {
-    putserv "PRIVMSG $chan :\002NSFW\002 use !tits for random tits, !ass for random ass, !pussy for random pussy, !nsfw for random porn, !nsfw NUMBER for a list of porn"
+	putserv "PRIVMSG $chan :\002NSFW\002 !ass - Returns a random ass picture from /r/ass"
+	putserv "PRIVMSG $chan :\002NSFW\002 !pussy - Returns a random ass picture from /r/pussy"
+	putserv "PRIVMSG $chan :\002NSFW\002 !tits - Returns a random ass picture from /r/Boobies"
+	putserv "PRIVMSG $chan :\002NSFW\002 !gif - Returns a random gif picture from /r/NSFW_GIF"
+	putserv "PRIVMSG $chan :\002NSFW\002 !nsfw \[number\] - Returns a list of random pictures from /r/nsfw"
+	putserv "PRIVMSG $chan :\002NSFW\002 !nsfw \[subreddit\] \[number\] - Returns a list of random pictures from /r/\[subreddit\]"
     return ""
   }
   if {[regexp {^([0-9]+)$} $arg1]} {
