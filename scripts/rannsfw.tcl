@@ -182,11 +182,11 @@ proc nsfw:pub {nick host hand chan arg} {
 			  http::register https 443 [list ::tls::socket -tls1 1]
 			  set token [http::geturl $theurl -headers $hdr -query]
 			  set responseBody [::json::json2dict [http::data $token]]
-			  set data [dict filter $data key "data"]
+			  set data [lindex $responseBody 1]
 			  set linkid [myRand 0 150]
 			  set imagedata [lindex $data $linkid]
 			  set fp [open "scripts/rantest.txt" w+]
-    		  puts $fp $data
+    		  puts $fp [dict filter $data key {"data"}]
      		  close $fp
 			  set listnsfw ""
 				if {$arg2 == "" || $arg2 == 0} {
