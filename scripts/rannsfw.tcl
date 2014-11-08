@@ -50,7 +50,6 @@ proc tits:pub {nick host hand chan arg} {
   http::register https 443 [list ::tls::socket -tls1 1]
   set token [http::geturl $theurl -headers $hdr -query]
   set responseBody [::json::json2dict [http::data $token]]
-  set data [dict filter $responseBody key "data"]
   set i 0
   array set idlist {}
   array set titlelist {}
@@ -72,21 +71,18 @@ proc ass:pub {nick host hand chan arg} {
   http::register https 443 [list ::tls::socket -tls1 1]
   set token [http::geturl $theurl -headers $hdr -query]
   set responseBody [::json::json2dict [http::data $token]]
-  set data [lindex $responseBody 1]
-  set linkid [myRand 0 30]
-  set imagedata [lindex $data $linkid]
-	  if {[regexp -nocase {link (.*?) reddit_comments} $imagedata " " link]} {
-	    regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
-	    regsub -nocase -- {looping true} $link "" link
-	  } else {
-	    set link "Wohhh there cowboy, slow down!"
-	  }
-	  if {[regexp -nocase {title {(.*?)} description} $imagedata " " title]} {
-	    regsub -nocase -- {title {(.*?)} description} $title "\\1" title
-	  } else {
-	    set title "Title Unknown"
-	  }
-  putserv "PRIVMSG $chan :\002NSFW\002 Your random ass! $link - Title: $title"
+  set i 0
+  array set idlist {}
+  array set titlelist {}
+  foreach link [dict get $responseBody data] {
+	  set idlist($i) [dict get $link link]
+	  set titlelist($i) [dict get $link title]
+	  incr i
+  }
+  array set completelist {}
+  set forran [myRand 0 [array size idlist]]
+  set completelist(0) "$idlist($forran) - $titlelist($forran)"
+  putserv "PRIVMSG $chan :\002NSFW\002 Your random ass! $completelist(0)"
   http::cleanup $token
 }
 proc pussy:pub {nick host hand chan arg} {
@@ -96,21 +92,18 @@ proc pussy:pub {nick host hand chan arg} {
   http::register https 443 [list ::tls::socket -tls1 1]
   set token [http::geturl $theurl -headers $hdr -query]
   set responseBody [::json::json2dict [http::data $token]]
-  set data [lindex $responseBody 1]
-  set linkid [myRand 0 30]
-  set imagedata [lindex $data $linkid]
-	  if {[regexp -nocase {link (.*?) reddit_comments} $imagedata " " link]} {
-	    regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
-	    regsub -nocase -- {looping true} $link "" link
-	  } else {
-	    set link "Wohhh there cowboy, slow down!"
-	  }
-	  if {[regexp -nocase {title {(.*?)} description} $imagedata " " title]} {
-	    regsub -nocase -- {title {(.*?)} description} $title "\\1" title
-	  } else {
-	    set title "Title Unknown"
-	  }
-  putserv "PRIVMSG $chan :\002NSFW\002 Your random pussy! $link - Title: $title"
+  set i 0
+  array set idlist {}
+  array set titlelist {}
+  foreach link [dict get $responseBody data] {
+	  set idlist($i) [dict get $link link]
+	  set titlelist($i) [dict get $link title]
+	  incr i
+  }
+  array set completelist {}
+  set forran [myRand 0 [array size idlist]]
+  set completelist(0) "$idlist($forran) - $titlelist($forran)"
+  putserv "PRIVMSG $chan :\002NSFW\002 Your random pussy! $completelist(0)"
   http::cleanup $token
 }
 proc gif:pub {nick host hand chan arg} {
@@ -120,21 +113,18 @@ proc gif:pub {nick host hand chan arg} {
   http::register https 443 [list ::tls::socket -tls1 1]
   set token [http::geturl $theurl -headers $hdr -query]
   set responseBody [::json::json2dict [http::data $token]]
-  set data [lindex $responseBody 1]
-  set linkid [myRand 0 30]
-  set imagedata [lindex $data $linkid]
-	  if {[regexp -nocase {link (.*?) reddit_comments} $imagedata " " link]} {
-	    regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
-	    regsub -nocase -- {looping true} $link "" link
-	  } else {
-	    set link "Wohhh there cowboy, slow down!"
-	  }
-	  if {[regexp -nocase {title {(.*?)} description} $imagedata " " title]} {
-	    regsub -nocase -- {title {(.*?)} description} $title "\\1" title
-	  } else {
-	    set title "Title Unknown"
-	  }
-  putserv "PRIVMSG $chan :\002NSFW\002 Your random porn gif! $link - Title: $title"
+  set i 0
+  array set idlist {}
+  array set titlelist {}
+  foreach link [dict get $responseBody data] {
+	  set idlist($i) [dict get $link link]
+	  set titlelist($i) [dict get $link title]
+	  incr i
+  }
+  array set completelist {}
+  set forran [myRand 0 [array size idlist]]
+  set completelist(0) "$idlist($forran) - $titlelist($forran)"
+  putserv "PRIVMSG $chan :\002NSFW\002 Your random gif! $completelist(0)"
   http::cleanup $token
 }
 proc nsfw:pub {nick host hand chan arg} {
