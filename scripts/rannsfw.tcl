@@ -175,18 +175,31 @@ proc nsfw:pub {nick host hand chan arg} {
 		  set data [lindex $responseBody 1]
 		  set linkid [myRand 0 30]
 		  set imagedata [lindex $data $linkid]
-        if {[regexp -nocase {link (.*?) reddit_comments} $imagedata " " link]} {
-          regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
-          regsub -nocase -- {looping true} $link "" link
-        } else {
-          set link "Wohhh there cowboy, slow down!"
-        }
-        if {[regexp -nocase {title {(.*?)} description} $imagedata " " title]} {
-          regsub -nocase -- {title {(.*?)} description} $title "\\1" title
-        } else {
-          set title "Title Unknown"
-        }
-        putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $link - Title: $title"
+		  set listnsfw ""
+		  if {$arg2 == "" || $arg2 == 0} {
+		  	set arg2 1
+		  }
+    	for {set i 0} {$i < $arg2} {incr i} {
+    		set randata [lindex $data $i]
+	        if {[regexp -nocase {link (.*?) reddit_comments} $randata " " link]} {
+	          regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
+	          regsub -nocase -- {looping true} $link "" link
+	          lappend listnsfw $link
+	        } else {
+	          set link "Wohhh there cowboy, slow down!"
+	        }
+	        if {[regexp -nocase {title {(.*?)} description} $imagedata " " title]} {
+	          regsub -nocase -- {title {(.*?)} description} $title "\\1" title
+	        } else {
+	          set title "Title Unknown"
+	        }
+   		}
+   		if {$arg2 == 1} {
+   			putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $link - Title: $title"
+   		} else {
+   			putserv "PRIVMSG $chan :\002NSFW\002 Random $arg1 $listnsfw"
+   		}
+        
   } else {
   	    if {[regexp -nocase {link (.*?) reddit_comments} $imagedata " " link]} {
           regsub -nocase -- {link (.*?) reddit_comments} $link "\\1" link
