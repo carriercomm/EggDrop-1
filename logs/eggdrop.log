@@ -5686,3 +5686,6 @@
 [01:14:55] Timeout/EOF ident connection
 [01:14:58] Logged in: SS_Patric (telnet@127.0.0.1/44287)
 [01:15:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[01:15:02] #SS_Patric# -chan #hardfolding
+[01:16:00] 14<chanstats> saving data (14schedule) --> saved (1445), discarded (1411)
+[01:20:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
