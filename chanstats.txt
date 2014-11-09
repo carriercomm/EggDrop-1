@@ -9,6 +9,7 @@ scraps@#no! 1415490688 8252 43230 21 0 0 94 31 18 86 10
 pattesttwo@#patstestingroom 1415469683 128 259 0 0 0 1 0 0 1 0
 vipershark@#no! 1415419418 0 0 0 0 0 0 0 0 1 0
 wfeather@#hardfolding 1415464991 6 31 0 0 0 0 0 0 0 0
+amdphenomx4q_@#no! 1415491187 0 0 0 0 0 1 0 0 0 0
 likekayne@#no! 1415438187 8 35 0 0 0 0 0 0 0 1
 wakwaka69@#no! 1415420952 1 1 0 0 0 1 0 0 1 0
 blitz6804@#no! 1415490723 75 384 2 2 0 1 0 0 0 0
@@ -31,7 +32,7 @@ bowner@#hardfolding 1415487302 1 3 0 2 2 1 0 0 0 0
 amdphenomx4@#no! 1415460537 82 436 0 0 0 72 2 2 66 0
 kephael@#hardfolding 1415463961 0 0 0 0 0 1 0 0 0 0
 b-_@#no! 1415355287 0 0 0 0 0 1 0 0 0 1
-amdphenomx4q@#no! 1415387748 16 73 0 0 0 0 0 0 0 0
+amdphenomx4q@#no! 1415491213 16 73 0 0 0 0 0 0 1 0
 sc0tty8@#no! 1415463687 0 0 0 0 0 2 2 0 0 0
 citrus@#no! 1415475370 0 0 0 0 0 1 0 0 1 0
 mcdoublehigh@#no! 1415377125 133 340 0 0 0 0 0 0 1 0
