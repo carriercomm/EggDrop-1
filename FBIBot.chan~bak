@@ -1,4 +1,4 @@
-#Dynamic Channel File for FBIBot (eggdrop v1.6.21) -- written Fri Nov  7 23:00:00 2014
+#Dynamic Channel File for FBIBot (eggdrop v1.6.21) -- written Sat Nov  8 23:00:00 2014
 
 channel add #patstestingroom { chanmode +tn idle-kick 0 stopnethack-mode 0 revenge-mode 0 need-op {} need-invite {} need-key {} need-unban {} need-limit {} flood-chan 5:10 flood-ctcp 3:60 flood-join 5:60 flood-kick 3:10 flood-deop 3:10 flood-nick 5:60 aop-delay 5:30 ban-type 3 ban-time 30 exempt-time 60 invite-time 60 -enforcebans -dynamicbans +userbans -autoop -autohalfop -bitch +greet +protectops -protecthalfops -protectfriends +dontkickops -statuslog -revenge -revengebot -autovoice -secret +shared +cycle -seen -inactive +dynamicexempts +userexempts +dynamicinvites +userinvites -nodesynch -static }
 channel set #patstestingroom +udef-flag-chanstats
@@ -24,3 +24,15 @@ channel set #No! +udef-flag-weather
 channel set #No! +udef-flag-spokesecret
 channel set #No! +udef-flag-ud
 channel set #No! +udef-flag-youtubeURL
+channel add #hardfolding { chanmode +tn idle-kick 0 stopnethack-mode 0 revenge-mode 0 need-op {} need-invite {} need-key {} need-unban {} need-limit {} flood-chan 10:10 flood-ctcp 3:60 flood-join 5:60 flood-kick 3:10 flood-deop 3:10 flood-nick 5:60 aop-delay 5:30 ban-type 3 ban-time 30 exempt-time 60 invite-time 60 -enforcebans +dynamicbans +userbans -autoop -autohalfop -bitch +greet +protectops -protecthalfops -protectfriends +dontkickops -statuslog -revenge -revengebot -autovoice -secret +shared +cycle -seen -inactive +dynamicexempts +userexempts +dynamicinvites +userinvites -nodesynch -static }
+channel set #hardfolding +udef-flag-chanstats
+channel set #hardfolding +udef-flag-durby
+channel set #hardfolding +udef-flag-fml
+channel set #hardfolding -udef-flag-horo
+channel set #hardfolding -udef-flag-imdb
+channel set #hardfolding -udef-flag-dictionary
+channel set #hardfolding +udef-flag-google
+channel set #hardfolding +udef-flag-weather
+channel set #hardfolding -udef-flag-spokesecret
+channel set #hardfolding -udef-flag-ud
+channel set #hardfolding +udef-flag-youtubeURL
