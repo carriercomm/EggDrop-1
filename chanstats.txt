@@ -21,7 +21,7 @@ wfeather@#no! 1415577371 29 92 0 2 0 0 0 0 0 0
 mbudden@#no! 1415529378 519 2215 0 0 0 14 4 1 8 17
 blitzcraptop2@#no! 1415419726 1 1 0 0 0 1 0 0 1 0
 amdphenomx4@#no! 1415542717 82 436 0 0 0 73 2 2 67 0
-blitzshitbox@#no! 1415580206 11 61 0 0 0 1 1 0 1 0
+blitzshitbox@#no! 1415580368 11 61 0 0 0 1 1 0 1 1
 cyrious@#no! 1415562923 0 0 0 0 0 1 0 0 1 0
 amdphenomx4q@#no! 1415491213 16 73 0 0 0 0 0 0 1 0
 sc0tty8@#no! 1415497631 0 0 0 0 0 3 3 0 0 0
@@ -29,7 +29,7 @@ nixzizzz@#no! 1415529477 3 7 0 0 0 0 0 0 0 1
 wheredeyatdoe@#no! 1415531998 10 42 0 0 0 0 0 0 0 0
 citrus@#no! 1415475370 0 0 0 0 0 1 0 0 1 0
 derbear@#no! 1415413369 12 85 0 0 0 1 0 0 1 0
-blitzcraptop@#no! 1415421435 598 3411 7 2 0 76 0 0 77 0
+blitzcraptop@#no! 1415580503 601 3415 7 2 0 77 0 0 78 0
 chanserv@#patstestingroom 1415428196 0 0 0 0 0 0 2 0 0 0
 paradigm84@#no! 1415487120 1 10 0 0 0 0 0 0 0 0
 pattesthack@#no! 1415508011 0 0 0 0 0 1 0 0 1 0
