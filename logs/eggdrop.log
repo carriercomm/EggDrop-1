@@ -9,3 +9,6 @@
 [03:19:22] 14<chanstats> saving data (14events) --> saved (1426), discarded (140)
 [03:19:22] incith:weather-2.9c: <Cyrious/#No!> !forecast 23606
 [03:20:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[03:20:29] incith:weather-2.9c: <C_C/#No!> !forecast 83404
+[03:20:34] incith:weather-2.9c: <C_C/#No!> !weather 83404
+[03:25:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
