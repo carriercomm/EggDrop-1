@@ -1,4 +1,4 @@
-#4v: eggdrop v1.6.21 -- FBIBot -- written Mon Nov 10 23:00:00 2014
+#4v: eggdrop v1.6.21 -- FBIBot -- written Tue Nov 11 23:00:00 2014
 SS_Patric  - hjlmnoptx               
 ! #no!                 1405702944 -          
 --HOSTS *!*fuckyou@*.hstntx.sbcglobal.net
@@ -39,11 +39,11 @@ Deeeebs    - hp
 --XTRA created 1411234619
 --LASTON 1415043144 #No!
 Disturbed  - hp                      
---HOSTS *!*Disturbed1@unaffiliated/disturbed117
---HOSTS *!*Disturbed@unaffiliated/disturbed117
 --XTRA incith:weather.location 40419
 --XTRA created 1411248860
---LASTON 1415666635 #No!
+--HOSTS *!*Disturbed1@unaffiliated/disturbed117
+--HOSTS *!*Disturbed@unaffiliated/disturbed117
+--LASTON 1415764234 #No!
 sc0tty8    - hp                      
 --HOSTS *!*sc0tty8@208.83.207.*
 --HOSTS *!*sc0tty8@*.xtratyme.com
@@ -54,23 +54,23 @@ JoshHuman  - hp
 --HOSTS *!*Josh@*.fios.verizon.net
 --HOSTS *!*Josh@*.smr-ubr2.sbo-smr.ma.cable.rcn.com
 --HOSTS *!*Josh@unaffiliated/joshhuman
+--LASTON 1415746168 #No!
 --XTRA created 1411312514
 --XTRA incith:weather.location 02143
---LASTON 1415066098 #No!
 C_C        - hp                      
 --HOSTS *!*aef00526@*.240.5.38
 --HOSTS *!*aef00825@*.240.8.37
 --HOSTS *!*C_C@unaffiliated/c-c/x-3838806
+--LASTON 1415743674 #No!
 --XTRA created 1411358986
 --XTRA incith:weather.location 83404
---LASTON 1415583322 #No!
 NorxxMAL   - hp                      
 --HOSTS *!*sans@70.32.38.*
 --HOSTS *!*sans@unaffiliated/norxmal
 --HOSTS *!*sans@*.bb.online.no
 --HOSTS *!*identd@70.32.38.*
 --HOSTS *!*identd@unaffiliated/norxmal
---LASTON 1415463532 #No!
+--LASTON 1415721228 #No!
 --XTRA created 1411735517
 --XTRA incith:weather.location Oslo Norway
 Scraps     - hp                      
@@ -93,7 +93,7 @@ BodenM-No  - hp
 AMDPhenom  - hp                      
 --HOSTS *!*quassel@unaffiliated/amdphenomx4
 --HOSTS *!*AMDPhenom@unaffiliated/amdphenomx4
---LASTON 1415596025 #No!
+--LASTON 1415739678 #No!
 --XTRA created 1414650022
 --XTRA incith:weather.location worcester Massachusetts
 joshphone  - hp                      
