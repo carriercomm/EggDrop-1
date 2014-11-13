@@ -27,6 +27,7 @@ amdphenomx4@#no! 1415806324 82 436 0 0 0 77 2 2 72 0
 cyrious@#no! 1415772161 168 1657 0 0 0 1 0 0 1 0
 disturbed[away]@#no! 1415860682 1 9 0 0 0 0 0 0 2 3
 drunkpat@#no! 1415809616 0 0 0 0 0 0 0 0 0 1
+hackpat_cloud@#no! 1415862792 0 0 0 0 0 1 0 0 0 0
 blitzcraptop@#no! 1415860664 1022 5768 15 2 0 116 0 0 119 0
 chanserv@#patstestingroom 1415854849 0 0 0 0 0 0 1 0 0 0
 pattesthack@#no! 1415854864 2 6 0 0 0 1 0 0 0 1
