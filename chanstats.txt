@@ -24,7 +24,7 @@ wfeather@#no! 1415925039 63 233 0 2 0 0 0 0 0 0
 jegelskernorge@#no! 1415900629 0 0 0 0 0 0 0 0 0 1
 mbudden@#no! 1415923855 660 2666 0 0 0 18 6 1 10 19
 hackpat@#patstestingroom 1415858919 0 0 0 0 0 0 1 0 0 0
-nixc00p@#no! 1415925356 307 1310 13 0 0 3 0 0 2 0
+nixc00p@#no! 1415925373 309 1325 13 0 0 3 0 0 2 0
 c_c|2@#no! 1415823123 2 3 0 0 0 1 0 0 0 1
 amdphenomx4@#no! 1415806324 82 436 0 0 0 77 2 2 72 0
 cyrious@#no! 1415772161 168 1657 0 0 0 1 0 0 1 0
@@ -32,7 +32,7 @@ dr_r3@#patstestingroom 1415898551 0 0 0 0 0 0 0 0 1 0
 disturbed[away]@#no! 1415860682 1 9 0 0 0 0 0 0 2 3
 drunkpat@#no! 1415809616 0 0 0 0 0 0 0 0 0 1
 hackpat_cloud@#no! 1415863637 1 1 0 0 0 1 0 0 0 1
-blitzcraptop@#no! 1415925256 1025 5794 15 2 0 128 0 0 132 0
+blitzcraptop@#no! 1415925648 1025 5794 15 2 0 129 0 0 133 0
 chanserv@#patstestingroom 1415898464 0 0 0 0 0 0 2 0 0 0
 drr3@#patstestingroom 1415898467 0 0 0 0 0 1 0 0 0 1
 pattesthack@#no! 1415854864 2 6 0 0 0 1 0 0 0 1
