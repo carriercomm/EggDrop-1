@@ -34,7 +34,7 @@ disturbed[away]@#no! 1415860682 1 9 0 0 0 0 0 0 2 3
 drunkpat@#no! 1415809616 0 0 0 0 0 0 0 0 0 1
 citrus@#no! 1415938702 1 1 0 0 0 1 0 0 0 0
 hackpat_cloud@#no! 1415863637 1 1 0 0 0 1 0 0 0 1
-blitzcraptop@#no! 1415935837 1146 6378 17 2 0 130 0 0 134 0
+blitzcraptop@#no! 1415940004 1146 6378 17 2 0 132 0 0 135 0
 chanserv@#patstestingroom 1415898464 0 0 0 0 0 0 2 0 0 0
 drr3@#patstestingroom 1415898467 0 0 0 0 0 1 0 0 0 1
 pattesthack@#no! 1415854864 2 6 0 0 0 1 0 0 0 1
