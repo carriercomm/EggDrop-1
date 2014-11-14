@@ -1,4 +1,4 @@
-#4v: eggdrop v1.6.21 -- FBIBot -- written Wed Nov 12 23:00:00 2014
+#4v: eggdrop v1.6.21 -- FBIBot -- written Thu Nov 13 23:00:00 2014
 SS_Patric  - hjlmnoptx               
 ! #no!                 1405702944 -          
 --HOSTS *!*fuckyou@*.hstntx.sbcglobal.net
@@ -11,12 +11,12 @@ SS_Patric  - hjlmnoptx
 --XTRA incith:weather.location 77449
 --XTRA created 1385184819
 HackPat    - hjlmnoptx               
+--XTRA incith:weather.location 77449
+--XTRA created 1411233652
 --HOSTS *!*sid43215@gateway/web/irccloud.com/x-twlymzxnbruycsio
 --HOSTS *!*HackPat@*.hudson.bz
 --HOSTS *!*HackPat@2001:19f0:6400:8041::*
---XTRA incith:weather.location 77449
---XTRA created 1411233652
---LASTON 1415396494 #No!
+--LASTON 1415862792 #No!
 NixZiZ     - hp                      
 --HOSTS *!*NixZiZ@184.146.181.*
 --HOSTS *!*d87e5147@*.126.81.71
@@ -40,10 +40,11 @@ Deeeebs    - hp
 --LASTON 1415043144 #No!
 Disturbed  - hp                      
 --HOSTS *!*Disturbed1@unaffiliated/disturbed117
+--HOSTS *!*Disturbed@40.136.24.*
 --HOSTS *!*Disturbed@unaffiliated/disturbed117
 --XTRA incith:weather.location 40419
 --XTRA created 1411248860
---LASTON 1415848418 #No!
+--LASTON 1415934190 #No!
 sc0tty8    - hp                      
 --HOSTS *!*sc0tty8@208.83.207.*
 --HOSTS *!*sc0tty8@*.xtratyme.com
@@ -70,7 +71,7 @@ NorxxMAL   - hp
 --HOSTS *!*sans@*.bb.online.no
 --HOSTS *!*identd@70.32.38.*
 --HOSTS *!*identd@unaffiliated/norxmal
---LASTON 1415721228 #No!
+--LASTON 1415924162 #No!
 --XTRA created 1411735517
 --XTRA incith:weather.location Oslo Norway
 Scraps     - hp                      
@@ -93,7 +94,7 @@ BodenM-No  - hp
 AMDPhenom  - hp                      
 --HOSTS *!*quassel@unaffiliated/amdphenomx4
 --HOSTS *!*AMDPhenom@unaffiliated/amdphenomx4
---LASTON 1415806324 #No!
+--LASTON 1415860972 #No!
 --XTRA created 1414650022
 --XTRA incith:weather.location worcester Massachusetts
 joshphone  - hp                      
