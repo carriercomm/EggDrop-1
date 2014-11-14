@@ -452,3 +452,8 @@
 [20:46:05] 14<chanstats> saving data (14events) --> saved (1444), discarded (140)
 [20:50:00] Last message repeated 1 time(s).
 [20:50:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[20:50:18] 14<chanstats> saving data (14events) --> saved (1444), discarded (140)
+[20:51:51] incith:weather-2.9c: <JoshHuman/#No!> !weather 02143
+[20:52:24] incith:weather-2.9c: <C_C/#No!> !weather 83404
+[20:52:26] incith:weather-2.9c: <C_C/#No!> !forecast 83404
+[20:55:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
