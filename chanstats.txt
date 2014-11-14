@@ -2,7 +2,7 @@ pattesthack@#patstestingroom 1415854864 0 0 0 0 0 1 0 0 0 1
 drr3@#no! 1415898467 0 0 0 0 0 1 0 0 0 1
 nixziz@#no! 1415867219 741 2910 5 0 0 15 5 0 8 2
 c_c-away@#no! 1415907079 33 111 0 1 0 4 0 0 6 32
-scraps@#no! 1415932123 8571 44824 21 0 0 95 32 18 86 10
+scraps@#no! 1415932256 8576 44835 21 0 0 95 32 18 86 10
 amdphenomx4_y@#no! 1415900431 0 0 0 0 0 2 0 0 1 1
 nsavpngogogo@#no! 1415920078 0 0 0 0 0 0 0 0 0 1
 amdphenomx4q_@#no! 1415826125 18 116 0 0 0 0 0 0 0 0
@@ -32,7 +32,7 @@ dr_r3@#patstestingroom 1415898551 0 0 0 0 0 0 0 0 1 0
 disturbed[away]@#no! 1415860682 1 9 0 0 0 0 0 0 2 3
 drunkpat@#no! 1415809616 0 0 0 0 0 0 0 0 0 1
 hackpat_cloud@#no! 1415863637 1 1 0 0 0 1 0 0 0 1
-blitzcraptop@#no! 1415932107 1083 6062 17 2 0 130 0 0 133 0
+blitzcraptop@#no! 1415932257 1088 6116 17 2 0 130 0 0 133 0
 chanserv@#patstestingroom 1415898464 0 0 0 0 0 0 2 0 0 0
 drr3@#patstestingroom 1415898467 0 0 0 0 0 1 0 0 0 1
 pattesthack@#no! 1415854864 2 6 0 0 0 1 0 0 0 1
