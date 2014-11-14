@@ -30,7 +30,7 @@ c_c|2@#no! 1415823123 2 3 0 0 0 1 0 0 0 1
 amdphenomx4@#no! 1415942598 82 436 0 0 0 77 2 2 73 0
 cyrious@#no! 1415959473 18 284 0 0 0 0 0 0 0 0
 dr_r3@#patstestingroom 1415898551 0 0 0 0 0 0 0 0 1 0
-disturbed[away]@#no! 1415860682 1 9 0 0 0 0 0 0 2 3
+disturbed[away]@#no! 1415961767 1 9 0 0 0 0 0 0 3 3
 drunkpat@#no! 1415809616 0 0 0 0 0 0 0 0 0 1
 citrus@#no! 1415943611 4 8 0 0 0 1 0 0 1 0
 hackpat_cloud@#no! 1415863637 1 1 0 0 0 1 0 0 0 1
