@@ -32,7 +32,7 @@ dr_r3@#patstestingroom 1415898551 0 0 0 0 0 0 0 0 1 0
 disturbed[away]@#no! 1415860682 1 9 0 0 0 0 0 0 2 3
 drunkpat@#no! 1415809616 0 0 0 0 0 0 0 0 0 1
 hackpat_cloud@#no! 1415863637 1 1 0 0 0 1 0 0 0 1
-blitzcraptop@#no! 1415925648 1025 5794 15 2 0 129 0 0 133 0
+blitzcraptop@#no! 1415925648 1025 5794 15 2 0 130 0 0 133 0
 chanserv@#patstestingroom 1415898464 0 0 0 0 0 0 2 0 0 0
 drr3@#patstestingroom 1415898467 0 0 0 0 0 1 0 0 0 1
 pattesthack@#no! 1415854864 2 6 0 0 0 1 0 0 0 1
