@@ -242,3 +242,13 @@
 [13:26:00] Last message repeated 1 time(s).
 [13:26:00] 14<chanstats> saving data (14schedule) --> saved (1428), discarded (140)
 [13:30:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
+[13:36:00] Last message repeated 1 time(s).
+[13:36:00] 14<chanstats> saving data (14schedule) --> saved (1428), discarded (140)
+[13:40:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
+[13:44:31] Trying to cycle #patstestingroom to regain ops.
+[13:44:31] Switching back to nick FBIBot
+[13:44:31] -ERROR from server- Closing Link: ny.fedbot.host.cm (Ping timeout: 265 seconds)
+[13:44:31] 14<chanstats> saving data (14disconnect-server) --> saved (1428), discarded (140)
+[13:44:32] 14<chanstats> loading data (14connect-server) --> loaded (1428), discarded (140)
+[13:44:36] NICK IN USE: Trying 'FBIBot-fuckedup'
+[13:44:36] Server says my nickname is invalid.
