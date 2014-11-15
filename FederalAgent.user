@@ -1,4 +1,4 @@
-#4v: eggdrop v1.6.21 -- FBIBot -- written Sat Nov 15 07:00:00 2014
+#4v: eggdrop v1.6.21 -- FBIBot -- written Sat Nov 15 08:00:00 2014
 SS_Patric  - hjlmnoptx               
 ! #no!                 1405702944 -          
 --HOSTS *!*fuckyou@*.hstntx.sbcglobal.net
@@ -18,13 +18,13 @@ HackPat    - hjlmnoptx
 --XTRA created 1411233652
 --LASTON 1415862792 #No!
 NixZiZ     - hp                      
---XTRA incith:weather.location caledon, ontario
---XTRA created 1411233683
 --HOSTS *!*NixZiZ@184.146.181.*
 --HOSTS *!*d87e5147@*.126.81.71
 --HOSTS *!*4066f90d@*.102.249.13
 --HOSTS *!*NixZiZ@*.dsl.bell.ca
 --HOSTS *!*quassel@*.dsl.bell.ca
+--XTRA incith:weather.location caledon, ontario
+--XTRA created 1411233683
 --LASTON 1415814848 #No!
 NotPat     - hp                      
 --HOSTS *!*sid43215@gateway/web/irccloud.com/x-twlymzxnbruycsio
@@ -59,11 +59,11 @@ JoshHuman  - hp
 --XTRA incith:weather.location 02143
 --LASTON 1415746168 #No!
 C_C        - hp                      
---XTRA created 1411358986
---XTRA incith:weather.location 83404
 --HOSTS *!*aef00526@*.240.5.38
 --HOSTS *!*aef00825@*.240.8.37
 --HOSTS *!*C_C@unaffiliated/c-c/x-3838806
+--XTRA created 1411358986
+--XTRA incith:weather.location 83404
 --LASTON 1416004060 #No!
 NorxxMAL   - hp                      
 --HOSTS *!*sans@70.32.38.*
