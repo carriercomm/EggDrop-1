@@ -22,7 +22,6 @@ sc0tty8@#no! 1416025130 3 10 0 0 0 1 1 0 0 0
 dr_r3@#patstestingroom 1415898551 0 0 0 0 0 0 0 0 1 0
 disturbed[away]@#no! 1415961767 1 9 0 0 0 0 0 0 3 3
 citrus@#no! 1416023232 4 8 0 0 0 2 0 0 2 0
-hackpat_cloud@#no! 1415863637 1 1 0 0 0 1 0 0 0 1
 amdphenomx4_o@#no! 1416026209 0 0 0 0 0 1 0 0 1 0
 blitzcraptop@#no! 1416026239 1187 6543 18 2 0 152 0 0 157 0
 chanserv@#patstestingroom 1415898464 0 0 0 0 0 0 2 0 0 0
