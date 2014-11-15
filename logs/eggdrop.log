@@ -535,3 +535,11 @@
 [00:15:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
 [00:16:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
 [00:20:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[00:20:39] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[00:20:39] incith:weather-2.9c: <DrHackPatMD/#No!> !weather 77449
+[00:20:44] incith:weather-2.9c: <C_C/#No!> !forecast 83404
+[00:20:45] incith:weather-2.9c: <DrHackPatMD/#No!> !forecast 77449
+[00:21:10] incith:weather-2.9c: <C_C/#No!> !weather 83404
+[00:21:18] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[00:22:31] Tcl error [weburlwatch]: unknown encoding "ansi_x3.4-1968"
+[00:25:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
