@@ -543,3 +543,5 @@
 [00:21:18] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
 [00:22:31] Tcl error [weburlwatch]: unknown encoding "ansi_x3.4-1968"
 [00:25:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[00:26:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
+[00:30:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
