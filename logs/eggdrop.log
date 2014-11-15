@@ -189,3 +189,5 @@
 [11:04:01] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
 [11:04:59] Tcl error [fml]: can't read "100": no such variable
 [11:05:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[11:06:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
+[11:10:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
