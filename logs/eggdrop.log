@@ -565,3 +565,8 @@
 [01:15:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
 [01:16:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (141)
 [01:20:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[01:26:00] Last message repeated 1 time(s).
+[01:26:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[01:28:38] Telnet connection: 127.0.0.1/36110
+[01:28:38] Timeout/EOF ident connection
+[01:30:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
