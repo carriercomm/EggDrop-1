@@ -252,3 +252,14 @@
 [13:44:32] 14<chanstats> loading data (14connect-server) --> loaded (1428), discarded (140)
 [13:44:36] NICK IN USE: Trying 'FBIBot-fuckedup'
 [13:44:36] Server says my nickname is invalid.
+[13:45:10] -ERROR from server- Closing Link: ny.fedbot.host.cm (Connection timed out)
+[13:45:32] 14<chanstats> loading data (14connect-server) --> loaded (1428), discarded (140)
+[13:45:33] 14<chanstats> initialising time bind (14init-server)
+[13:45:39] FBIBot joined #patstestingroom.
+[13:45:46] FBIBot joined #no!.
+[13:45:49] Trying to cycle #patstestingroom to regain ops.
+[13:45:52] FBIBot joined #patstestingroom.
+[13:49:06] Register: <AMDPhenomX4Q/#No!> succesfully updated host to ~quassel@unaffiliated/amdphenomx4
+[13:50:00] #No! (+psCtn) : [m/23 o/4 h/0 v/0 n/19 b/1 e/0 I/0]
+[13:55:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
+[13:55:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
