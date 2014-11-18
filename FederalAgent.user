@@ -1,4 +1,4 @@
-#4v: eggdrop v1.6.21 -- FBIBot -- written Tue Nov 18 07:00:00 2014
+#4v: eggdrop v1.6.21 -- FBIBot -- written Tue Nov 18 08:00:00 2014
 SS_Patric  - hjlmnoptx               
 ! #no!                 1405702944 -          
 --HOSTS *!*fuckyou@*.hstntx.sbcglobal.net
@@ -108,6 +108,10 @@ nixc00p    - hp
 --LASTON 1416264658 #No!
 --XTRA incith:weather.location caledon, ontario
 --XTRA created 1416264273
+WFeather   - hp                      
+--HOSTS *!*sid35111@gateway/web/irccloud.com/x-ghhmtoptcvqzfvsu
+--XTRA incith:weather.location 32835
+--XTRA created 1416313687
 ::#patstestingroom bans
 ::#No! bans
 &&#patstestingroom exempts
