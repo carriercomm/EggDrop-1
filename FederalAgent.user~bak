@@ -1,4 +1,4 @@
-#4v: eggdrop v1.6.21 -- FBIBot -- written Sun Nov 16 23:00:00 2014
+#4v: eggdrop v1.6.21 -- FBIBot -- written Mon Nov 17 23:00:00 2014
 SS_Patric  - hjlmnoptx               
 ! #no!                 1405702944 -          
 --HOSTS *!*fuckyou@*.hstntx.sbcglobal.net
@@ -23,9 +23,9 @@ NixZiZ     - hp
 --HOSTS *!*4066f90d@*.102.249.13
 --HOSTS *!*NixZiZ@*.dsl.bell.ca
 --HOSTS *!*quassel@*.dsl.bell.ca
+--LASTON 1416221781 #No!
 --XTRA incith:weather.location caledon, ontario
 --XTRA created 1411233683
---LASTON 1416152456 #No!
 NotPat     - hp                      
 --HOSTS *!*sid43215@gateway/web/irccloud.com/x-twlymzxnbruycsio
 --XTRA created 1411234458
@@ -42,7 +42,7 @@ Disturbed  - hp
 --HOSTS *!*Disturbed1@unaffiliated/disturbed117
 --HOSTS *!*Disturbed@40.136.24.*
 --HOSTS *!*Disturbed@unaffiliated/disturbed117
---LASTON 1416196276 #No!
+--LASTON 1416281456 #No!
 --XTRA incith:weather.location 40444
 --XTRA created 1411248860
 sc0tty8    - hp                      
@@ -64,7 +64,7 @@ C_C        - hp
 --HOSTS *!*C_C@unaffiliated/c-c/x-3838806
 --XTRA created 1411358986
 --XTRA incith:weather.location 83404
---LASTON 1416179264 #No!
+--LASTON 1416273989 #No!
 NorxxMAL   - hp                      
 --HOSTS *!*sans@70.32.38.*
 --HOSTS *!*sans@unaffiliated/norxmal
@@ -94,7 +94,7 @@ BodenM-No  - hp
 AMDPhenom  - hp                      
 --HOSTS *!*quassel@unaffiliated/amdphenomx4
 --HOSTS *!*AMDPhenom@unaffiliated/amdphenomx4
---LASTON 1416117671 #No!
+--LASTON 1416266208 #No!
 --XTRA created 1414650022
 --XTRA incith:weather.location worcester Massachusetts
 joshphone  - hp                      
@@ -103,6 +103,11 @@ joshphone  - hp
 --HOSTS *!*androirc@unaffiliated/joshhuman
 --XTRA created 1415321086
 --LASTON 1415426402 #No!
+nixc00p    - hp                      
+--HOSTS *!*4066f907@*.102.249.7
+--LASTON 1416264658 #No!
+--XTRA incith:weather.location caledon, ontario
+--XTRA created 1416264273
 ::#patstestingroom bans
 ::#No! bans
 &&#patstestingroom exempts
