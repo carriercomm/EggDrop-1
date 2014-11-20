@@ -306,3 +306,8 @@
 [15:24:51] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
 [15:25:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
 [15:25:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
+[15:26:23] 14<chanstats> saving data (14events) --> saved (1439), discarded (140)
+[15:27:28] incith:weather-2.9c: <Disturbed/#No!> !forecast 40419
+[15:27:54] incith:weather-2.9c: <IXcrispyXI/#No!> !forecast melton victoria
+[15:29:17] 14<chanstats> saving data (14events) --> saved (1439), discarded (140)
+[15:30:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
