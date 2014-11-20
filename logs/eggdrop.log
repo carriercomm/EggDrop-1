@@ -379,3 +379,8 @@
 [18:05:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
 [18:09:39] 14<chanstats> saving data (14events) --> saved (1437), discarded (140)
 [18:10:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[18:12:00] Backing up seen data...
+[18:12:53] Tcl error [weburlwatch]: unable to convert date-time string "Thu, 20 Nov 2014 22:44:01 +0000": syntax error (characters 31-31)
+[18:12:53] 14<chanstats> saving data (14events) --> saved (1437), discarded (140)
+[18:15:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
+[18:15:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
