@@ -297,3 +297,8 @@
 [15:00:00] Writing channel file...
 [15:05:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
 [15:05:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
+[15:11:24] Last message repeated 1 time(s).
+[15:11:24] 14<chanstats> saving data (14events) --> saved (1439), discarded (140)
+[15:12:00] Backing up seen data...
+[15:15:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
+[15:15:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
