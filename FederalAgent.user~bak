@@ -1,4 +1,4 @@
-#4v: eggdrop v1.6.21 -- FBIBot -- written Wed Nov 19 23:00:00 2014
+#4v: eggdrop v1.6.21 -- FBIBot -- written Thu Nov 20 23:00:00 2014
 SS_Patric  - hjlmnoptx               
 ! #no!                 1405702944 -          
 --HOSTS *!*fuckyou@*.hstntx.sbcglobal.net
@@ -42,9 +42,9 @@ Disturbed  - hp
 --HOSTS *!*Disturbed1@unaffiliated/disturbed117
 --HOSTS *!*Disturbed@40.136.24.*
 --HOSTS *!*Disturbed@unaffiliated/disturbed117
+--LASTON 1416541973 #No!
 --XTRA incith:weather.location 40419
 --XTRA created 1411248860
---LASTON 1416440421 #No!
 sc0tty8    - hp                      
 --HOSTS *!*sc0tty8@208.83.207.*
 --HOSTS *!*sc0tty8@*.xtratyme.com
@@ -64,7 +64,7 @@ C_C        - hp
 --HOSTS *!*C_C@unaffiliated/c-c/x-3838806
 --XTRA created 1411358986
 --XTRA incith:weather.location 83404
---LASTON 1416343598 #No!
+--LASTON 1416520148 #No!
 NorxxMAL   - hp                      
 --HOSTS *!*sans@70.32.38.*
 --HOSTS *!*sans@unaffiliated/norxmal
@@ -94,7 +94,7 @@ BodenM-No  - hp
 AMDPhenom  - hp                      
 --HOSTS *!*quassel@unaffiliated/amdphenomx4
 --HOSTS *!*AMDPhenom@unaffiliated/amdphenomx4
---LASTON 1416377242 #No!
+--LASTON 1416501777 #No!
 --XTRA created 1414650022
 --XTRA incith:weather.location worcester Massachusetts
 joshphone  - hp                      
@@ -105,14 +105,14 @@ joshphone  - hp
 --LASTON 1415426402 #No!
 nixc00p    - hp                      
 --HOSTS *!*4066f907@*.102.249.7
---LASTON 1416444040 #No!
+--LASTON 1416527837 #No!
 --XTRA incith:weather.location caledon, ontario
 --XTRA created 1416264273
 WFeather   - hp                      
 --HOSTS *!*sid35111@gateway/web/irccloud.com/x-ghhmtoptcvqzfvsu
---LASTON 1416437123 #No!
 --XTRA incith:weather.location 32835
 --XTRA created 1416313687
+--LASTON 1416437123 #No!
 ::#patstestingroom bans
 ::#No! bans
 &&#patstestingroom exempts
