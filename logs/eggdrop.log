@@ -447,3 +447,8 @@
 [20:05:37] Register: <Disturbed_/#No!> succesfully updated host to ~Disturbed@unaffiliated/disturbed117
 [20:09:39] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
 [20:10:00] #No! (+psCtn) : [m/21 o/6 h/0 v/1 n/14 b/1 e/0 I/0]
+[20:11:59] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[20:12:00] Backing up seen data...
+[20:13:09] Tcl error [weburlwatch]: can't read "doctype": no such variable
+[20:15:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[20:15:00] #No! (+psCtn) : [m/21 o/6 h/0 v/1 n/14 b/1 e/0 I/0]
