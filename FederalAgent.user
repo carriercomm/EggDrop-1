@@ -1,4 +1,4 @@
-#4v: eggdrop v1.6.21 -- FBIBot -- written Sat Nov 22 10:00:00 2014
+#4v: eggdrop v1.6.21 -- FBIBot -- written Sat Nov 22 11:00:00 2014
 SS_Patric  - hjlmnoptx               
 ! #no!                 1405702944 -          
 --HOSTS *!*fuckyou@*.hstntx.sbcglobal.net
@@ -67,12 +67,12 @@ C_C        - hp
 --XTRA incith:weather.location 83404
 --LASTON 1416621672 #No!
 NorxxMAL   - hp                      
---LASTON 1416663421 #No!
 --HOSTS *!*sans@70.32.38.*
 --HOSTS *!*sans@unaffiliated/norxmal
 --HOSTS *!*sans@*.bb.online.no
 --HOSTS *!*identd@70.32.38.*
 --HOSTS *!*identd@unaffiliated/norxmal
+--LASTON 1416663421 #No!
 --XTRA created 1411735517
 --XTRA incith:weather.location Oslo Norway
 Scraps     - hp                      
@@ -93,9 +93,9 @@ BodenM-No  - hp
 --XTRA created 1412771327
 --LASTON 1412777885 #No!
 AMDPhenom  - hp                      
---HOSTS *!*AMDPhenom@unaffiliated/amdphenomx4
 --HOSTS *!*quassel@unaffiliated/amdphenomx4
---LASTON 1416636039 #No!
+--HOSTS *!*AMDPhenom@unaffiliated/amdphenomx4
+--LASTON 1416669678 #No!
 --XTRA created 1414650022
 --XTRA incith:weather.location worcester Massachusetts
 joshphone  - hp                      
