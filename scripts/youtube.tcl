@@ -3,6 +3,7 @@
 ##############################################################################################
 ## To use this script you must set channel flag +youtubeURL (ie .chanset #chan +youtubeURL) ##
 ##############################################################################################
+package require tls
 ##############################################################################################
 ##  ##                             Start Setup.                                         ##  ##
 ##############################################################################################
@@ -28,7 +29,8 @@ proc youtubesurl {nick host hand chan text} {
       set youtubedislikes ""
       set youtubedate ""
       set youtubefound ""
-      if {[catch {set youtubesock [socket -async $youtubesite 80]} sockerr]} {
+      set youtubeduration ""
+      if {[catch {set youtubesock [tls::socket $youtubesite 443]} sockerr]} {
         putlog "$youtubesite $youtubeurl $sockerr error"
         return 0
       } else {
@@ -48,13 +50,19 @@ proc youtubesurl {nick host hand chan text} {
             set youtubeviews "${tagcolor}Views: ${textf}${youtubeviews}"
           } elseif {[regexp -nocase {watch-like\s[^<>]+><[^<>]+><[^<>]+>([^<>\s]+)\s?<} $youtubevar match youtubelikes]} {
             set youtubelikes "${tagcolor}Likes: ${textf}${youtubelikes}"
-          } elseif {$youtubefound == "found" && [regexp -nocase {watch-time-text..(.*)<\/strong>} $youtubevar match youtubedate]} {
+          } elseif {[regexp -nocase {watch-like\s.+>([^<>]+)\s?<\/span><\/button>} $youtubevar match youtubelikes]} {
+            set youtubelikes "${tagcolor}Likes: ${textf}${youtubelikes}"
+          } elseif {[regexp -nocase {watch-time-text..(.*)<\/strong>} $youtubevar match youtubedate]} {
             set youtubedate "${tagcolor}Uploaded: ${textf}[string map -nocase {"uploaded on" ""} ${youtubedate}]"
-            putserv "PRIVMSG $chan :[yturldehex "${youtubelogo} ${youtubedesc} ${youtubeviews} ${youtubelikes} ${youtubedislikes}"]"   
+            putserv "PRIVMSG $chan :[yturldehex "${youtubelogo} ${youtubedesc} ${youtubeviews} ${youtubelikes} ${youtubedislikes} ${youtubeuser} ${youtubedate} ${youtubeduration}"]"   
             close $youtubesock
             return 0
           } elseif {[regexp -nocase {watch-dislike\s[^<>]+><[^<>]+><[^<>]+>([^<>\s]+)\s?<} $youtubevar match youtubedislikes]} {
             set youtubedislikes "${tagcolor}Dislikes: ${textf}${youtubedislikes}"
+          } elseif {[regexp -nocase {watch-dislike\s.+>([^<>]+)\s?<\/span><\/button>} $youtubevar match youtubedislikes]} {
+            set youtubedislikes "${tagcolor}Dislikes: ${textf}${youtubedislikes}"
+          } elseif {[regexp -nocase {\"duration\"\scontent\=\"([^"]+)\"} $youtubevar match youtubeduration]} {
+            set youtubeduration "${tagcolor}Duration: ${textf}[string map {PT "" M " Minutes " S " Seconds "} $youtubeduration]"
           } elseif {[string match {*id="watch-uploader-info">*} $youtubevar]} {
             set youtubefound "found"
           } elseif {[regexp {<\/body>} $youtubevar 1] != 0} {
@@ -71,7 +79,7 @@ proc youtubesurl {nick host hand chan text} {
 proc yturldehex {string} {
   regsub -all {[\[\]]} $string "" string
   set string [subst [regsub -nocase -all {\&#([0-9]{2});} $string {[format %c \1]}]]
-  return [string map {&quot; \" \xa0 ","} $string]
+  return [encoding convertfrom utf-8 [string map {&quot; \" \xa0 "," &amp; \&} $string]]
 }
 proc yturlencode {instring} {
   return [subst [regsub -nocase -all {([^a-z0-9])} $instring {%[format %x [scan "\\&" %c]]}]]
@@ -79,4 +87,4 @@ proc yturlencode {instring} {
 bind pubm -|- "*youtube.*watch?v=*" youtubesurl
 bind pubm -|- "*youtu.be/*" youtubesurl
 setudef flag youtubeURL
-putlog "\002*Loaded* \00301,00You\00300,04Tube\002\017 \002URL check V 00.03 by Ford_Lawnmower irc.GeekShed.net #Script-Help"
+putlog "\002*Loaded* \00301,00You\00300,04Tube\002\017 \002URL check V 00.05 by Ford_Lawnmower irc.GeekShed.net #Script-Help"
