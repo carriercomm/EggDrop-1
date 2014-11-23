@@ -197,3 +197,9 @@
 [10:40:36] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
 [10:45:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
 [10:45:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[10:46:18] incith:weather-2.9c: <JoshHuman/#No!> !forecast 02143
+[10:46:33] 14<chanstats> saving data (14events) --> saved (1431), discarded (140)
+[10:49:37] incith:weather-2.9c: <Blitz6804/#No!> !weather 43230
+[10:50:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[10:55:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
+[10:55:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
