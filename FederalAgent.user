@@ -1,4 +1,4 @@
-#4v: eggdrop v1.6.21 -- FBIBot -- written Sun Nov 23 04:00:00 2014
+#4v: eggdrop v1.6.21 -- FBIBot -- written Sun Nov 23 05:00:00 2014
 SS_Patric  - hjlmnoptx               
 ! #no!                 1405702944 -          
 --HOSTS *!*fuckyou@*.hstntx.sbcglobal.net
@@ -11,11 +11,11 @@ SS_Patric  - hjlmnoptx
 --XTRA incith:weather.location 77449
 --XTRA created 1385184819
 HackPat    - hjlmnoptx               
---XTRA incith:weather.location 77449
---XTRA created 1411233652
 --HOSTS *!*sid43215@gateway/web/irccloud.com/x-twlymzxnbruycsio
 --HOSTS *!*HackPat@*.hudson.bz
 --HOSTS *!*HackPat@2001:19f0:6400:8041::*
+--XTRA incith:weather.location 77449
+--XTRA created 1411233652
 --LASTON 1416720306 #No!
 NixZiZ     - hp                      
 --HOSTS *!*NixZiZ@184.146.181.*
@@ -23,9 +23,9 @@ NixZiZ     - hp
 --HOSTS *!*4066f90d@*.102.249.13
 --HOSTS *!*NixZiZ@*.dsl.bell.ca
 --HOSTS *!*quassel@*.dsl.bell.ca
+--LASTON 1416735864 #No!
 --XTRA incith:weather.location caledon, ontario
 --XTRA created 1411233683
---LASTON 1416618347 #No!
 NotPat     - hp                      
 --HOSTS *!*sid43215@gateway/web/irccloud.com/x-twlymzxnbruycsio
 --XTRA created 1411234458
@@ -39,12 +39,12 @@ Deeeebs    - hp
 --XTRA incith:weather.location 77377
 --XTRA created 1411234619
 Disturbed  - hp                      
---XTRA incith:weather.location 40419
---XTRA created 1411248860
 --HOSTS *!*Disturbed1@unaffiliated/disturbed117
 --HOSTS *!*Disturbed@40.136.24.*
 --HOSTS *!*Disturbed@40.136.25.*
 --HOSTS *!*Disturbed@unaffiliated/disturbed117
+--XTRA incith:weather.location 40419
+--XTRA created 1411248860
 --LASTON 1416708649 #No!
 sc0tty8    - hp                      
 --HOSTS *!*sc0tty8@208.83.207.*
@@ -60,11 +60,11 @@ JoshHuman  - hp
 --XTRA incith:weather.location 02143
 --LASTON 1415746168 #No!
 C_C        - hp                      
---XTRA created 1411358986
---XTRA incith:weather.location 83404
 --HOSTS *!*aef00526@*.240.5.38
 --HOSTS *!*aef00825@*.240.8.37
 --HOSTS *!*C_C@unaffiliated/c-c/x-3838806
+--XTRA created 1411358986
+--XTRA incith:weather.location 83404
 --LASTON 1416677967 #No!
 NorxxMAL   - hp                      
 --HOSTS *!*sans@70.32.38.*
@@ -76,8 +76,6 @@ NorxxMAL   - hp
 --XTRA created 1411735517
 --XTRA incith:weather.location Oslo Norway
 Scraps     - hp                      
---XTRA created 1411964481
---XTRA incith:weather.location 49855
 --HOSTS *!*sid43620@gateway/web/irccloud.com/x-moqlkrizxuftbxpz
 --HOSTS *!*sid43620@gateway/web/irccloud.com/x-kdfxncjlshdrlmbh
 --HOSTS *!*sid43620@gateway/web/irccloud.com/x-qquorxpmiuqxvjgl
@@ -86,6 +84,8 @@ Scraps     - hp
 --HOSTS *!*sid43620@gateway/web/irccloud.com/x-pzyjfokbaouibgkh
 --HOSTS *!*sid43620@unaffiliated/scrappy
 --HOSTS *!*sid43620@gateway/web/irccloud.com/x-eiqkifpblgoqlyqk
+--XTRA created 1411964481
+--XTRA incith:weather.location 49855
 --LASTON 1415500984 #No!
 BodenM-No  - hp                      
 --HOSTS *!*BodenM@unaffiliated/bodenm
