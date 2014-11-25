@@ -34,3 +34,9 @@
 [04:05:29] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
 [04:10:00] Last message repeated 3 time(s).
 [04:10:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[04:10:32] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
+[04:12:00] Backing up seen data...
+[04:13:24] Tcl error [youtubesurl]: can't read "100": no such variable
+[04:13:24] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
+[04:15:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[04:15:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
