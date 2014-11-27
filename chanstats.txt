@@ -1,11 +1,11 @@
 ghostpat@#patstestingroom 1417127704 0 0 0 0 0 1 0 0 0 1
 chanserv@#patstestingroom 1417127275 0 0 0 0 0 0 1 0 0 0
 mbudden@#no! 1417127267 1153 4960 0 0 0 24 6 1 17 24
-hackpat@#patstestingroom 1417129191 17 33 0 0 0 0 0 0 0 0
-pattesthack@#patstestingroom 1417127751 1 2 0 0 0 1 0 0 0 0
+hackpat@#patstestingroom 1417129490 25 49 0 0 0 0 0 0 0 0
+pattesthack@#patstestingroom 1417129490 1 2 0 0 0 1 1 0 0 0
 an|0n@#no! 1417124937 22 83 0 0 0 2 0 0 0 1
 paradigm84@#no! 1417044751 64 473 0 0 0 0 0 0 0 0
-bowner@#patstestingroom 1417128721 6 50 0 0 0 1 0 0 0 0
+bowner@#patstestingroom 1417129490 6 50 0 1 0 1 0 0 0 0
 ghostpat@#no! 1417127704 290 1196 4 0 0 0 0 0 0 1
 pattesthack@#no! 1417127275 0 0 0 0 0 1 0 0 0 0
 blitzcraptop6@#no! 1417050509 10 38 0 0 0 1 0 0 1 0
@@ -32,4 +32,4 @@ joshn9@#no! 1416973496 29 166 0 0 0 5 0 0 5 0
 disturbed_@#no! 1416970467 2 5 0 0 0 4 0 0 1 3
 joshhuman@#no! 1417107020 96 500 0 0 0 4 0 0 4 0
 blitzcraptopdafu@#no! 1417057316 14 63 2 0 0 1 0 0 1 0
-blitzcraptop@#no! 1417129178 2989 16888 55 5 0 315 1 0 326 0
+blitzcraptop@#no! 1417129269 2992 16911 55 5 0 315 1 0 326 0
