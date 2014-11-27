@@ -44,7 +44,7 @@ proc youtubesurl {nick host hand chan text} {
             set youtubedesc "${tagcolor}Title: ${textf}${youtubedesc}"
           } elseif {[regexp -nocase {\/user\/(.*?)">} $youtubevar match youtubeuser]} {
             set youtubeuser "${tagcolor}Uploader: ${textf}${youtubeuser}"
-          } elseif {[regexp -nocase {<span class="yt-user-name[^>]*>([^<]*)<} $youtubevar match youtubeuser]} {
+          } elseif {[regexp -nocase {class="yt-user-info"><[^<]*>([^<]*)<} $youtubevar match youtubeuser]} {
             set youtubeuser "${tagcolor}Uploader: ${textf}${youtubeuser}"
           } elseif {[regexp -nocase {watch-view-count"\s?>([^\x20]*)<} $youtubevar match youtubeviews]} {
             set youtubeviews "${tagcolor}Views: ${textf}${youtubeviews}"
@@ -87,4 +87,4 @@ proc yturlencode {instring} {
 bind pubm -|- "*youtube.*watch?v=*" youtubesurl
 bind pubm -|- "*youtu.be/*" youtubesurl
 setudef flag youtubeURL
-putlog "\002*Loaded* \00301,00You\00300,04Tube\002\017 \002URL check V 00.05 by Ford_Lawnmower irc.GeekShed.net #Script-Help"
+putlog "\002*Loaded* \00301,00You\00300,04Tube\002\017 \002URL check V 00.06 by Ford_Lawnmower irc.GeekShed.net #Script-Help"
