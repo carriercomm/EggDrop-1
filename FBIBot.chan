@@ -1,4 +1,4 @@
-#Dynamic Channel File for FBIBot (eggdrop v1.6.21) -- written Fri Nov 28 17:00:00 2014
+#Dynamic Channel File for FBIBot (eggdrop v1.6.21) -- written Fri Nov 28 18:00:00 2014
 
 channel add #No! { chanmode +tn idle-kick 0 stopnethack-mode 0 revenge-mode 0 need-op {} need-invite {} need-key {} need-unban {} need-limit {} flood-chan 10:60 flood-ctcp 5:60 flood-join 5:60 flood-kick 3:10 flood-deop 3:10 flood-nick 0:0 aop-delay 5:30 ban-type 3 ban-time 120 exempt-time 60 invite-time 60 +enforcebans +dynamicbans +userbans -autoop -autohalfop -bitch +greet +protectops -protecthalfops -protectfriends +dontkickops +statuslog -revenge -revengebot -autovoice -secret +shared +cycle -seen -inactive +dynamicexempts +userexempts +dynamicinvites +userinvites -nodesynch -static }
 channel set #No! +udef-flag-chanstats
