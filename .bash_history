@@ -393,3 +393,4 @@ telnet localhost 9124
 cd ~
 telnet localhost 9123
 exit
+telnet localhost 9123
