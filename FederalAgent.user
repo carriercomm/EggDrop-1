@@ -1,4 +1,4 @@
-#4v: eggdrop v1.6.21 -- FBIBot -- written Sat Nov 29 23:00:00 2014
+#4v: eggdrop v1.6.21 -- FBIBot -- written Sun Nov 30 00:00:00 2014
 SS_Patric  - hjlmnoptx               
 ! #no!                 1405702944 -          
 --HOSTS *!*fuckyou@*.hstntx.sbcglobal.net
@@ -11,11 +11,11 @@ SS_Patric  - hjlmnoptx
 --XTRA incith:weather.location 77449
 --XTRA created 1385184819
 HackPat    - hjlmnoptx               
+--XTRA incith:weather.location 77449
+--XTRA created 1411233652
 --HOSTS *!*sid43215@gateway/web/irccloud.com/x-twlymzxnbruycsio
 --HOSTS *!*HackPat@*.hudson.bz
 --HOSTS *!*HackPat@2001:19f0:6400:8041::*
---XTRA incith:weather.location 77449
---XTRA created 1411233652
 --LASTON 1417129549 #patstestingroom
 NixZiZ     - hp                      
 --HOSTS *!*NixZiZ@184.146.181.*
@@ -39,12 +39,12 @@ Deeeebs    - hp
 --XTRA incith:weather.location 77377
 --XTRA created 1411234619
 Disturbed  - hp                      
+--XTRA incith:weather.location 40419
+--XTRA created 1411248860
 --HOSTS *!*Disturbed1@unaffiliated/disturbed117
 --HOSTS *!*Disturbed@40.136.24.*
 --HOSTS *!*Disturbed@40.136.25.*
 --HOSTS *!*Disturbed@unaffiliated/disturbed117
---XTRA incith:weather.location 40419
---XTRA created 1411248860
 --LASTON 1417177987 #No!
 sc0tty8    - hp                      
 --HOSTS *!*sc0tty8@208.83.207.*
@@ -60,12 +60,12 @@ JoshHuman  - hp
 --XTRA incith:weather.location 02143
 --LASTON 1417201189 #No!
 C_C        - hp                      
+--XTRA created 1411358986
+--XTRA incith:weather.location 83404
 --HOSTS *!*aef00526@*.240.5.38
 --HOSTS *!*aef00825@*.240.8.37
 --HOSTS *!*C_C@unaffiliated/c-c/x-3838806
 --LASTON 1417256066 #No!
---XTRA created 1411358986
---XTRA incith:weather.location 83404
 NorxxMAL   - hp                      
 --HOSTS *!*sans@70.32.38.*
 --HOSTS *!*sans@unaffiliated/norxmal
