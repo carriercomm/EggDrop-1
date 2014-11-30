@@ -427,3 +427,8 @@
 [20:55:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
 [20:56:57] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
 [21:00:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[21:00:00] Writing user file...
+[21:00:00] Writing channel file...
+[21:02:24] incith:weather-2.9c: <JoshHuman/#No!> !weather 02143
+[21:05:00] 14<chanstats> saving data (14schedule) --> saved (1433), discarded (141)
+[21:05:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
