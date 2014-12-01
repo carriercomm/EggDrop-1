@@ -552,3 +552,8 @@
 [00:00:00] Writing channel file...
 [00:05:00] 14<chanstats> saving data (14schedule) --> saved (1428), discarded (140)
 [00:05:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[00:10:54] Last message repeated 1 time(s).
+[00:10:54] Tcl error [weburlwatch]: can't read "doctype": no such variable
+[00:12:00] Backing up seen data...
+[00:15:00] 14<chanstats> saving data (14schedule) --> saved (1428), discarded (140)
+[00:15:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
