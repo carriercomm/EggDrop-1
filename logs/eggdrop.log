@@ -416,3 +416,7 @@
 [20:05:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
 [20:08:28] Tcl error [weburlwatch]: can't read "doctype": no such variable
 [20:10:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[20:12:00] Backing up seen data...
+[20:14:51] 14<chanstats> saving data (14events) --> saved (1431), discarded (140)
+[20:15:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
+[20:15:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
