@@ -4,8 +4,8 @@
 # <speechles> Bots are so obedient, like a wife you never need to slap.
  
 #---------------------------------------------------------------#
-# UNOFFICIAL incith:google                              v2.1x   #
-#                                           August 15th, 2012   #
+# UNOFFICIAL incith:google                              v2.2a   #
+#                                              July 2nd, 2014   #
 # performs various methods of Google searches                   #
 # tested on:                                                    #
 #   eggdrop v1.6.17 GNU/LINUX with Tcl 8.4                      #
@@ -534,6 +534,8 @@
 #         for infinity onward. Keep track of the date of the    #
 #         revision below, or the date at top of script to know  #
 #         any of that irrelevant stuff.                         #
+#  2.2a : Fixed !fight and totals within google results. More   #
+#         awesome is coming. Soon. Stay tuned.                  #
 #                                                               #
 # TODO:........................................................ #
 #                                                               #
@@ -628,7 +630,7 @@ namespace eval incith {
     variable efight_binds "ef ebayfight"
     variable popular_binds "best great bestest"
     variable rev_binds "r review"
-    variable wiki_binds "jj wiki wikipedia"
+    variable wiki_binds "jj w wiki wikipedia"
     variable wikimedia_binds "wm wikim wikimedia"
     variable recent_binds "worst crap"
     variable mininova_binds "t torrent mininova"
@@ -858,7 +860,7 @@ namespace eval incith {
       "mi:g:%search% +site:mircscripts.org"
       "rw:wm:.wiki.roms-isos.com %search%"
       "gw:wm:.wiki.gbatemp.net/wiki %search%"
-      "ed:wm:.encyclopediadramatica.se %search%"
+      "ed:wm:.encyclopediadramatica.es %search%"
       "un:wm:.uncyclopedia.wikia.com %search%"
       "un2:wm:.mirror.uncyc.org/wiki %search%"
       "wq:wm:.en.wikiquote.org/wiki %search%"
@@ -870,6 +872,7 @@ namespace eval incith {
       "got:g:%search% +ext:torrent"
       "rs:g:%search% +inurl:rapidshare"
       "rsmp3 r3 rs3:rs:%search% inurl:mp3"
+      "mb memory:wm:.memory-beta.wikia.com %search%"
       "kiczek:gf:%search% in usa"
       "mysite:g:+site:%%1%% +ext:%%2%% %%3-end%%"
       "cg:g:+inurl:%%1%%.craigslist +%%2-end%%"
@@ -889,6 +892,7 @@ namespace eval incith {
       "smf smurfs:wm:.smurfs.wikia.com %search%"
       "sm sailormoon:wm:.sailormoon.wikia.com %search%"
       "pk pokemon:wm:.pokemon.wikia.com %search%"
+      "md mcdonalds:wm:.mcdonalds.wikia.com %search"
       "ss strawberryshortcake:wm:.strawberryshortcake.wikia.com %search%"
       "mlp mylittlepony:wm:.mlp.wikia.com %search%"
       "lps littlestpetshop:wm:.lps.wikia.com %search%"
@@ -1300,7 +1304,7 @@ setudef flag google
 # initialize
 namespace eval incith {
   namespace eval google {
-    variable version "incith:google-2.1x"
+    variable version "incith:google-2.2a"
     variable encode_strings [split $encode_strings]
   }
 }
@@ -1382,7 +1386,7 @@ namespace eval incith {
       }
 
       # give results an output header with result tally.
-      if {[regexp -- {<div id="resultStats">(.*?)</div>} $html - match]} {
+      if {[regexp -- {id="resultStats">(.*?)</div>} $html - match]} {
           if {[string length [set match [split [string trim $match]]]]} {
             set titem [lindex $match end]
             set match [lindex $match end-1]
@@ -1684,13 +1688,13 @@ namespace eval incith {
           #} else {
           #  regsub -- {class=g(?!b).*?<a href=".*?".*?>.+?</a>} $html "" html
           #}
-	    if {![regexp -- {class="g"><h3.*?<a href="(.*?)".*?>(.*?)</a>} $html - link desc]} {
-            if {[regexp -- {class=g><h3.*?<a href="(.*?)".*?>(.*?)</a>} $html - link desc]} {
-              regsub -- {class=g><h3.*?<a href=".*?".*?>.*?</a>} $html "" html
+	    if {![regexp -- {class="g">.*?<a href="(.*?)".*?>(.*?)</a>} $html - link desc]} {
+            if {[regexp -- {class=g>.*?<a href="(.*?)".*?>(.*?)</a>} $html - link desc]} {
+              regsub -- {class=g>.*?<a href=".*?".*?>.*?</a>} $html "" html
               regexp -- {^(.*?)</a></h3>} $desc - desc
             }
           } else {
-            regsub -- {class="g"><h3.*?<a href=".*?".*?>.*?</a>} $html "" html
+            regsub -- {class="g">.*?<a href=".*?".*?>.*?</a>} $html "" html
             regexp -- {^(.*?)</a></h3>} $desc - desc
           }
  
@@ -1823,7 +1827,14 @@ namespace eval incith {
 	if {![regexp -- {--></script><div>(.+?)<br><br>} $html - no_search]} {
 		if {![regexp -- {</a></div><div><p>(.+?)<br><br>} $html - no_search]} {
 			if {![regexp -- {<table border=0 cellpadding=0 cellspacing=0><tr><td class=j><br>(.+?)<br><br>} $html - no_search]} {
-				regexp -- {<div id="res"><div id="ires">(.*?)<br><br>} $html - no_search
+				if {![regexp -- {<div id="res"><div id="ires">(.*?)<br><br>} $html - no_search]} {
+					if {![regexp -- {<div class="sd" id="resultStats"></div><div id="res">.*?<p>(.*?)</p>} $html - no_search]} {
+						if {[regexp -- {<div class="sd" id="resultStats"></div><div id="spe".*?<div.*?>(.*?)</p>} $html - no_search]} {
+							regsub -all -- {</a>} $no_search ". " no_search
+							regsub -all -- {<.*?>} $no_search "" no_search
+						}
+					}
+				}
 			}
 		}
 	}
@@ -1837,7 +1848,7 @@ namespace eval incith {
 	}
 
 	# give results an output header with result tally.
-	if {[regexp -- {</a></div><div>(.*?)</div>} $html - match]} {
+	 if {[regexp -- {<td colspan.*?>.*?<div class=.*?id="resultStats">(.*?)</div>} $html - match]} {
 		set titem [lindex [split $match] 2]
 		set match [lindex [split $match] 1]
 		regsub -all -- {<(.+?)>} $match {} match
@@ -1861,12 +1872,13 @@ namespace eval incith {
 		}
       }
 
+      regexp -- {<div id="ires">(.+)$} $html - html
 	# parse the html
 	while {$results < $incith::google::image_results} {
-		if {[regexp -- {href="/imgres\?imgurl=(.*?)\&.*?<br>.*?<br>(.*?)<br>(.*?)</td>} $html - link desc attrib]} {
-			regsub -- {href="/imgres\?imgurl=.*?\&.*?<br>.*?<br>.*?</td>} $html {} html
+		if {[regexp -- {href="/url\?q=(.*?)\&.*?<img height=.*?src="(.*?)".*?<cite title="(.*?)".*?<br>(.*?)<br>(.*?)</td>} $html - page link site desc attrib]} {
+			regsub -- {href="/url\?q=.*?<img height=.*?src=".*?".*?<cite title=".*?".*?<br>.*?<br>.*?</td>} $html {} html
 			regsub -all -- {(?:<b>|</b>)} [descdecode [string trim $desc]] "\002" desc
-			set desc2 " ([string trim [string map [list "*" "x" " " ""] [join [lrange [split $attrib "-"] 0 1] "-"]]])"
+			set desc2 " ([urldecode $page] - [string trim [string map [list "*" "x" " " ""] [join [lrange [split $attrib "-"] 0 1] "-"]]])"
 		}
 		# if there's no link, return or stop looping, depending
 		if {[info exists link] == 0} {
@@ -2579,15 +2591,15 @@ namespace eval incith {
       # parse the html
       if {![regexp -nocase {<div id=prs>.*?</div><p>(.+?)(?:\(\002|\[)} $html - matches1]} {
         if {![regexp -- {<div id=resultStats> (.*?) (.*?)\(\002} $html - titem matches1]} {
-          if {[regexp -- {<div id="resultStats">(.*?)</div>} $html - match]} {
-            set matches1 [lindex [split [string trim $match]] end-1]
+          if {[regexp -- {id="resultStats">(.*?)</div>} $html - match]} {
+            set matches1 [string map {&#160; " "} [string trim $match]]
           }
         }
       }
       if {[info exists matches1]} {
-        regsub -- {(?:\002|\s)1\002 - \0021\002} $matches1 "" matches1
-        regsub -- {(?:\002|\s)1\002-\0021\002} $matches1 "" matches1
-        regsub -nocase { of about } $matches1 "" matches1
+        #regsub -- {(?:\002|\s)1\002 - \0021\002} $matches1 "" matches1
+        #regsub -- {(?:\002|\s)1\002-\0021\002} $matches1 "" matches1
+	  regexp {([0-9].*[0-9])} $matches1 - matches1
         regsub -nocase -all {<a href.*?>} $matches1 "" matches1
         regsub -nocase -all {</a>} $matches1 "" matches1
         set match1 $matches1
@@ -2605,15 +2617,15 @@ namespace eval incith {
       # parse the html
       if {![regexp -nocase {<div id=prs>.*?</div><p>(.+?)(?:\(\002|\[)} $html - matches2]} {
         if {![regexp -- {<div id=resultStats> (.*?) (.*?)\(\002} $html - titem matches2]} {
-          if {[regexp -- {<div id="resultStats">(.*?)</div>} $html - match]} {
-            set matches2 [lindex [split [string trim $match]] end-1]
+          if {[regexp -- {id="resultStats">(.*?)</div>} $html - match]} {
+            set matches2 [string map {&#160; " "} [string trim $match]]
           }
         }
       }
       if {[info exists matches2]} {
-        regsub -- {(?:\002|\s)1\002 - \0021\002} $matches2 "" matches2
-        regsub -- {(?:\002|\s)1\002-\0021\002} $matches2 "" matches2
-        regsub -nocase { of about } $matches2 "" matches2
+        #regsub -- {(?:\002|\s)1\002 - \0021\002} $matches2 "" matches2
+        #regsub -- {(?:\002|\s)1\002-\0021\002} $matches2 "" matches2
+	  regexp {([0-9].*[0-9])} $matches2 - matches2
         regsub -nocase -all {<a href.*?>} $matches2 "" matches2
         regsub -nocase -all {</a>} $matches2 "" matches2
         set match2 $matches2
@@ -2726,23 +2738,28 @@ namespace eval incith {
       } elseif {[regexp -nocase {role="alert">.*?<div class="yt-alert-message">.*?<div class="yt-alert-message">(.*?)</div></div>} $html - reply]} {
         regsub -all -- {<.*?>} $reply "" reply
       } else { set reply "" }
-     
-      # top line is just there for looks, destroy it..
-	regsub -nocase {<li class="yt-lockup2.*?<li class="yt-lockup2} $html {<li class="yt-lockup2} html
 
       # parse the html
       while {$results < $incith::google::youtube_results} {
-        if {[regexp -nocase {(<li class="yt-lockup2.*?(?:<li class="yt-lockup2|$))} $html - line]} {
-	     if {![regexp -nocase {data-context-item-title="(.*?)"} $line - title]} { 
+        if {[regexp -nocase {(<li class="yt-lockup.*?(?:<li class="yt-lockup|$))} $html - line]} {
+           putlog "line - $line"
+           if {[regexp -nocase {href.*?href="(.*?)".*?>(.*?)</a>.*?<li>(.*?)<li>} $line - id title stuff]} {
+              regexp -nocase {</li>.*?<div.*?>(.*?)</div>} $line - desc
+              regsub -all -- {<.*?>} $desc "" desc 
+              regsub -all -- {<li>} $stuff " | " stuff
+              regsub -all -- {<.*?>} $stuff "" stuff
+              putlog "stuff - $stuff"
            }
-           regexp -nocase {data-context-item-id="(.*?)"} $line - id
-           regexp -nocase {data-context-item-views="(.*?)"} $line - views
-           regexp -nocase {data-context-item-user="(.*?)"} $line - user
-           regexp -nocase {data-context-item-type="(.*?)"} $line - type
-           regexp -nocase {data-context-item-time="(.*?)"} $line - time
-           if {![regexp -nocase {<div class="yt-lockup2-description.*?>(.*?)</div>} $line - desc]} { set desc "" } { regsub -all -- {<.*?>} $desc "" desc }
-           regsub -nocase {<li class="yt-lockup2.*?<li class="yt-lockup2} $html {<li class="yt-lockup2} html
-        } else {
+	     if {[regexp -nocase {data-context-item-title="(.*?)"} $line - title]} { 
+              regexp -nocase {data-context-item-id="(.*?)"} $line - id
+              regexp -nocase {data-context-item-views="(.*?)"} $line - views
+              regexp -nocase {data-context-item-user="(.*?)"} $line - user
+              regexp -nocase {data-context-item-type="(.*?)"} $line - type
+              regexp -nocase {data-context-item-time="(.*?)"} $line - time
+              if {![regexp -nocase {<div class="yt-lockup2-description.*?>(.*?)</div>} $line - desc]} { set desc "" } { regsub -all -- {<.*?>} $desc "" desc }
+              regsub -nocase {<li class="yt-lockup2.*?<li class="yt-lockup2} $html {<li class="yt-lockup2} html
+              set id "/watch?v=$id"
+           }
           if {[info exists title] == 0} {
             if {$results == 0} {
               append output "[descdecode [string trim $reply]]${incith::google::seperator}"
@@ -2761,9 +2778,9 @@ namespace eval incith {
 
         # make the link valid because we were only given a partial href result, not a full url
         if {$titem == "com" } {
-          set link "http://youtube.com/watch?v=${id}&hl=en"
+          set link "http://youtube.com${id}&hl=en"
         } else {
-          set link "http://${titem}.youtube.com/watch?v=${id}&hl=${titem}"
+          set link "http://${titem}.youtube.com${id}&hl=${titem}"
         }
         # fullscreen window link - http://youtube.com/v/${id}
 
@@ -2781,7 +2798,11 @@ namespace eval incith {
         if {$incith::google::link_only == 1} { 
           append output "${link}${incith::google::seperator}"
         } else {
-          append output "[descdecode "$title (by $user; $type; $views; $time) $desc"]$::incith::google::break${link}${incith::google::seperator}"
+          if {![info exists stuff]} {
+            append output "[descdecode "$title (by $user; $type; $views; $time) $desc"]$::incith::google::break${link}${incith::google::seperator}"
+          } else {
+            append output "[descdecode "$title ($stuff) $desc"]$::incith::google::break${link}${incith::google::seperator}"
+          }
         }
 
         # increase the results, clear the variables for the next loop just in case
@@ -2898,7 +2919,7 @@ namespace eval incith {
       } else {
         set http [::http::config -useragent $ua -urlencoding ""]
       }
-      set url "http://translate.google.com/translate_t?"
+      set url "https://translate.google.com/m?"
       if {$::incith::google::trans_input > 0} {
         if {![info exists y]} {
           set ie "&ie=utf-8"
@@ -2973,7 +2994,9 @@ namespace eval incith {
       set link [string tolower $link]
       if {![regexp -- {<h3 id=headingtext.*?>(.+?)</h3>} $html {} detect]} {
         if {![regexp -- {<div class="goog-inline-block goog-flat-menu-button-caption">(.*?)</div>.*?<div class="goog-inline-block goog-flat-menu-button-caption">(.*?)</div>} $html {} detect1 detect2]} {
-          set detect ""
+          if {![regexp -- {class="s1">(.*?)<.*?class="s1">(.*?)<} $html - detect1 detect2]} {
+		set detect ""
+          } else { set detect "$detect1 > $detect2" }
         } else { set detect "$detect1 $detect2" }
       } else { regsub -all {<.*?>} $detect "" detect }
       if {[regexp -- {</h3>.*?</object></div>(.+?)</div>} $html - match]} {
@@ -2982,6 +3005,10 @@ namespace eval incith {
         regsub -all {<.*?>} $match "" match
       } elseif {[regexp -- {<textarea id=source.*?>(.*?)</textarea>} $html - match]} {
         regsub -all {<.*?>} $match "" match
+      } elseif {[regexp -- {<div dir="ltr" class=.*?>(.*?)</div>} $html - match]} {
+	  regsub -all {<.*?>} $match "" match
+      } elseif {[regexp -- {<div dir="rtl" class=.*?>(.*?)</div>} $html - match]} {
+	  regsub -all {<.*?>} $match "" match
       }
       if {[regexp -- {<div id=src-translit class=translit.*?>(.*?)</div>} $html - translit]} { regsub -all {<.*?>} $translit "" translit }
       if {[string length $match]} {
@@ -4322,6 +4349,7 @@ namespace eval incith {
       if {[string match "*${redir}*" "302|301" ]} {
         foreach {name value} $state(meta) {
 	    if {[regexp -nocase ^location$ $name]} {
+	  	putlog "1. value - $value"
 	      catch {set http [::http::geturl "$value" -query "" -headers $::incith_hdr -timeout [expr 1000 * 10]]} error
 	      if {[string match -nocase "*couldn't open socket*" $error]} {
 		  return "${::incith::google::error_modes}Socket Error accessing '${query}' .. Does it exist?${::incith::google::error_demodes}" 
@@ -4333,6 +4361,7 @@ namespace eval incith {
             set incithcharset [string map -nocase {"UTF-" "utf-" "iso-" "iso" "windows-" "cp" "shift_jis" "shiftjis"} $state(charset)]
             set html [charenc [ungzip [::http::data $http] $state(meta)] $state(charset)]
             set query $value
+            regsub -all "&amp;" $query {\&} query
             incr red
 	    }
         } 
@@ -4345,6 +4374,7 @@ namespace eval incith {
       regexp -nocase -- {document has moved.+?<a href="(.+?)">} $html - match
       regexp -nocase -- {Did you mean to type.+?<a href="(.+?)">} $html - match
 
+	putlog "2. query - $query"
       # if we are redirected, then we can modify our url
       # to include the redirect as our new destination site.
       if {$match != ""} {
@@ -6754,6 +6784,7 @@ namespace eval incith {
       } else {    
         # beware, changing the useragent will result in differently formatted html from Google.
         set ua "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3"
+        #set ua "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20100101 Firefox/25.0"
         #set ua "Lynx/2.8.5rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.7e"
         # enable proxy
         if {![string length $::incith::google::proxy_host]} { 
@@ -7854,7 +7885,7 @@ namespace eval incith {
 	# which will only work properly patched....
       if {[string match *&* $text]} {
         set escapes {
-		&nbsp; \xa0 &iexcl; \xa1 &cent; \xa2 &pound; \xa3 &curren; \xa4
+		&#160; { } &nbsp; \xa0 &iexcl; \xa1 &cent; \xa2 &pound; \xa3 &curren; \xa4
 		&yen; \xa5 &brvbar; \xa6 &sect; \xa7 &uml; \xa8 &copy; \xa9
 		&ordf; \xaa &laquo; \xab &not; \xac &shy; \xad &reg; \xae
 		&macr; \xaf &deg; \xb0 &plusmn; \xb1 &sup2; \xb2 &sup3; \xb3
@@ -7914,7 +7945,7 @@ namespace eval incith {
         if {$::incith::google::dirty_decode > 0} {
   		set text [string map [list "\]" "\\\]" "\[" "\\\[" "\$" "\\\$" "\\" "\\\\"] [string map $escapes $text]]
   		regsub -all -- {&#([[:digit:]]{1,5});} $text {[encoding convertto $incithcharset [format %c [string trimleft "\1" "0"]]]} text
-  		regsub -all -- {&#x([[:xdigit:]]{1,4});} $text {[encoding converto $incithcharset [format %c [scan "\1" %x]]]} text
+  		regsub -all -- {&#x([[:xdigit:]]{1,4});} $text {[encoding convertto $incithcharset [format %c [scan "\1" %x]]]} text
           set text [subst "$text"]
         }
       }
