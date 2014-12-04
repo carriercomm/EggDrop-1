@@ -619,7 +619,7 @@ namespace eval incith {
     variable video_binds "v gv video"
     variable scholar_binds "s sc scholar"
     variable fight_binds "f fight googlefight"
-    variable youtube_binds "y yt youtube"
+    #variable youtube_binds "y yt youtube"
     variable locate_binds "geo loc locate"
     variable gamespot_binds "gs game gamespot"
     variable trans_binds "tr trans translate"
@@ -8041,5 +8041,3 @@ putlog "${incith::google::version}: Loaded. (hrz version, long live hrz! Zanziba
 putlog "${incith::google::version} :: Http: [package present http];BotIsPatched: [incith::google::botispatched];EncodingSystem: [encoding system];Tcl: $tcl_version;Eggdrop: [lindex $version 0];Suzi: [if {[info exists ::sp_version]} { set a "YES $::sp_version" } { set a "NO" }]"
 
 # EOF
-
-
