@@ -394,3 +394,11 @@ cd ~
 telnet localhost 9123
 exit
 telnet localhost 9123
+cd ~
+telnet localhost 9123
+ps aux | grep egg
+kill 30861
+./eggdrop 
+telnet localhost 9123
+./eggdrop
+telnet localhost 9123
