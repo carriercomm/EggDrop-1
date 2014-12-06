@@ -642,3 +642,8 @@
 [02:17:40] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
 [02:20:00] 14<chanstats> saving data (14schedule) --> saved (1423), discarded (140)
 [02:20:00] #No! (+psCtn) : [m/19 o/5 h/0 v/0 n/14 b/1 e/0 I/0]
+[02:21:17] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[02:22:00] 14<chanstats> saving data (14events) --> saved (1423), discarded (140)
+[02:25:00] #No! (+psCtn) : [m/19 o/5 h/0 v/0 n/14 b/1 e/0 I/0]
+[02:30:00] 14<chanstats> saving data (14schedule) --> saved (1423), discarded (140)
+[02:30:00] #No! (+psCtn) : [m/19 o/5 h/0 v/0 n/14 b/1 e/0 I/0]
