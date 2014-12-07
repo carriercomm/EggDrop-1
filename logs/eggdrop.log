@@ -199,3 +199,10 @@
 [08:55:31] 14<chanstats> saving data (14events) --> saved (1429), discarded (140)
 [09:00:00] 14<chanstats> saving data (14schedule) --> saved (1429), discarded (140)
 [09:00:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[09:00:00] Writing user file...
+[09:00:00] Writing channel file...
+[09:02:21] 14<chanstats> saving data (14events) --> saved (1429), discarded (140)
+[09:05:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[09:09:57] 14<chanstats> saving data (14events) --> saved (1429), discarded (140)
+[09:10:00] 14<chanstats> saving data (14schedule) --> saved (1429), discarded (140)
+[09:10:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
