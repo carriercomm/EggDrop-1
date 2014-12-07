@@ -472,3 +472,10 @@
 [22:30:00] Last message repeated 1 time(s).
 [22:30:00] 14<chanstats> saving data (14schedule) --> saved (1427), discarded (140)
 [22:30:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
+[22:37:36] Last message repeated 1 time(s).
+[22:37:36] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[22:37:36] <<AMDPhenomX4_t_a>> !AMDPhenom! !seen NorxMAL
+[22:37:48] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[22:37:48] 14<chanstats> saving data (14events) --> saved (1427), discarded (140)
+[22:40:00] 14<chanstats> saving data (14schedule) --> saved (1427), discarded (140)
+[22:40:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
