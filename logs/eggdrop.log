@@ -548,3 +548,18 @@
 [20:10:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
 [20:12:00] Backing up seen data...
 [20:15:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[20:15:05] 14<chanstats> saving data (14events) --> saved (1429), discarded (140)
+[20:16:15] Last message repeated 1 time(s).
+[20:16:15] Telnet connection: 127.0.0.1/37652
+[20:16:15] Timeout/EOF ident connection
+[20:16:18] Register: <AMDPhenomX4_r_l/#No!> succesfully updated host to ~AMDPhenom@unaffiliated/amdphenomx4
+[20:16:18] Bad Password: [SS_Patric]telnet@127.0.0.1/37652
+[20:16:21] Telnet connection: 127.0.0.1/37699
+[20:16:21] Timeout/EOF ident connection
+[20:16:24] Logged in: SS_Patric (telnet@127.0.0.1/37699)
+[20:17:04] #SS_Patric# +ignore *!*@unaffiliated/amdphenomx4 requested
+[20:17:10] #SS_Patric# ignores 
+[20:18:40] 14<chanstats> saving data (14events) --> saved (1429), discarded (140)
+[20:20:00] Last message repeated 1 time(s).
+[20:20:00] 14<chanstats> saving data (14schedule) --> saved (1429), discarded (140)
+[20:20:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
