@@ -402,3 +402,5 @@ kill 30861
 telnet localhost 9123
 ./eggdrop
 telnet localhost 9123
+telnet localhost 9123
+telnet localhost 9123
