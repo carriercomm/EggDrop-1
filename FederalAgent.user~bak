@@ -1,4 +1,4 @@
-#4v: eggdrop v1.6.21 -- FBIBot -- written Mon Dec  8 23:00:00 2014
+#4v: eggdrop v1.6.21 -- FBIBot -- written Tue Dec  9 23:00:00 2014
 SS_Patric  - hjlmnoptx               
 ! #no!                 1405702944 -          
 --HOSTS *!*fuckyou@*.hstntx.sbcglobal.net
@@ -6,7 +6,7 @@ SS_Patric  - hjlmnoptx
 --HOSTS SS_Patric
 --HOSTS SS_Patrick
 --HOSTS *!*@unaffiliated/ss-patrick/*
---LASTON 1418001384 partyline
+--LASTON 1418102146 partyline
 --PASS +zMHw3/IGG4M/
 --XTRA created 1385184819
 --XTRA incith:weather.location 77449
@@ -43,7 +43,7 @@ Disturbed  - hp
 --HOSTS *!*Disturbed@40.136.25.*
 --HOSTS *!*Disturbed@40.136.24.*
 --HOSTS *!*Disturbed@unaffiliated/disturbed117
---LASTON 1418083489 #No!
+--LASTON 1418146455 #No!
 --XTRA created 1411248860
 --XTRA incith:weather.location 40419
 sc0tty8    - hp                      
@@ -54,18 +54,18 @@ sc0tty8    - hp
 --XTRA created 1411260052
 JoshHuman  - hp                      
 --HOSTS *!*Josh@*.fios.verizon.net
---HOSTS *!*Josh@unaffiliated/joshhuman
 --HOSTS *!*Josh@*.smr-ubr2.sbo-smr.ma.cable.rcn.com
+--HOSTS *!*Josh@unaffiliated/joshhuman
+--LASTON 1418176941 #No!
 --XTRA incith:weather.location 02143
 --XTRA created 1411312514
---LASTON 1417469706 #No!
 C_C        - hp                      
 --HOSTS *!*aef00526@*.240.5.38
 --HOSTS *!*aef00825@*.240.8.37
 --HOSTS *!*C_C@unaffiliated/c-c/x-3838806
+--LASTON 1418171066 #No!
 --XTRA incith:weather.location 83404
 --XTRA created 1411358986
---LASTON 1417859104 #No!
 NorxxMAL   - hp                      
 --HOSTS *!*sans@70.32.38.*
 --HOSTS *!*sans@unaffiliated/norxmal
@@ -95,9 +95,9 @@ BodenM-No  - hp
 --XTRA created 1412771327
 --XTRA incith:weather.location Brisbane, AU
 AMDPhenom  - hp                      
---HOSTS *!*AMDPhenom@unaffiliated/amdphenomx4
 --HOSTS *!*quassel@unaffiliated/amdphenomx4
---LASTON 1418081465 #No!
+--HOSTS *!*AMDPhenom@unaffiliated/amdphenomx4
+--LASTON 1418102391 #No!
 --XTRA incith:weather.location worcester Massachusetts
 --XTRA created 1414650022
 joshphone  - hp                      
@@ -107,10 +107,10 @@ joshphone  - hp
 --LASTON 1416973496 #No!
 --XTRA created 1415321086
 nixc00p    - hp                      
---HOSTS *!*4066f907@*.102.249.7
 --HOSTS *!*d87e5147@*.126.81.71
 --HOSTS *!*d87e51f8@*.126.81.248
---LASTON 1418064862 #No!
+--HOSTS *!*4066f907@*.102.249.7
+--LASTON 1418172298 #No!
 --XTRA created 1416264273
 --XTRA incith:weather.location caledon, ontario
 WFeather   - hp                      
