@@ -26,7 +26,7 @@ patheticdrunkpat@#patstestingroom 1418273677 0 0 0 0 0 0 0 0 0 1
 bwg@#no! 1418208868 1 2 0 0 0 0 0 0 1 0
 disturbed[away]@#no! 1418217386 1 1 0 0 0 0 0 0 5 2
 norxxmal@#no! 1418268923 2 7 0 0 0 1 0 0 0 1
-norxmal@#no! 1418305111 18 156 1 0 0 0 0 0 1 0
+norxmal@#no! 1418305867 19 162 1 0 0 0 0 0 1 0
 d3str0y@#no! 1418251784 4 32 0 0 0 3 2 0 1 0
 nicc00p|working@#no! 1418172298 10 76 0 0 0 0 0 0 1 0
 patheticdrunkpat@#no! 1418273677 181 430 3 0 0 1 1 0 0 1
