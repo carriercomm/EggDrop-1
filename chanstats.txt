@@ -6,7 +6,7 @@ hackdrunkpat@#no! 1418257886 167 830 3 0 0 0 0 0 0 1
 nicc00p|actually@#no! 1418162863 0 0 0 0 0 0 0 0 0 1
 hackpat@#patstestingroom 1418249347 0 0 0 0 0 0 0 0 0 1
 mbaway@#no! 1418192393 3 4 0 0 0 0 0 0 0 1
-amdphenomx4_r_l@#no! 1418278256 86 433 0 0 0 6 1 0 5 0
+amdphenomx4_r_l@#no! 1418313355 86 433 0 0 0 7 1 0 5 0
 pathackdrunkpat@#patstestingroom 1418260445 0 0 0 0 0 0 0 0 0 1
 pepejovi@#no! 1418147243 0 0 0 0 0 1 0 0 1 0
 nixc00p@#no! 1418258545 105 554 4 0 0 8 0 0 7 1
@@ -26,7 +26,7 @@ bwg@#no! 1418208868 1 2 0 0 0 0 0 0 1 0
 disturbed[away]@#no! 1418217386 1 1 0 0 0 0 0 0 5 2
 nottoodrunkpat@#patstestingroom 1418308280 0 0 0 0 0 0 0 0 0 1
 norxxmal@#no! 1418268923 2 7 0 0 0 1 0 0 0 1
-norxmal@#no! 1418313110 22 182 1 0 0 0 0 0 1 0
+norxmal@#no! 1418313258 27 227 1 0 0 0 0 0 1 0
 d3str0y@#no! 1418310259 4 32 0 0 0 4 2 0 1 0
 nicc00p|working@#no! 1418172298 10 76 0 0 0 0 0 0 1 0
 patheticdrunkpat@#no! 1418273677 181 430 3 0 0 1 1 0 0 1
