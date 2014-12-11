@@ -30,7 +30,6 @@ norxmal@#no! 1418305867 19 162 1 0 0 0 0 0 1 0
 d3str0y@#no! 1418251784 4 32 0 0 0 3 2 0 1 0
 nicc00p|working@#no! 1418172298 10 76 0 0 0 0 0 0 1 0
 patheticdrunkpat@#no! 1418273677 181 430 3 0 0 1 1 0 0 1
-patriot@#no! 1418134740 0 0 0 0 0 0 0 0 1 0
 nottoodrunkpat@#no! 1418302077 12 43 3 0 0 0 0 0 0 0
 hackdrunkpat@#patstestingroom 1418257886 0 0 0 0 0 0 0 0 0 1
 joshhuman@#no! 1418271090 103 645 0 0 0 1 0 0 1 0
