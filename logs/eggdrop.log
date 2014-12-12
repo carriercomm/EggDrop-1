@@ -593,3 +593,9 @@
 [01:00:00] Writing channel file...
 [01:04:05] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
 [01:05:00] #No! (+psCtn) : [m/17 o/5 h/0 v/0 n/12 b/1 e/0 I/0]
+[01:07:57] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
+[01:08:43] incith:weather-2.9c: <C_C/#No!> !weather 83404
+[01:08:49] incith:weather-2.9c: <C_C/#No!> !forecast 83404
+[01:09:47] incith:weather-2.9c: <Disturbed/#No!> !forecast 40419
+[01:10:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[01:10:00] #No! (+psCtn) : [m/17 o/5 h/0 v/0 n/12 b/1 e/0 I/0]
