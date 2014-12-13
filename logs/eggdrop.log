@@ -126,3 +126,6 @@
 [08:30:00] #No! (+psCtn) : [m/18 o/5 h/0 v/0 n/13 b/1 e/0 I/0]
 [08:32:19] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
 [08:35:00] #No! (+psCtn) : [m/18 o/5 h/0 v/0 n/13 b/1 e/0 I/0]
+[08:37:56] Tcl error [weburlwatch]: can't read "doctype": no such variable
+[08:40:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
+[08:40:00] #No! (+psCtn) : [m/18 o/5 h/0 v/0 n/13 b/1 e/0 I/0]
