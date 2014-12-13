@@ -31,7 +31,7 @@ drscrapsmd@#no! 1418439036 18 97 0 0 0 0 0 0 0 1
 patheticdrunkpat@#no! 1418273677 181 430 3 0 0 1 1 0 0 1
 nottoodrunkpat@#no! 1418308280 14 46 3 0 0 0 0 0 0 1
 joshhuman@#no! 1418339776 106 656 0 0 0 1 0 0 1 0
-blitzcraptop@#no! 1418439074 1 0 0 0 0 1 0 0 0 0
+blitzcraptop@#no! 1418439074 1 7 0 0 0 1 0 0 0 0
 wfeather@#no! 1418400398 3 6 0 0 0 0 0 0 0 0
 drscrapsbm@#patstestingroom 1418394183 0 0 0 0 0 0 0 0 0 1
 mbudden_@#no! 1418427592 0 0 0 0 0 1 0 0 0 1
