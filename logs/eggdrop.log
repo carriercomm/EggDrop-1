@@ -587,3 +587,12 @@
 [02:15:00] #No! (+psCtn) : [m/17 o/5 h/0 v/0 n/12 b/1 e/0 I/0]
 [02:20:00] 14<chanstats> saving data (14schedule) --> saved (1441), discarded (140)
 [02:20:00] #No! (+psCtn) : [m/17 o/5 h/0 v/0 n/12 b/1 e/0 I/0]
+[02:27:16] Last message repeated 1 time(s).
+[02:27:16] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[02:27:16] incith:weather-2.9c: <HackPat/#No!> !weather MSD
+[02:27:49] 14<chanstats> saving data (14events) --> saved (1441), discarded (140)
+[02:28:09] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[02:28:09] incith:weather-2.9c: <HackPat/#No!> !weather MSP
+[02:29:48] 14<chanstats> saving data (14events) --> saved (1441), discarded (140)
+[02:30:00] 14<chanstats> saving data (14schedule) --> saved (1441), discarded (140)
+[02:30:00] #No! (+psCtn) : [m/17 o/5 h/0 v/0 n/12 b/1 e/0 I/0]
