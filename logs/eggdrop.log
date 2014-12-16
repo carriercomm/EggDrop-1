@@ -378,3 +378,14 @@
 [18:03:11] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
 [18:05:00] Last message repeated 2 time(s).
 [18:05:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[18:06:07] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[18:07:14] Last message repeated 2 time(s).
+[18:07:14] incith:weather-2.9c: <nixc00p/#No!> !weather caledon, ontario
+[18:07:30] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
+[18:07:35] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[18:07:58] Last message repeated 1 time(s).
+[18:07:58] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[18:08:26] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[18:10:00] Last message repeated 2 time(s).
+[18:10:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
+[18:10:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
