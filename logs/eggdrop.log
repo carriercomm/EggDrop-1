@@ -419,3 +419,22 @@
 [18:40:00] Last message repeated 1 time(s).
 [18:40:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
 [18:40:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[18:40:35] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[18:41:04] Tcl error [youtubesurl]: can't read "ha": no such variable
+[18:41:13] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[18:41:33] Tcl error [youtubesurl]: can't read "ha": no such variable
+[18:41:59] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[18:41:59] <<Blitz6804>> !*! !seen BonQuiQui
+[18:42:02] Tcl error [youtubesurl]: can't read "ha": no such variable
+[18:42:12] 14<chanstats> saving data (14events) --> saved (1434), discarded (141)
+[18:42:35] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[18:42:35] <<BonQuiQui>> !HackPat! !seen Blitz6804
+[18:42:41] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[18:42:41] <<Disturbed>> !Disturbed! !seen god
+[18:42:46] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[18:42:46] <<Disturbed>> !Disturbed! !seen jesus
+[18:43:03] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[18:45:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[18:48:03] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[18:50:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[18:50:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
