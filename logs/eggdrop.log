@@ -493,3 +493,9 @@
 [22:10:00] Last message repeated 1 time(s).
 [22:10:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
 [22:10:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[22:10:00] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
+[22:12:00] Last message repeated 2 time(s).
+[22:12:00] Backing up seen data...
+[22:12:13] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
+[22:15:00] Last message repeated 1 time(s).
+[22:15:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
