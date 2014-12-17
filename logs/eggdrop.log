@@ -257,3 +257,12 @@
 [14:03:18] Last message repeated 1 time(s).
 [14:03:18] 14<chanstats> saving data (14events) --> saved (1438), discarded (140)
 [14:05:00] #No! (+psCtn) : [m/22 o/6 h/0 v/0 n/16 b/1 e/0 I/0]
+[14:05:02] Register: <nixc00p/#No!> succesfully updated host to 4066f90e@gateway/web/freenode/ip.64.102.249.14
+[14:05:06] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[14:05:06] 14<chanstats> saving data (14events) --> saved (1438), discarded (140)
+[14:05:14] Tcl error [nsfw:pub]: can't read "idlist(60)": no such element in array
+[14:05:25] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[14:05:40] 14<chanstats> saving data (14events) --> saved (1438), discarded (140)
+[14:10:00] Last message repeated 1 time(s).
+[14:10:00] 14<chanstats> saving data (14schedule) --> saved (1438), discarded (140)
+[14:10:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
