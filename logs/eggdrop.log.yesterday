@@ -1,663 +1,680 @@
-[03:05:00] #No! (+psCtn) : [m/16 o/4 h/0 v/0 n/12 b/1 e/0 I/0]
-[03:10:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[03:10:00] #No! (+psCtn) : [m/16 o/4 h/0 v/0 n/12 b/1 e/0 I/0]
+[03:05:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[03:10:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[03:10:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[03:10:13] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
 [03:12:00] Backing up seen data...
-[03:15:00] #No! (+psCtn) : [m/16 o/4 h/0 v/0 n/12 b/1 e/0 I/0]
-[03:20:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[03:20:00] #No! (+psCtn) : [m/16 o/4 h/0 v/0 n/12 b/1 e/0 I/0]
+[03:15:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[03:20:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[03:20:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [03:30:00] Last message repeated 1 time(s).
-[03:30:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[03:30:00] #No! (+psCtn) : [m/16 o/4 h/0 v/0 n/12 b/1 e/0 I/0]
+[03:30:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[03:30:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [03:40:00] Last message repeated 1 time(s).
-[03:40:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[03:40:00] #No! (+psCtn) : [m/16 o/4 h/0 v/0 n/12 b/1 e/0 I/0]
+[03:40:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[03:40:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [03:50:00] Last message repeated 1 time(s).
-[03:50:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[03:50:00] #No! (+psCtn) : [m/16 o/4 h/0 v/0 n/12 b/1 e/0 I/0]
+[03:50:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[03:50:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [04:00:00] Last message repeated 1 time(s).
-[04:00:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[04:00:00] #No! (+psCtn) : [m/16 o/4 h/0 v/0 n/12 b/1 e/0 I/0]
+[04:00:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[04:00:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [04:00:00] Writing user file...
 [04:00:00] Writing channel file...
-[04:05:00] #No! (+psCtn) : [m/16 o/4 h/0 v/0 n/12 b/1 e/0 I/0]
-[04:10:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[04:10:00] #No! (+psCtn) : [m/16 o/4 h/0 v/0 n/12 b/1 e/0 I/0]
+[04:05:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[04:10:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[04:10:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [04:12:00] Backing up seen data...
-[04:15:00] #No! (+psCtn) : [m/16 o/4 h/0 v/0 n/12 b/1 e/0 I/0]
-[04:20:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[04:20:00] #No! (+psCtn) : [m/16 o/4 h/0 v/0 n/12 b/1 e/0 I/0]
+[04:12:24] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
+[04:15:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[04:20:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[04:20:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [04:30:00] Last message repeated 1 time(s).
-[04:30:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[04:30:00] #No! (+psCtn) : [m/16 o/4 h/0 v/0 n/12 b/1 e/0 I/0]
+[04:30:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[04:30:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [04:40:00] Last message repeated 1 time(s).
-[04:40:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[04:40:00] #No! (+psCtn) : [m/16 o/4 h/0 v/0 n/12 b/1 e/0 I/0]
-[04:50:00] Last message repeated 1 time(s).
-[04:50:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[04:50:00] #No! (+psCtn) : [m/16 o/4 h/0 v/0 n/12 b/1 e/0 I/0]
+[04:40:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[04:40:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[04:40:31] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
+[04:45:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[04:50:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[04:50:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [05:00:00] Last message repeated 1 time(s).
-[05:00:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[05:00:00] #No! (+psCtn) : [m/16 o/4 h/0 v/0 n/12 b/1 e/0 I/0]
+[05:00:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[05:00:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [05:00:00] Writing user file...
 [05:00:00] Writing channel file...
-[05:05:00] #No! (+psCtn) : [m/16 o/4 h/0 v/0 n/12 b/1 e/0 I/0]
-[05:10:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (141)
-[05:10:00] #No! (+psCtn) : [m/16 o/4 h/0 v/0 n/12 b/1 e/0 I/0]
+[05:05:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[05:10:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[05:10:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [05:12:00] Backing up seen data...
-[05:15:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
-[05:18:29] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
-[05:20:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[05:20:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[05:15:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[05:20:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[05:20:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [05:30:00] Last message repeated 1 time(s).
-[05:30:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[05:30:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[05:30:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[05:30:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [05:40:00] Last message repeated 1 time(s).
-[05:40:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[05:40:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[05:40:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[05:40:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [05:50:00] Last message repeated 1 time(s).
-[05:50:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[05:50:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[05:50:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[05:50:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [06:00:00] Last message repeated 1 time(s).
-[06:00:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[06:00:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[06:00:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[06:00:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [06:00:00] Writing user file...
 [06:00:00] Writing channel file...
-[06:05:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
-[06:10:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[06:10:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[06:05:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[06:10:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[06:10:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [06:12:00] Backing up seen data...
-[06:15:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
-[06:20:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[06:20:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
-[06:30:00] Last message repeated 1 time(s).
-[06:30:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[06:30:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[06:15:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[06:20:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[06:20:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[06:28:47] Last message repeated 1 time(s).
+[06:28:47] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
+[06:30:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[06:30:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [06:40:00] Last message repeated 1 time(s).
-[06:40:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[06:40:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[06:40:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[06:40:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [06:50:00] Last message repeated 1 time(s).
-[06:50:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[06:50:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
-[07:00:00] Last message repeated 1 time(s).
-[07:00:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[07:00:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[06:50:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[06:50:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[06:53:57] Register: <WFeather/#No!> succesfully updated host to sid35111@unaffiliated/wfeather
+[06:53:57] Register: <WFeather/#No!> succesfully updated host to sid35111@gateway/web/irccloud.com/x-bjffwlvyjhkeghya
+[06:53:57] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
+[06:55:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[07:00:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[07:00:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
 [07:00:00] Writing user file...
 [07:00:00] Writing channel file...
-[07:03:00] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
-[07:05:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
-[07:10:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[07:10:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[07:05:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[07:10:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[07:10:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
 [07:12:00] Backing up seen data...
-[07:15:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
-[07:20:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[07:20:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
-[07:30:00] Last message repeated 1 time(s).
-[07:30:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[07:30:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[07:15:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[07:20:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[07:20:00] #No! (+psCtn) : [m/21 o/6 h/0 v/0 n/15 b/1 e/0 I/0]
+[07:25:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[07:30:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[07:30:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
 [07:40:00] Last message repeated 1 time(s).
-[07:40:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[07:40:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
-[07:50:00] Last message repeated 1 time(s).
-[07:50:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[07:50:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
-[08:00:00] Last message repeated 1 time(s).
-[08:00:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[08:00:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[07:40:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[07:40:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[07:45:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[07:50:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[07:50:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[07:50:19] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
+[07:55:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[08:00:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[08:00:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [08:00:00] Writing user file...
 [08:00:00] Writing channel file...
-[08:05:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
-[08:10:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[08:10:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[08:05:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[08:10:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[08:10:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
 [08:12:00] Backing up seen data...
-[08:15:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
-[08:20:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[08:20:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[08:15:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[08:16:46] Register: <AMDPhenomX4_j/#No!> succesfully updated host to ~AMDPhenom@unaffiliated/amdphenomx4
+[08:20:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[08:20:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
 [08:30:00] Last message repeated 1 time(s).
-[08:30:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[08:30:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[08:30:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[08:30:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
 [08:40:00] Last message repeated 1 time(s).
-[08:40:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[08:40:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[08:40:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[08:40:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
 [08:50:00] Last message repeated 1 time(s).
-[08:50:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[08:50:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[08:50:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[08:50:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
 [09:00:00] Last message repeated 1 time(s).
-[09:00:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[09:00:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[09:00:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[09:00:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
 [09:00:00] Writing user file...
 [09:00:00] Writing channel file...
-[09:05:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
-[09:10:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[09:10:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[09:02:46] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
+[09:05:00] Last message repeated 1 time(s).
+[09:05:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[09:10:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[09:10:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
 [09:12:00] Backing up seen data...
-[09:15:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
-[09:20:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[09:20:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[09:15:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[09:18:22] Register: <WFeather/#No!> succesfully updated host to sid35111@unaffiliated/wfeather
+[09:18:22] Register: <WFeather/#No!> succesfully updated host to sid35111@gateway/web/irccloud.com/x-ujqmltqohcyxwruv
+[09:20:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[09:20:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
 [09:30:00] Last message repeated 1 time(s).
-[09:30:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[09:30:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
+[09:30:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[09:30:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
 [09:40:00] Last message repeated 1 time(s).
-[09:40:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[09:40:00] #No! (+psCtn) : [m/17 o/4 h/0 v/0 n/13 b/1 e/0 I/0]
-[09:44:09] Register: <Disturbed/#No!> succesfully updated host to ~Disturbed@40.136.25.3
-[09:44:20] Register: <Disturbed/#No!> succesfully updated host to ~Disturbed@unaffiliated/disturbed117
-[09:44:20] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
-[09:44:35] Register: <Disturbed/#No!> succesfully updated host to ~Disturbed@unaffiliated/disturbed117
-[09:45:00] #No! (+psCtn) : [m/18 o/4 h/0 v/0 n/14 b/1 e/0 I/0]
-[09:50:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[09:50:00] #No! (+psCtn) : [m/18 o/4 h/0 v/0 n/14 b/1 e/0 I/0]
-[09:58:06] Last message repeated 1 time(s).
-[09:58:06] Tcl error [weburlwatch]: can't read "doctype": no such variable
-[10:00:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
-[10:00:00] #No! (+psCtn) : [m/18 o/4 h/0 v/0 n/14 b/1 e/0 I/0]
+[09:40:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[09:40:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[09:50:00] Last message repeated 1 time(s).
+[09:50:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[09:50:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[10:00:00] Last message repeated 1 time(s).
+[10:00:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[10:00:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
 [10:00:00] Writing user file...
 [10:00:00] Writing channel file...
-[10:05:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
-[10:10:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[10:10:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
+[10:05:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[10:10:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[10:10:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
 [10:12:00] Backing up seen data...
-[10:15:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
-[10:20:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[10:20:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
-[10:28:33] Last message repeated 1 time(s).
-[10:28:33] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
-[10:30:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[10:30:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
+[10:15:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[10:20:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[10:20:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[10:30:00] Last message repeated 1 time(s).
+[10:30:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[10:30:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
 [10:40:00] Last message repeated 1 time(s).
-[10:40:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[10:40:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
+[10:40:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[10:40:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
 [10:50:00] Last message repeated 1 time(s).
-[10:50:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[10:50:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
+[10:50:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[10:50:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
 [11:00:00] Last message repeated 1 time(s).
-[11:00:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[11:00:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
+[11:00:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[11:00:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
 [11:00:00] Writing user file...
 [11:00:00] Writing channel file...
-[11:02:09] Register: <AMDPhenomX4/#No!> succesfully updated host to ~AMDPhenom@unaffiliated/amdphenomx4
-[11:05:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[11:10:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[11:10:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[11:05:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[11:10:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[11:10:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
 [11:12:00] Backing up seen data...
-[11:15:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[11:20:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[11:20:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[11:28:33] Last message repeated 1 time(s).
-[11:28:33] Register: <nixc00p/#No!> succesfully updated host to 4066f907@gateway/web/freenode/ip.64.102.249.7
-[11:30:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[11:30:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[11:15:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[11:20:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[11:20:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[11:22:35] Register: <nixc00p/#No!> succesfully updated host to 4066f90e@gateway/web/freenode/ip.64.102.249.14
+[11:22:35] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
+[11:25:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
+[11:30:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[11:30:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
 [11:40:00] Last message repeated 1 time(s).
-[11:40:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[11:40:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[11:40:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[11:40:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
 [11:50:00] Last message repeated 1 time(s).
-[11:50:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[11:50:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[11:50:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[11:50:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
 [12:00:00] Last message repeated 1 time(s).
-[12:00:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[12:00:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[12:00:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[12:00:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
 [12:00:00] Writing user file...
 [12:00:00] Writing channel file...
-[12:05:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[12:10:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[12:10:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[12:05:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
+[12:10:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[12:10:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
 [12:12:00] Backing up seen data...
-[12:15:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[12:20:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[12:20:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[12:15:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
+[12:20:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[12:20:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
 [12:30:00] Last message repeated 1 time(s).
-[12:30:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[12:30:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[12:30:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[12:30:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
 [12:40:00] Last message repeated 1 time(s).
-[12:40:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[12:40:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[12:40:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[12:40:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
 [12:50:00] Last message repeated 1 time(s).
-[12:50:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[12:50:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[12:55:06] Last message repeated 1 time(s).
-[12:55:06] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[13:00:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[13:00:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[12:50:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[12:50:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
+[12:53:57] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
+[12:55:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
+[13:00:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[13:00:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
 [13:00:00] Writing user file...
 [13:00:00] Writing channel file...
-[13:05:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[13:10:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[13:10:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[13:05:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
+[13:10:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[13:10:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
 [13:12:00] Backing up seen data...
-[13:15:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[13:20:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[13:20:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[13:15:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
+[13:20:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[13:20:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
 [13:30:00] Last message repeated 1 time(s).
-[13:30:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
-[13:30:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
-[13:36:07] Last message repeated 1 time(s).
-[13:36:07] 14<chanstats> saving data (14events) --> saved (1437), discarded (140)
-[13:40:00] Last message repeated 1 time(s).
-[13:40:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
-[13:40:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
-[13:45:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[13:50:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
-[13:50:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[13:53:51] Register: <nixc00p/#No!> succesfully updated host to 4066f907@gateway/web/freenode/ip.64.102.249.7
-[13:55:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
-[14:00:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
+[13:30:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[13:30:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
+[13:30:26] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
+[13:33:26] 14<chanstats> saving data (14events) --> saved (1431), discarded (141)
+[13:34:34] 14<chanstats> saving data (14events) --> saved (1431), discarded (140)
+[13:35:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
+[13:37:14] 14<chanstats> saving data (14events) --> saved (1431), discarded (140)
+[13:40:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
+[13:40:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
+[13:45:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
+[13:49:40] 14<chanstats> saving data (14events) --> saved (1431), discarded (140)
+[13:50:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
+[13:50:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
+[14:00:00] Last message repeated 1 time(s).
+[14:00:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
 [14:00:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
 [14:00:00] Writing user file...
 [14:00:00] Writing channel file...
 [14:05:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
-[14:10:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
+[14:10:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
 [14:10:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
 [14:12:00] Backing up seen data...
 [14:15:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
-[14:20:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
+[14:20:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
 [14:20:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
-[14:23:26] 14<chanstats> saving data (14events) --> saved (1437), discarded (140)
-[14:25:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
-[14:30:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
+[14:30:00] Last message repeated 1 time(s).
+[14:30:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
 [14:30:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
-[14:30:28] 14<chanstats> saving data (14events) --> saved (1437), discarded (140)
-[14:35:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
-[14:40:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
-[14:40:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[14:45:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[14:48:40] Register: <nixc00p/#No!> succesfully updated host to 4066f907@gateway/web/freenode/ip.64.102.249.7
-[14:50:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
-[14:50:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[14:56:01] Last message repeated 1 time(s).
-[14:56:01] 14<chanstats> saving data (14events) --> saved (1437), discarded (140)
-[15:00:00] Last message repeated 2 time(s).
-[15:00:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
-[15:00:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[14:37:28] Last message repeated 1 time(s).
+[14:37:28] 14<chanstats> saving data (14events) --> saved (1431), discarded (140)
+[14:40:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
+[14:40:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
+[14:48:38] Last message repeated 1 time(s).
+[14:48:38] 14<chanstats> saving data (14events) --> saved (1431), discarded (140)
+[14:50:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
+[14:50:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
+[15:00:00] Last message repeated 1 time(s).
+[15:00:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
+[15:00:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
 [15:00:00] Writing user file...
 [15:00:00] Writing channel file...
-[15:05:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[15:10:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
-[15:10:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[15:01:04] 14<chanstats> saving data (14events) --> saved (1431), discarded (140)
+[15:05:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
+[15:10:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
+[15:10:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
 [15:12:00] Backing up seen data...
-[15:15:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[15:20:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
-[15:20:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[15:30:00] Last message repeated 1 time(s).
-[15:30:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
-[15:30:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[15:36:41] Last message repeated 1 time(s).
-[15:36:41] 14<chanstats> saving data (14events) --> saved (1438), discarded (140)
-[15:39:24] Register: <Disturbed/#No!> succesfully updated host to ~Disturbed@40.136.25.3
-[15:40:00] 14<chanstats> saving data (14schedule) --> saved (1438), discarded (140)
-[15:40:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[15:15:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
+[15:20:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
+[15:20:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
+[15:27:01] Last message repeated 1 time(s).
+[15:27:01] 14<chanstats> saving data (14events) --> saved (1430), discarded (141)
+[15:30:00] 14<chanstats> saving data (14schedule) --> saved (1430), discarded (140)
+[15:30:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
+[15:40:00] Last message repeated 1 time(s).
+[15:40:00] 14<chanstats> saving data (14schedule) --> saved (1430), discarded (140)
+[15:40:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
 [15:50:00] Last message repeated 1 time(s).
-[15:50:00] 14<chanstats> saving data (14schedule) --> saved (1438), discarded (140)
-[15:50:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[15:51:02] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
-[15:55:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[15:59:38] Register: <AMDPhenomX4_j/#No!> succesfully updated host to ~AMDPhenom@unaffiliated/amdphenomx4
-[16:00:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
-[16:00:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
+[15:50:00] 14<chanstats> saving data (14schedule) --> saved (1430), discarded (140)
+[15:50:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
+[15:55:31] Last message repeated 1 time(s).
+[15:55:31] 14<chanstats> saving data (14events) --> saved (1430), discarded (140)
+[16:00:00] 14<chanstats> saving data (14schedule) --> saved (1430), discarded (140)
+[16:00:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
 [16:00:00] Writing user file...
 [16:00:00] Writing channel file...
-[16:05:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[16:10:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
-[16:10:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[16:01:23] 14<chanstats> saving data (14events) --> saved (1430), discarded (140)
+[16:05:00] Last message repeated 3 time(s).
+[16:05:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
+[16:06:13] 14<chanstats> saving data (14events) --> saved (1430), discarded (140)
+[16:10:00] Last message repeated 3 time(s).
+[16:10:00] 14<chanstats> saving data (14schedule) --> saved (1430), discarded (140)
+[16:10:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
 [16:12:00] Backing up seen data...
-[16:15:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[16:20:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
-[16:20:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[16:25:27] Last message repeated 1 time(s).
-[16:25:27] 14<chanstats> saving data (14events) --> saved (1439), discarded (140)
-[16:30:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
-[16:30:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[16:39:33] Last message repeated 1 time(s).
-[16:39:33] 14<chanstats> saving data (14events) --> saved (1439), discarded (140)
-[16:40:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
-[16:40:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[16:14:02] 14<chanstats> saving data (14events) --> saved (1430), discarded (140)
+[16:15:00] Last message repeated 1 time(s).
+[16:15:00] #No! (+psCtn) : [m/23 o/5 h/0 v/0 n/18 b/1 e/0 I/0]
+[16:16:31] 14<chanstats> saving data (14events) --> saved (1430), discarded (140)
+[16:20:00] Last message repeated 3 time(s).
+[16:20:00] 14<chanstats> saving data (14schedule) --> saved (1430), discarded (140)
+[16:20:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[16:20:44] 14<chanstats> saving data (14events) --> saved (1430), discarded (140)
+[16:21:40] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[16:22:58] 14<chanstats> saving data (14events) --> saved (1430), discarded (140)
+[16:25:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[16:25:24] 14<chanstats> saving data (14events) --> saved (1430), discarded (140)
+[16:25:24] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
+[16:30:00] 14<chanstats> saving data (14schedule) --> saved (1430), discarded (140)
+[16:30:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[16:40:00] Last message repeated 1 time(s).
+[16:40:00] 14<chanstats> saving data (14schedule) --> saved (1430), discarded (140)
+[16:40:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
 [16:50:00] Last message repeated 1 time(s).
-[16:50:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
-[16:50:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[17:00:00] Last message repeated 1 time(s).
-[17:00:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
-[17:00:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[16:50:00] 14<chanstats> saving data (14schedule) --> saved (1430), discarded (140)
+[16:50:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[16:55:17] Last message repeated 1 time(s).
+[16:55:17] 14<chanstats> saving data (14events) --> saved (1430), discarded (140)
+[17:00:00] 14<chanstats> saving data (14schedule) --> saved (1430), discarded (140)
+[17:00:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
 [17:00:00] Writing user file...
 [17:00:00] Writing channel file...
-[17:05:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[17:10:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
-[17:10:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[17:05:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[17:06:02] 14<chanstats> saving data (14events) --> saved (1430), discarded (140)
+[17:10:00] Last message repeated 1 time(s).
+[17:10:00] 14<chanstats> saving data (14schedule) --> saved (1430), discarded (140)
+[17:10:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
 [17:12:00] Backing up seen data...
-[17:13:49] 14<chanstats> saving data (14events) --> saved (1439), discarded (140)
-[17:15:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[17:15:11] 14<chanstats> saving data (14events) --> saved (1439), discarded (140)
-[17:20:00] Last message repeated 1 time(s).
-[17:20:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
-[17:20:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[17:26:39] Last message repeated 1 time(s).
-[17:26:39] 14<chanstats> saving data (14events) --> saved (1439), discarded (140)
-[17:30:00] Last message repeated 2 time(s).
-[17:30:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
-[17:30:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[17:33:45] 14<chanstats> saving data (14events) --> saved (1439), discarded (140)
-[17:35:00] Last message repeated 1 time(s).
-[17:35:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[17:35:48] 14<chanstats> saving data (14events) --> saved (1439), discarded (140)
-[17:40:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
-[17:40:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[17:41:03] 14<chanstats> saving data (14events) --> saved (1439), discarded (140)
-[17:45:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[17:50:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
-[17:50:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[17:15:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[17:20:00] 14<chanstats> saving data (14schedule) --> saved (1430), discarded (140)
+[17:20:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[17:23:17] 14<chanstats> saving data (14events) --> saved (1430), discarded (140)
+[17:25:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[17:26:56] 14<chanstats> saving data (14events) --> saved (1430), discarded (140)
+[17:27:35] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[17:27:46] 14<chanstats> saving data (14events) --> saved (1430), discarded (140)
+[17:30:00] 14<chanstats> saving data (14schedule) --> saved (1430), discarded (140)
+[17:30:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[17:31:14] 14<chanstats> saving data (14events) --> saved (1430), discarded (140)
+[17:35:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[17:38:42] 14<chanstats> saving data (14events) --> saved (1431), discarded (140)
+[17:39:28] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
+[17:40:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[17:40:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[17:40:10] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
+[17:40:14] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[17:40:16] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
+[17:40:29] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[17:40:29] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
+[17:40:30] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[17:41:06] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
+[17:45:00] Last message repeated 1 time(s).
+[17:45:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[17:45:06] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[17:50:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[17:50:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[17:55:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[17:55:57] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[17:56:48] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
 [18:00:00] Last message repeated 1 time(s).
-[18:00:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
-[18:00:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[18:00:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
+[18:00:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
 [18:00:00] Writing user file...
 [18:00:00] Writing channel file...
-[18:05:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[18:10:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
-[18:10:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[18:10:22] 14<chanstats> saving data (14events) --> saved (1439), discarded (140)
-[18:12:00] Last message repeated 1 time(s).
+[18:03:11] Register: <nixc00p/#No!> succesfully updated host to 4066f90e@gateway/web/freenode/ip.64.102.249.14
+[18:03:11] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[18:05:00] Last message repeated 2 time(s).
+[18:05:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[18:06:07] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[18:07:14] Last message repeated 2 time(s).
+[18:07:14] incith:weather-2.9c: <nixc00p/#No!> !weather caledon, ontario
+[18:07:30] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
+[18:07:35] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[18:07:58] Last message repeated 1 time(s).
+[18:07:58] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[18:08:26] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[18:10:00] Last message repeated 2 time(s).
+[18:10:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
+[18:10:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[18:10:58] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[18:11:04] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[18:11:55] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
 [18:12:00] Backing up seen data...
-[18:15:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[18:20:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
-[18:20:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[18:21:57] 14<chanstats> saving data (14events) --> saved (1438), discarded (141)
-[18:25:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[18:30:00] 14<chanstats> saving data (14schedule) --> saved (1438), discarded (140)
-[18:30:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[18:12:26] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[18:14:12] Last message repeated 2 time(s).
+[18:14:12] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[18:14:36] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[18:15:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[18:15:04] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[18:17:43] Last message repeated 4 time(s).
+[18:17:43] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[18:18:04] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[18:20:00] Last message repeated 3 time(s).
+[18:20:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
+[18:20:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[18:20:06] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[18:25:00] Last message repeated 9 time(s).
+[18:25:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[18:25:32] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[18:30:00] Last message repeated 6 time(s).
+[18:30:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
+[18:30:00] #No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/1 e/0 I/0]
+[18:30:03] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[18:35:00] Last message repeated 7 time(s).
+[18:35:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[18:37:00] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
 [18:40:00] Last message repeated 1 time(s).
-[18:40:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (141)
-[18:40:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[18:42:15] 14<chanstats> saving data (14events) --> saved (1437), discarded (140)
-[18:45:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[18:50:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
-[18:50:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[18:55:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
-[19:00:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
-[19:00:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
+[18:40:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
+[18:40:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[18:40:35] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[18:41:04] Tcl error [youtubesurl]: can't read "ha": no such variable
+[18:41:13] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[18:41:33] Tcl error [youtubesurl]: can't read "ha": no such variable
+[18:41:59] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[18:41:59] <<Blitz6804>> !*! !seen BonQuiQui
+[18:42:02] Tcl error [youtubesurl]: can't read "ha": no such variable
+[18:42:12] 14<chanstats> saving data (14events) --> saved (1434), discarded (141)
+[18:42:35] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[18:42:35] <<BonQuiQui>> !HackPat! !seen Blitz6804
+[18:42:41] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[18:42:41] <<Disturbed>> !Disturbed! !seen god
+[18:42:46] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[18:42:46] <<Disturbed>> !Disturbed! !seen jesus
+[18:43:03] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[18:45:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[18:48:03] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[18:50:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[18:50:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[18:50:19] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[18:55:00] Last message repeated 1 time(s).
+[18:55:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[18:58:09] Tcl error [weburlwatch]: can't read "doctype": no such variable
+[18:59:41] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[19:00:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[19:00:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
 [19:00:00] Writing user file...
 [19:00:00] Writing channel file...
-[19:05:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
-[19:10:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (141)
-[19:10:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
+[19:02:42] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[19:05:00] Last message repeated 1 time(s).
+[19:05:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[19:06:39] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[19:10:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[19:10:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
 [19:12:00] Backing up seen data...
-[19:15:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
-[19:20:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[19:20:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
-[19:30:00] Last message repeated 1 time(s).
-[19:30:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[19:30:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
+[19:15:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[19:20:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[19:20:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[19:24:39] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[19:25:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[19:30:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[19:30:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
 [19:40:00] Last message repeated 1 time(s).
-[19:40:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[19:40:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
-[19:50:00] Last message repeated 1 time(s).
-[19:50:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[19:50:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
-[20:00:00] Last message repeated 1 time(s).
-[20:00:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[20:00:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
+[19:40:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[19:40:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[19:46:32] Last message repeated 1 time(s).
+[19:46:32] Register: <C_C/#No!> succesfully updated host to ~C_C@unaffiliated/c-c/x-3838806
+[19:46:45] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[19:50:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[19:50:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[19:54:19] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[19:55:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[20:00:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[20:00:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
 [20:00:00] Writing user file...
 [20:00:00] Writing channel file...
-[20:05:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
-[20:10:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[20:10:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[20:05:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[20:10:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[20:10:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
 [20:12:00] Backing up seen data...
-[20:15:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
-[20:15:30] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[20:20:00] Last message repeated 1 time(s).
-[20:20:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[20:20:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
-[20:24:14] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[20:25:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
-[20:25:43] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[20:30:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[20:30:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
-[20:33:24] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[20:35:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
-[20:36:50] 14<chanstats> saving data (14events) --> saved (1435), discarded (141)
-[20:40:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[20:40:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
-[20:40:25] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
-[20:41:38] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
-[20:45:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
-[20:47:36] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
-[20:50:00] Last message repeated 1 time(s).
-[20:50:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[20:50:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
-[20:56:04] Last message repeated 1 time(s).
-[20:56:04] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
-[21:00:00] Last message repeated 1 time(s).
-[21:00:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
+[20:15:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[20:20:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[20:20:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[20:27:26] Last message repeated 1 time(s).
+[20:27:26] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[20:30:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[20:30:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[20:38:14] Last message repeated 1 time(s).
+[20:38:14] Tcl error [weburlwatch]: can't read "doctype": no such variable
+[20:38:14] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[20:40:00] Tcl error [weburlwatch]: can't read "doctype": no such variable
+[20:40:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[20:40:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[20:41:19] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[20:45:00] Last message repeated 3 time(s).
+[20:45:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[20:47:10] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[20:49:21] Last message repeated 4 time(s).
+[20:49:21] Tcl error [weburlwatch]: can't read "doctype": no such variable
+[20:49:35] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[20:50:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[20:50:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[20:50:18] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[20:52:44] Last message repeated 2 time(s).
+[20:52:44] Tcl error [weburlwatch]: can't read "doctype": no such variable
+[20:53:34] Last message repeated 1 time(s).
+[20:53:34] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[20:54:27] Last message repeated 1 time(s).
+[20:54:27] Register: <sc0tty8/#No!> succesfully updated host to ~sc0tty8@208.83.207.91
+[20:55:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[20:56:02] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[20:57:51] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[20:59:23] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[21:00:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
 [21:00:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
 [21:00:00] Writing user file...
 [21:00:00] Writing channel file...
-[21:02:37] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
-[21:05:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
-[21:10:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[21:10:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
-[21:10:11] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
-[21:10:36] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
-[21:10:55] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
-[21:12:05] Last message repeated 2 time(s).
-[21:12:05] Backing up seen data...
-[21:12:31] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
-[21:13:09] Last message repeated 2 time(s).
-[21:13:09] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
-[21:13:56] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
-[21:14:35] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
-[21:15:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
-[21:15:18] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
-[21:16:59] Last message repeated 1 time(s).
-[21:16:59] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
-[21:20:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[21:20:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
-[21:23:30] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
-[21:23:40] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
-[21:23:40] incith:weather-2.9c: <Disturbed/#No!> !weather 40444
-[21:24:08] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
-[21:25:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
-[21:25:43] Register: <sc0tty8/#No!> succesfully updated host to ~sc0tty8@208.83.207.91
-[21:25:46] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[21:30:00] Last message repeated 5 time(s).
-[21:30:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
+[21:05:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[21:10:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[21:10:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[21:11:03] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[21:12:00] Backing up seen data...
+[21:14:05] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[21:15:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[21:17:33] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[21:20:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[21:20:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[21:22:19] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[21:25:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[21:25:04] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[21:30:00] Last message repeated 1 time(s).
+[21:30:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
 [21:30:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[21:31:57] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[21:35:00] Last message repeated 2 time(s).
-[21:35:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[21:37:19] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[21:38:58] Tcl error [weburlwatch]: can't read "doctype": no such variable
-[21:38:58] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[21:40:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
+[21:40:00] Last message repeated 1 time(s).
+[21:40:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
 [21:40:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[21:40:43] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[21:45:00] Last message repeated 1 time(s).
-[21:45:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[21:45:57] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[21:50:00] Last message repeated 2 time(s).
-[21:50:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
+[21:50:00] Last message repeated 1 time(s).
+[21:50:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
 [21:50:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[21:51:06] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[21:53:37] Last message repeated 2 time(s).
-[21:53:37] Tcl error [weburlwatch]: can't read "doctype": no such variable
-[21:54:07] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[21:55:00] Last message repeated 1 time(s).
-[21:55:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[21:56:02] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[21:58:10] Last message repeated 2 time(s).
-[21:58:10] Register: <sc0tty8/#No!> succesfully updated host to ~sc0tty8@208.83.207.91
-[21:58:43] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
 [22:00:00] Last message repeated 1 time(s).
-[22:00:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
+[22:00:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
 [22:00:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
 [22:00:00] Writing user file...
 [22:00:00] Writing channel file...
-[22:00:57] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[22:05:00] Last message repeated 1 time(s).
 [22:05:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[22:05:27] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[22:10:00] Last message repeated 1 time(s).
-[22:10:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
+[22:10:00] 14<chanstats> saving data (14schedule) --> saved (1433), discarded (141)
 [22:10:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[22:10:00] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[22:12:00] Last message repeated 2 time(s).
 [22:12:00] Backing up seen data...
-[22:12:13] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[22:15:00] Last message repeated 1 time(s).
+[22:14:25] Register: <Disturbed/#No!> succesfully updated host to ~Disturbed@40.136.25.3
+[22:14:25] 14<chanstats> saving data (14events) --> saved (1433), discarded (140)
 [22:15:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[22:16:14] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[22:20:00] Last message repeated 2 time(s).
-[22:20:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
+[22:20:00] 14<chanstats> saving data (14schedule) --> saved (1433), discarded (140)
 [22:20:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[22:26:12] Last message repeated 1 time(s).
-[22:26:12] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
 [22:30:00] Last message repeated 1 time(s).
-[22:30:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
+[22:30:00] 14<chanstats> saving data (14schedule) --> saved (1433), discarded (140)
 [22:30:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[22:30:49] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[22:35:00] Last message repeated 4 time(s).
+[22:34:39] 14<chanstats> saving data (14events) --> saved (1433), discarded (140)
 [22:35:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[22:36:22] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[22:40:00] Last message repeated 2 time(s).
-[22:40:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
+[22:40:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
 [22:40:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[22:40:48] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[22:45:00] Last message repeated 2 time(s).
+[22:43:34] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[22:45:00] Last message repeated 1 time(s).
 [22:45:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[22:45:30] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[22:47:08] Last message repeated 1 time(s).
-[22:47:08] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
-[22:47:08] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[22:47:28] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
-[22:48:18] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[22:50:00] Last message repeated 1 time(s).
-[22:50:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
+[22:50:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
 [22:50:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[22:51:37] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[22:55:00] Last message repeated 1 time(s).
-[22:55:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[22:57:27] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[23:00:00] Last message repeated 2 time(s).
-[23:00:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[23:00:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[22:55:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[23:00:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
+[23:00:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
 [23:00:00] Writing user file...
 [23:00:00] Writing channel file...
-[23:00:52] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[23:04:42] Last message repeated 1 time(s).
-[23:04:42] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
-[23:04:43] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[23:04:44] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
-[23:05:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[23:10:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[23:10:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[23:05:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[23:10:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
+[23:10:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
 [23:12:00] Backing up seen data...
-[23:12:57] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[23:15:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[23:15:21] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[23:20:00] Last message repeated 4 time(s).
-[23:20:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[23:20:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[23:21:29] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[23:25:00] Last message repeated 2 time(s).
-[23:25:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[23:25:10] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[23:30:00] Last message repeated 3 time(s).
-[23:30:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[23:30:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[23:31:30] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[23:35:00] Last message repeated 2 time(s).
-[23:35:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
-[23:39:12] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[23:39:13] Register: <WFeather/#No!> succesfully updated host to sid35111@gateway/web/irccloud.com/x-bjffwlvyjhkeghya
-[23:40:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[23:40:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[23:41:35] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[23:45:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[23:12:27] incith:weather-2.9c: <C_C/#No!> !weather 83404
+[23:12:42] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[23:12:45] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
+[23:14:26] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[23:15:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[23:16:08] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[23:20:00] Last message repeated 3 time(s).
+[23:20:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
+[23:20:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[23:21:58] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[23:25:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[23:30:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
+[23:30:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
+[23:38:17] Last message repeated 1 time(s).
+[23:38:17] Register: <Deeeebs/#No!> succesfully updated host to ~Deeeebs@99-37-160-128.lightspeed.tblltx.sbcglobal.net
+[23:38:17] Register: <Deeeebs/#No!> succesfully updated host to ~Deeeebs@unaffiliated/deeeebs
+[23:40:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
+[23:40:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[23:50:00] Last message repeated 1 time(s).
 [23:50:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[23:50:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[00:00:00] Last message repeated 1 time(s).
+[23:50:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[23:55:00] #No! (+psCtn) : [m/22 o/6 h/0 v/0 n/16 b/1 e/0 I/0]
 [00:00:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[00:00:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[00:00:00] --- Tue Dec 16 2014
+[00:00:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[00:00:00] --- Wed Dec 17 2014
 [00:00:00] Backing up user file...
 [00:00:00] Backing up channel file...
 [00:00:00] Writing user file...
 [00:00:00] Writing channel file...
-[00:00:27] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[00:05:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[00:05:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[00:09:13] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
 [00:10:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[00:10:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[00:10:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
 [00:12:00] Backing up seen data...
-[00:12:46] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
+[00:13:20] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
 [00:15:00] Last message repeated 1 time(s).
-[00:15:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[00:15:08] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[00:17:39] Last message repeated 2 time(s).
-[00:17:39] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
-[00:18:01] Last message repeated 2 time(s).
-[00:18:01] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[00:18:18] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
-[00:19:11] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[00:20:00] Last message repeated 1 time(s).
+[00:15:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[00:17:36] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
 [00:20:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[00:20:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[00:21:16] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[00:25:00] Last message repeated 2 time(s).
-[00:25:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[00:25:04] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
-[00:30:00] Last message repeated 2 time(s).
+[00:20:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[00:20:32] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
+[00:25:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
 [00:30:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[00:30:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[00:40:00] Last message repeated 1 time(s).
+[00:30:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[00:32:36] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
+[00:35:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
 [00:40:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
-[00:40:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[00:40:41] Register: <AMDPhenomX4_j/#No!> succesfully updated host to ~AMDPhenom@unaffiliated/amdphenomx4
-[00:45:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[00:40:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[00:41:58] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
+[00:45:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
 [00:50:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (141)
-[00:50:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
-[00:55:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[00:50:00] #No! (+psCtn) : [m/21 o/5 h/0 v/0 n/16 b/1 e/0 I/0]
+[01:00:00] Last message repeated 1 time(s).
 [01:00:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[01:00:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[01:00:00] #No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/1 e/0 I/0]
 [01:00:00] Writing user file...
 [01:00:00] Writing channel file...
-[01:05:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[01:05:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
 [01:10:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
-[01:10:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[01:10:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
 [01:12:00] Backing up seen data...
-[01:15:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[01:17:57] 14<chanstats> saving data (14events) --> saved (1433), discarded (142)
-[01:18:52] 14<chanstats> saving data (14events) --> saved (1433), discarded (140)
-[01:20:00] 14<chanstats> saving data (14schedule) --> saved (1433), discarded (140)
-[01:20:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[01:23:55] 14<chanstats> saving data (14events) --> saved (1433), discarded (140)
-[01:25:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[01:30:00] 14<chanstats> saving data (14schedule) --> saved (1433), discarded (140)
-[01:30:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[01:15:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
+[01:18:48] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[01:20:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
+[01:20:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
+[01:20:14] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[01:25:00] Last message repeated 2 time(s).
+[01:25:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
+[01:25:32] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[01:30:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (141)
+[01:30:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
 [01:40:00] Last message repeated 1 time(s).
-[01:40:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (141)
-[01:40:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[01:40:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[01:40:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
 [01:50:00] Last message repeated 1 time(s).
-[01:50:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
-[01:50:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[01:50:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[01:50:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
 [02:00:00] Last message repeated 1 time(s).
-[02:00:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
-[02:00:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[02:00:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[02:00:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
 [02:00:00] Writing user file...
 [02:00:00] Writing channel file...
-[02:05:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[02:10:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
-[02:10:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[02:05:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
+[02:07:52] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[02:10:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[02:10:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
 [02:12:00] Backing up seen data...
-[02:15:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[02:20:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
-[02:20:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[02:15:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
+[02:20:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[02:20:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
 [02:30:00] Last message repeated 1 time(s).
-[02:30:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
-[02:30:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[02:32:01] Register: <C_C/#No!> succesfully updated host to ~C_C@unaffiliated/c-c/x-3838806
-[02:35:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
-[02:40:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
-[02:40:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[02:30:00] 14<chanstats> saving data (14schedule) --> saved (1433), discarded (141)
+[02:30:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
+[02:40:00] Last message repeated 1 time(s).
+[02:40:00] 14<chanstats> saving data (14schedule) --> saved (1433), discarded (140)
+[02:40:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
 [02:50:00] Last message repeated 1 time(s).
-[02:50:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
-[02:50:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[02:50:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (141)
+[02:50:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
 [03:00:00] Last message repeated 1 time(s).
 [03:00:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
-[03:00:00] #No! (+psCtn) : [m/20 o/4 h/0 v/0 n/16 b/1 e/0 I/0]
+[03:00:00] #No! (+psCtn) : [m/19 o/4 h/0 v/0 n/15 b/1 e/0 I/0]
 [03:00:00] Writing user file...
 [03:00:00] Writing channel file...
 [03:00:00] Switching logfiles...
