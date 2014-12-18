@@ -6,7 +6,6 @@ mbudden@#no! 1418810068 243 922 0 0 0 17 5 1 14 9
 sogetlikeme@#no! 1418811612 3 6 0 0 0 0 0 0 0 1
 drunkmurrrica@#no! 1418769903 44 118 0 0 0 1 1 0 0 1
 hackpat@#patstestingroom 1418769521 0 0 0 0 0 0 0 0 0 1
-[t]yphoon@#no! 1418723088 0 0 0 0 0 3 0 0 2 0
 an|0n@#no! 1418861973 14 49 1 0 0 3 1 0 1 0
 bowner@#patstestingroom 1418813049 0 0 0 0 0 1 0 0 1 0
 bonquiqui@#patstestingroom 1418787584 0 0 0 0 0 0 0 0 0 1
