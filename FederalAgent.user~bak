@@ -1,4 +1,4 @@
-#4v: eggdrop v1.6.21 -- FBIBot -- written Thu Dec 18 23:00:00 2014
+#4v: eggdrop v1.6.21 -- FBIBot -- written Fri Dec 19 23:00:00 2014
 SS_Patric  - hjlmnoptx               
 ! #no!                 1405702944 -          
 --HOSTS *!*fuckyou@*.hstntx.sbcglobal.net
@@ -41,15 +41,15 @@ Deeeebs    - hp
 Disturbed  - hp                      
 --HOSTS *!*Disturbed1@unaffiliated/disturbed117
 --HOSTS *!*Disturbed@40.136.24.*
---HOSTS *!*Disturbed@unaffiliated/disturbed117
 --HOSTS *!*Disturbed@40.136.25.*
+--HOSTS *!*Disturbed@unaffiliated/disturbed117
+--LASTON 1419022706 #No!
 --XTRA created 1411248860
 --XTRA incith:weather.location 40419
---LASTON 1418926575 #No!
 sc0tty8    - hp                      
---HOSTS *!*sc0tty8@208.83.207.*
 --HOSTS *!*sc0tty8@*.xtratyme.com
---LASTON 1418946941 #No!
+--HOSTS *!*sc0tty8@208.83.207.*
+--LASTON 1418997665 #No!
 --XTRA incith:weather.location 55324
 --XTRA created 1411260052
 JoshHuman  - hp                      
@@ -63,16 +63,16 @@ C_C        - hp
 --HOSTS *!*aef00526@*.240.5.38
 --HOSTS *!*aef00825@*.240.8.37
 --HOSTS *!*C_C@unaffiliated/c-c/x-3838806
---LASTON 1418792135 #No!
 --XTRA incith:weather.location 83404
 --XTRA created 1411358986
+--LASTON 1418792135 #No!
 NorxxMAL   - hp                      
 --HOSTS *!*sans@70.32.38.*
 --HOSTS *!*sans@unaffiliated/norxmal
 --HOSTS *!*sans@*.bb.online.no
 --HOSTS *!*identd@70.32.38.*
 --HOSTS *!*identd@unaffiliated/norxmal
---LASTON 1418603951 #No!
+--LASTON 1419016119 #No!
 --XTRA incith:weather.location Oslo Norway
 --XTRA created 1411735517
 Scraps     - hp                      
@@ -87,7 +87,8 @@ Scraps     - hp
 --HOSTS *!*sid43620@gateway/web/irccloud.com/x-dxgsbeggflfuqbok
 --HOSTS *!*sid43620@unaffiliated/scrappy
 --HOSTS *!*sid43620@gateway/web/irccloud.com/x-rmztncmmxafcwywg
---LASTON 1418860063 #No!
+--HOSTS *!*sid43620@gateway/web/irccloud.com/x-qvhiqqgwdkhsyzjk
+--LASTON 1419016119 #No!
 --XTRA incith:weather.location 49855
 --XTRA created 1411964481
 BodenM-No  - hp                      
