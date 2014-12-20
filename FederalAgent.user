@@ -1,4 +1,4 @@
-#4v: eggdrop v1.6.21 -- FBIBot -- written Sat Dec 20 06:00:00 2014
+#4v: eggdrop v1.6.21 -- FBIBot -- written Sat Dec 20 07:00:00 2014
 SS_Patric  - hjlmnoptx               
 ! #no!                 1405702944 -          
 --HOSTS *!*fuckyou@*.hstntx.sbcglobal.net
@@ -62,8 +62,9 @@ JoshHuman  - hp
 C_C        - hp                      
 --HOSTS *!*aef00526@*.240.5.38
 --HOSTS *!*aef00825@*.240.8.37
+--HOSTS *!*C_C@*.qwest.net
 --HOSTS *!*C_C@unaffiliated/c-c/x-3838806
---LASTON 1419050905 #No!
+--LASTON 1419076513 #No!
 --XTRA incith:weather.location 83404
 --XTRA created 1411358986
 NorxxMAL   - hp                      
@@ -85,10 +86,11 @@ Scraps     - hp
 --HOSTS *!*sid43620@gateway/web/irccloud.com/x-eiqkifpblgoqlyqk
 --HOSTS *!*sid43620@gateway/web/irccloud.com/x-pnkfdrjfzqpnvuev
 --HOSTS *!*sid43620@gateway/web/irccloud.com/x-dxgsbeggflfuqbok
---HOSTS *!*sid43620@unaffiliated/scrappy
 --HOSTS *!*sid43620@gateway/web/irccloud.com/x-rmztncmmxafcwywg
 --HOSTS *!*sid43620@gateway/web/irccloud.com/x-qvhiqqgwdkhsyzjk
---LASTON 1419016119 #No!
+--HOSTS *!*sid43620@unaffiliated/scrappy
+--HOSTS *!*sid43620@gateway/web/irccloud.com/x-usgmfdhjgmatwnno
+--LASTON 1419075711 #No!
 --XTRA incith:weather.location 49855
 --XTRA created 1411964481
 BodenM-No  - hp                      
