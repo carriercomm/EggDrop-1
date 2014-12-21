@@ -70,3 +70,6 @@
 [06:00:00] Writing channel file...
 [06:02:58] Register: <NixZiZ/#No!> succesfully updated host to ~NixZiZ@bas1-orangeville23-3096643714.dsl.bell.ca
 [06:05:00] #No! (+psCtn) : [m/24 o/4 h/0 v/0 n/20 b/1 e/0 I/0]
+[06:05:19] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[06:10:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
+[06:10:00] #No! (+psCtn) : [m/23 o/4 h/0 v/0 n/19 b/1 e/0 I/0]
