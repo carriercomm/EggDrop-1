@@ -564,3 +564,6 @@
 [01:29:45] 14<chanstats> saving data (14events) --> saved (1431), discarded (140)
 [01:30:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
 [01:30:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
+[01:33:10] incith:weather-2.9c: <C_C/#No!> !weather 83404
+[01:34:36] 14<chanstats> saving data (14events) --> saved (1431), discarded (140)
+[01:35:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
