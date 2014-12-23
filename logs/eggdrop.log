@@ -480,3 +480,12 @@
 [23:50:00] Last message repeated 1 time(s).
 [23:50:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
 [23:50:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
+[23:58:16] Last message repeated 1 time(s).
+[23:58:16] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
+[23:58:17] incith:weather-2.9c: <Disturbed/#No!> !forecast 40419
+[23:59:51] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
+[00:00:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[00:00:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
+[00:00:00] --- Tue Dec 23 2014
+[00:00:00] Backing up user file...
+[00:00:00] Backing up channel file...
