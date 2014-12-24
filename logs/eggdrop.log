@@ -486,3 +486,11 @@
 [22:30:00] Last message repeated 7 time(s).
 [22:30:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
 [22:30:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
+[22:30:14] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[22:34:11] Last message repeated 5 time(s).
+[22:34:11] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[22:34:11] <<HackPat>> !HackPat! !seen Digigami
+[22:34:24] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[22:34:24] <<HackPat>> !HackPat! !seen mach1
+[22:34:30] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[22:35:00] #No! (+psCtn) : [m/22 o/4 h/0 v/0 n/18 b/1 e/0 I/0]
