@@ -407,3 +407,12 @@
 [16:46:13] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
 [16:50:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
 [16:50:00] @#No! (+psCtn) : [m/23 o/6 h/0 v/0 n/17 b/0 e/0 I/0]
+[16:51:39] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
+[16:52:09] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[16:52:09] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[16:52:09] incith:weather-2.9c: <BlitzCraptop/#No!> !weather holtzville, NY
+[16:52:18] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[16:52:18] incith:weather-2.9c: <BlitzCraptop/#No!> !weather holtsville, NY
+[16:55:00] @#No! (+psCtn) : [m/23 o/6 h/0 v/0 n/17 b/0 e/0 I/0]
+[17:00:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[17:00:00] @#No! (+psCtn) : [m/23 o/6 h/0 v/0 n/17 b/0 e/0 I/0]
