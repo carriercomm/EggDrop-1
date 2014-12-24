@@ -444,3 +444,10 @@
 [17:57:13] 14<chanstats> saving data (14events) --> saved (1438), discarded (140)
 [18:00:00] 14<chanstats> saving data (14schedule) --> saved (1438), discarded (140)
 [18:00:00] @#No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/0 e/0 I/0]
+[18:00:00] Writing user file...
+[18:00:00] Writing channel file...
+[18:00:17] 14<chanstats> saving data (14events) --> saved (1438), discarded (140)
+[18:04:40] Last message repeated 1 time(s).
+[18:04:40] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[18:04:40] incith:weather-2.9c: <IXcrispyXI/#No!> !weather melton victoria
+[18:05:00] @#No! (+psCtn) : [m/22 o/5 h/0 v/0 n/17 b/0 e/0 I/0]
