@@ -549,3 +549,47 @@
 [22:40:00] Last message repeated 1 time(s).
 [22:40:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
 [22:40:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[22:40:41] #SS_Patric# rehash
+[22:40:41] Writing user file...
+[22:40:41] Writing channel file...
+[22:40:41] Rehashing ...
+[22:40:41] Writing channel file...
+[22:40:41] Listening at telnet port 9123 (all).
+[22:40:41] beer.tcl v.1.beta1 by SpiKe^^ loaded
+[22:40:41] bseen1.4.2c:  -- Bass's SEEN loaded --
+[22:40:41] 14<chanstats> version 1.3.0 by arfer loaded
+[22:40:41] Random commit v1.0
+[22:40:41] compliment HackPat @ FreeNode
+[22:40:41] durby: Found trf package. Fast lane activated!
+[22:40:41] durby 0.3.0 has been loaded.
+[22:40:41] egghttp.tcl API v1.1.0 by strikelight now loaded.
+[22:40:41] *Loaded* 01,11-FML- Random by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[22:40:41] Justdabomb2's High Low Script Loaded
+[22:40:41] Horoscope Script by Ford_Lawnmower successfully loaded!
+[22:40:41] .:Loaded:. ignore.tcl - HackPat@Freenode
+[22:40:41] *Loaded* 01,08IMDb by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[22:40:41]  - incith:dictionary-1.9 loaded.
+[22:40:41] Incith:Google: https supported: tls package found.
+[22:40:41] incith:google-2.2a: Loaded. (hrz version, long live hrz! Zanzibar I owe you a joint or three!)
+[22:40:41] incith:google-2.2a :: Http: 2.7.7;BotIsPatched: 0;EncodingSystem: utf-8;Tcl: 8.5;Eggdrop: 1.6.21;Suzi: NO
+[22:40:41]  - incith:weather-2.9c loaded.
+[22:40:41] Insulterrrrrrr HackPat @ FreeNode
+[22:40:41] Last Spoke tracker by Pistos (evolved by speechles) -- loaded
+[22:40:41] Admin Tools HackPat @ FreeNode
+[22:40:41] Insulterrrrrrr HackPat @ FreeNode
+[22:40:41] .:Loaded:. register.tcl - HackPat@freenode
+[22:40:41] .:Loaded:. rannsfw.tcl - HackPat@Freenode
+[22:40:41] *Loaded* 08,07UrbanDictionary v1.01 by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[22:40:41] *Loaded* 01,00You00,04Tube URL check V 00.06 by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[22:40:41] Loading dccwhois.tcl...
+[22:40:41] Loaded dccwhois.tcl
+[22:40:41] Userinfo TCL v1.07 loaded (URL BF GF IRL EMAIL DOB PHONE ICQ).
+[22:40:41] use '.help userinfo' for commands.
+[22:40:41] Writing channel file...
+[22:40:41] Userfile loaded, unpacking...
+[22:40:47] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[22:42:54] Last message repeated 2 time(s).
+[22:42:54] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[22:45:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
+[22:50:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[22:50:00] #No! (+psCtn) : [m/21 o/4 h/0 v/0 n/17 b/1 e/0 I/0]
