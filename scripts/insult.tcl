@@ -5,8 +5,8 @@ proc insult {nick host hand chan arg} {
   set url "http://www.insultgenerator.org/"
   set page [http::data [http::geturl $url]]
   regsub -all {(?:\n|\t|\v|\r|\x01)} $page " " page
- 	if {[regexp -nocase {<table .*?>(.*?)</table>} $page " " insult]} {
-		regsub -nocase -- {<tr .*?>.*?<td>(.*?)</td>.*?</tr>} $insult "\\1" insult
+ 	if {[regexp -nocase {<div class="wrap">(.*?)</div>} $page " " insult]} {
+		regsub -nocase -- {<br><br>(.*?)} $insult "\\1" insult
 		regsub {^[\ ]*} $insult "" insult
 		regsub {[\ ]*$} $insult "" insult
 		regsub {^[\ ]*} $arg "" arg
