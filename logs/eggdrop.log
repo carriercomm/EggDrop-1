@@ -38,3 +38,52 @@
 [04:19:53] 14<chanstats> saving data (14events) --> saved (1431), discarded (140)
 [04:20:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
 [04:20:00] @#No! (+psCtn) : [m/19 o/5 h/0 v/0 n/14 b/0 e/0 I/0]
+[04:20:20] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[04:20:52] Last message repeated 1 time(s).
+[04:20:52] 14<chanstats> saving data (14events) --> saved (1433), discarded (140)
+[04:21:41] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[04:21:41] 14<chanstats> saving data (14events) --> saved (1433), discarded (140)
+[04:21:45] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[04:23:04] 14<chanstats> saving data (14events) --> saved (1433), discarded (140)
+[04:23:08] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[04:24:20] Last message repeated 1 time(s).
+[04:24:20] #SS_Patric# rehash
+[04:24:20] Writing user file...
+[04:24:20] Writing channel file...
+[04:24:21] Rehashing ...
+[04:24:21] Writing channel file...
+[04:24:21] Listening at telnet port 9123 (all).
+[04:24:21] beer.tcl v.1.beta1 by SpiKe^^ loaded
+[04:24:21] bseen1.4.2c:  -- Bass's SEEN loaded --
+[04:24:21] 14<chanstats> version 1.3.0 by arfer loaded
+[04:24:21] Random commit v1.0
+[04:24:21] compliment HackPat @ FreeNode
+[04:24:21] durby: Found trf package. Fast lane activated!
+[04:24:21] durby 0.3.0 has been loaded.
+[04:24:21] egghttp.tcl API v1.1.0 by strikelight now loaded.
+[04:24:21] *Loaded* 01,11-FML- Random by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[04:24:21] Justdabomb2's High Low Script Loaded
+[04:24:21] Horoscope Script by Ford_Lawnmower successfully loaded!
+[04:24:21] .:Loaded:. ignore.tcl - HackPat@Freenode
+[04:24:21] *Loaded* 01,08IMDb by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[04:24:21]  - incith:dictionary-1.9 loaded.
+[04:24:21] Incith:Google: https supported: tls package found.
+[04:24:21] incith:google-2.2a: Loaded. (hrz version, long live hrz! Zanzibar I owe you a joint or three!)
+[04:24:21] incith:google-2.2a :: Http: 2.7.7;BotIsPatched: 0;EncodingSystem: utf-8;Tcl: 8.5;Eggdrop: 1.6.21;Suzi: NO
+[04:24:21]  - incith:weather-2.9c loaded.
+[04:24:21] Insulterrrrrrr HackPat @ FreeNode
+[04:24:21] Last Spoke tracker by Pistos (evolved by speechles) -- loaded
+[04:24:21] Admin Tools HackPat @ FreeNode
+[04:24:21] Insulterrrrrrr HackPat @ FreeNode
+[04:24:21] .:Loaded:. register.tcl - HackPat@freenode
+[04:24:21] .:Loaded:. rannsfw.tcl - HackPat@Freenode
+[04:24:21] *Loaded* 08,07UrbanDictionary v1.01 by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[04:24:21] *Loaded* 01,00You00,04Tube URL check V 00.06 by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[04:24:21] Loading dccwhois.tcl...
+[04:24:21] Loaded dccwhois.tcl
+[04:24:21] Userinfo TCL v1.07 loaded (URL BF GF IRL EMAIL DOB PHONE ICQ).
+[04:24:21] use '.help userinfo' for commands.
+[04:24:21] Writing channel file...
+[04:24:21] Userfile loaded, unpacking...
+[04:24:32] DCC connection closed (SS_Patric!telnet@127.0.0.1)
+[04:25:00] @#No! (+psCtn) : [m/20 o/5 h/0 v/0 n/15 b/0 e/0 I/0]
