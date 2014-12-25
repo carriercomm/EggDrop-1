@@ -122,3 +122,10 @@
 [09:00:00] Last message repeated 1 time(s).
 [09:00:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
 [09:00:00] @#No! (+psCtn) : [m/21 o/6 h/0 v/0 n/15 b/0 e/0 I/0]
+[09:00:00] Writing user file...
+[09:00:00] Writing channel file...
+[09:05:00] @#No! (+psCtn) : [m/20 o/6 h/0 v/0 n/14 b/0 e/0 I/0]
+[09:08:23] Register: <AMDPhenomX4_i/#No!> succesfully updated host to ~AMDPhenom@unaffiliated/amdphenomx4
+[09:08:34] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[09:10:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[09:10:00] @#No! (+psCtn) : [m/21 o/6 h/0 v/0 n/15 b/0 e/0 I/0]
