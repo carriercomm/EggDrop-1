@@ -351,3 +351,7 @@
 [16:09:13] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
 [16:10:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
 [16:10:00] @#No! (+psCtn) : [m/24 o/7 h/0 v/0 n/17 b/0 e/0 I/0]
+[16:12:00] Backing up seen data...
+[16:15:00] @#No! (+psCtn) : [m/24 o/7 h/0 v/0 n/17 b/0 e/0 I/0]
+[16:20:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
+[16:20:00] @#No! (+psCtn) : [m/24 o/7 h/0 v/0 n/17 b/0 e/0 I/0]
