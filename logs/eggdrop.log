@@ -308,3 +308,6 @@
 [17:03:21] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
 [17:03:22] incith:weather-2.9c: <Disturbed/#No!> !forecast 40419
 [17:05:00] @#No! (+psCtn) : [m/22 o/6 h/0 v/0 n/16 b/0 e/0 I/0]
+[17:05:50] 14<chanstats> saving data (14events) --> saved (1440), discarded (140)
+[17:10:00] 14<chanstats> saving data (14schedule) --> saved (1440), discarded (140)
+[17:10:00] @#No! (+psCtn) : [m/22 o/6 h/0 v/0 n/16 b/0 e/0 I/0]
