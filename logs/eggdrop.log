@@ -477,3 +477,8 @@
 [21:08:04] 14<chanstats> saving data (14events) --> saved (1438), discarded (140)
 [21:10:00] 14<chanstats> saving data (14schedule) --> saved (1438), discarded (140)
 [21:10:00] @#No! (+psCtn) : [m/23 o/7 h/0 v/0 n/16 b/0 e/0 I/0]
+[21:12:00] Backing up seen data...
+[21:15:00] @#No! (+psCtn) : [m/23 o/7 h/0 v/0 n/16 b/0 e/0 I/0]
+[21:15:39] Register: <NorxxMAL/#No!> succesfully updated host to identd@unaffiliated/norxmal
+[21:20:00] 14<chanstats> saving data (14schedule) --> saved (1439), discarded (140)
+[21:20:00] @#No! (+psCtn) : [m/23 o/7 h/0 v/0 n/16 b/0 e/0 I/0]
