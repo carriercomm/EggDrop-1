@@ -5,7 +5,7 @@ an|0n@#no! 1419502178 1 7 0 0 0 1 0 0 0 1
 pattesthack@#patstestingroom 1419484668 0 0 0 0 0 1 0 0 1 0
 [t]yphoon@#no! 1419524155 0 0 0 0 0 5 1 1 3 0
 comcastsucks@#no! 1419550588 2 7 0 0 0 0 0 0 0 1
-blitzchristmas@#no! 1419571228 22 69 0 0 0 0 0 0 0 0
+blitzchristmas@#no! 1419571405 27 90 0 0 0 0 0 0 0 0
 guest6544@#no! 1419460160 0 0 0 0 0 0 0 0 0 1
 comcastrocks@#no! 1419552219 6 41 0 0 0 0 0 0 0 1
 deeeebs_@#no! 1419447161 2 8 0 0 0 0 0 0 0 1
@@ -30,9 +30,9 @@ norxxmal@#no! 1419560562 0 0 0 0 0 1 0 0 0 1
 norxmal@#no! 1419560265 305 2644 5 0 0 9 1 2 8 0
 tbofpron@#no! 1419539635 1 1 0 0 0 0 0 0 0 1
 citrus@#no! 1419569170 22 70 0 0 0 10 0 0 9 0
-dishristmas@#no! 1419571262 51 200 0 1 0 0 0 0 0 0
+dishristmas@#no! 1419571379 55 223 0 1 0 0 0 0 0 0
 josh@#no! 1419460116 0 0 0 0 0 1 0 0 0 1
-joshhuman@#no! 1419570451 72 456 0 0 0 0 0 0 0 0
+joshhuman@#no! 1419571349 73 459 0 0 0 0 0 0 0 0
 twoeighttbofpron@#no! 1419547923 21 92 0 0 0 0 0 0 0 1
 nor-mal@#no! 1419560565 0 0 0 0 0 0 0 0 0 1
 an10n@#no! 1419459711 9 38 0 0 0 2 1 0 0 1
