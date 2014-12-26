@@ -8,7 +8,7 @@ pattesthack@#patstestingroom 1419484668 0 0 0 0 0 1 0 0 1 0
 [t]yphoon@#no! 1419524155 0 0 0 0 0 5 1 1 3 0
 chanserv@#no! 1419606637 0 0 0 0 0 1 0 0 1 0
 comcastsucks@#no! 1419550588 2 7 0 0 0 0 0 0 0 1
-blitzchristmas@#no! 1419577785 29 92 0 0 0 0 0 0 0 0
+blitzchristmas@#no! 1419613939 30 96 0 0 0 0 0 0 0 0
 guest6544@#no! 1419460160 0 0 0 0 0 0 0 0 0 1
 comcastrocks@#no! 1419552219 6 41 0 0 0 0 0 0 0 1
 deeeebs_@#no! 1419447161 2 8 0 0 0 0 0 0 0 1
