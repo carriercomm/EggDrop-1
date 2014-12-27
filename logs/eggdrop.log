@@ -191,3 +191,7 @@
 [10:12:00] Backing up seen data...
 [10:14:54] 14<chanstats> saving data (14events) --> saved (1437), discarded (140)
 [10:15:00] @#No! (+psCtn) : [m/19 o/5 h/0 v/0 n/14 b/0 e/0 I/0]
+[10:15:20] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[10:17:34] 14<chanstats> saving data (14events) --> saved (1437), discarded (140)
+[10:20:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
+[10:20:00] @#No! (+psCtn) : [m/19 o/5 h/0 v/0 n/14 b/0 e/0 I/0]
