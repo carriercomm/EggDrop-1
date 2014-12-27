@@ -1,7 +1,7 @@
 ubriaca@#no! 1419580794 0 0 0 0 0 0 0 0 1 0
 c_christmas-away@#no! 1419562302 2 7 0 0 0 0 0 0 0 1
 mbudden@#no! 1419638389 450 1760 0 0 0 22 6 2 16 11
-paradigm84_@#no! 1419624775 2 21 0 0 0 1 0 0 0 0
+paradigm84_@#no! 1419639292 2 21 0 0 0 1 0 0 1 0
 fatherchristmas@#no! 1419518012 0 0 0 0 0 0 0 0 0 1
 an|0n@#no! 1419502178 1 7 0 0 0 1 0 0 0 1
 pattesthack@#patstestingroom 1419484668 0 0 0 0 0 1 0 0 1 0
@@ -28,7 +28,7 @@ disturbed[away]@#no! 1419530059 5 13 0 0 0 0 0 0 5 4
 norxxmal@#no! 1419560562 0 0 0 0 0 1 0 0 0 1
 norxmal@#no! 1419605975 309 2657 5 0 0 9 1 2 8 0
 tbofpron@#no! 1419539635 1 1 0 0 0 0 0 0 0 1
-citrus@#no! 1419638408 36 135 0 0 0 11 0 0 10 0
+citrus@#no! 1419639295 37 136 0 0 0 11 0 0 10 0
 dishristmas@#no! 1419630129 90 360 0 1 0 0 0 0 0 1
 joshhuman@#no! 1419571840 81 498 0 0 0 0 0 0 0 0
 twoeighttbofpron@#no! 1419547923 21 92 0 0 0 0 0 0 0 1
