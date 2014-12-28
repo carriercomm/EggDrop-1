@@ -498,3 +498,10 @@
 [20:29:03] 14<chanstats> saving data (14events) --> saved (1437), discarded (140)
 [20:30:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
 [20:30:00] @#No! (+psCtn) : [m/22 o/7 h/0 v/0 n/15 b/0 e/0 I/0]
+[20:35:23] Last message repeated 1 time(s).
+[20:35:23] 14<chanstats> saving data (14events) --> saved (1437), discarded (140)
+[20:39:28] Last message repeated 2 time(s).
+[20:39:28] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[20:39:28] <<C_C>> !C_C! !seen Jeppzer
+[20:40:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
+[20:40:00] @#No! (+psCtn) : [m/23 o/7 h/0 v/0 n/16 b/0 e/0 I/0]
