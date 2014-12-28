@@ -613,3 +613,9 @@
 [22:29:40] 14<chanstats> saving data (14events) --> saved (1437), discarded (140)
 [22:30:00] 14<chanstats> saving data (14schedule) --> saved (1437), discarded (140)
 [22:30:00] @#No! (+psCtn) : [m/23 o/7 h/0 v/0 n/16 b/0 e/0 I/0]
+[22:30:12] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[22:30:12] incith:weather-2.9c: <IXcrispyXI/#No!> !weather melton victoria
+[22:31:07] 14<chanstats> saving data (14events) --> saved (1437), discarded (140)
+[22:34:44] Last message repeated 1 time(s).
+[22:34:44] Tcl error [weburlwatch]: can't read "doctype": no such variable
+[22:35:00] @#No! (+psCtn) : [m/22 o/7 h/0 v/0 n/15 b/0 e/0 I/0]
