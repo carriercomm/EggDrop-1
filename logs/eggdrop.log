@@ -177,3 +177,29 @@
 [10:03:40] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
 [10:03:40] Tcl error [op:kick]: need op or halfop
 [10:05:00] #No! (+psCtn) : [m/23 o/6 h/0 v/0 n/17 b/0 e/0 I/0]
+[10:06:16] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[10:06:51] Telnet connection: 127.0.0.1/38983
+[10:06:51] Timeout/EOF ident connection
+[10:06:54] Logged in: SS_Patric (telnet@127.0.0.1/38983)
+[10:07:01] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
+[10:07:01] #SS_Patric# msg ChanServ OP FBIBot #no!
+[10:07:03] -ChanServ (ChanServ@services.)- Channel FBIBot is not registered.
+[10:07:16] #SS_Patric# msg ChanServ OP #no! fbibot
+[10:07:19] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[10:07:25] Register: <HackPat/#No!> succesfully updated host to ~HackPat@2001:19f0:6400:8041::64
+[10:07:41] #SS_Patric# msg ChanServ OP #no! fbibot
+[10:08:10] Last message repeated 5 time(s).
+[10:08:10] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
+[10:08:34] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[10:08:34] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
+[10:08:36] FBIBot joined #no!.
+[10:08:38] #SS_Patric# msg ChanServ OP #no! fbibot
+[10:08:42] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[10:08:50] Last message repeated 1 time(s).
+[10:08:50] Wanted to ban myself--deflected.
+[10:08:51] FBIBot joined #no!.
+[10:09:21] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
+[10:09:28] #SS_Patric# msg ChanServ OP #no! fbibot
+[10:09:56] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
+[10:10:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
+[10:10:00] @#No! (+psCtn) : [m/23 o/7 h/0 v/0 n/16 b/0 e/0 I/0]
