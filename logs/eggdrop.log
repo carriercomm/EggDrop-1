@@ -171,3 +171,9 @@
 [09:55:00] #No! (+psCtn) : [m/23 o/6 h/0 v/0 n/17 b/0 e/0 I/0]
 [10:00:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
 [10:00:00] #No! (+psCtn) : [m/23 o/6 h/0 v/0 n/17 b/0 e/0 I/0]
+[10:00:00] Writing user file...
+[10:00:00] Writing channel file...
+[10:03:05] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
+[10:03:40] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[10:03:40] Tcl error [op:kick]: need op or halfop
+[10:05:00] #No! (+psCtn) : [m/23 o/6 h/0 v/0 n/17 b/0 e/0 I/0]
