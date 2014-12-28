@@ -408,3 +408,4 @@ telnet localhost 9123
 telnet localhost 9123
 exit
 telnet localhost 9123
+telnet localhost 9123
