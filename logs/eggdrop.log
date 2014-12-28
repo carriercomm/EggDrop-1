@@ -203,3 +203,13 @@
 [10:09:56] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
 [10:10:00] 14<chanstats> saving data (14schedule) --> saved (1436), discarded (140)
 [10:10:00] @#No! (+psCtn) : [m/23 o/7 h/0 v/0 n/16 b/0 e/0 I/0]
+[10:10:38] 14<chanstats> saving data (14events) --> saved (1435), discarded (141)
+[10:11:05] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[10:12:00] Backing up seen data...
+[10:12:09] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[10:12:14] #SS_Patric# msg ChanServ OP #no! fbibot
+[10:13:19] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[10:13:54] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[10:14:43] Last message repeated 1 time(s).
+[10:14:43] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[10:15:00] @#No! (+psCtn) : [m/23 o/7 h/0 v/0 n/16 b/0 e/0 I/0]
