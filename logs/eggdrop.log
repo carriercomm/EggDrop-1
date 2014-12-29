@@ -638,3 +638,12 @@
 [00:25:37] 14<chanstats> saving data (14events) --> saved (1431), discarded (140)
 [00:30:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
 [00:30:00] @#No! (+psCtn) : [m/23 o/7 h/0 v/0 n/16 b/0 e/0 I/0]
+[00:31:16] 14<chanstats> saving data (14events) --> saved (1431), discarded (140)
+[00:31:55] Tcl error [weburlwatch]: can't read "doctype": no such variable
+[00:35:00] Last message repeated 1 time(s).
+[00:35:00] @#No! (+psCtn) : [m/23 o/7 h/0 v/0 n/16 b/0 e/0 I/0]
+[00:38:38] incith:weather-2.9c: <Disturbed/#No!> !weather 40419
+[00:38:40] 14<chanstats> saving data (14events) --> saved (1431), discarded (140)
+[00:38:40] incith:weather-2.9c: <Disturbed/#No!> !forecast 40419
+[00:40:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
+[00:40:00] @#No! (+psCtn) : [m/23 o/7 h/0 v/0 n/16 b/0 e/0 I/0]
