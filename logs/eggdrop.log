@@ -538,3 +538,8 @@
 [22:09:34] incith:weather-2.9c: <B-/#No!> !weather 54956
 [22:10:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
 [22:10:00] @#No! (+psCtn) : [m/22 o/7 h/0 v/0 n/15 b/0 e/0 I/0]
+[22:10:04] 14<chanstats> saving data (14events) --> saved (1431), discarded (140)
+[22:12:00] Backing up seen data...
+[22:15:00] @#No! (+psCtn) : [m/22 o/7 h/0 v/0 n/15 b/0 e/0 I/0]
+[22:20:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
+[22:20:00] @#No! (+psCtn) : [m/22 o/7 h/0 v/0 n/15 b/0 e/0 I/0]
