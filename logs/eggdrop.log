@@ -490,3 +490,7 @@
 [20:10:00] @#No! (+psCtn) : [m/25 o/7 h/0 v/0 n/18 b/0 e/0 I/0]
 [20:12:00] Backing up seen data...
 [20:15:00] @#No! (+psCtn) : [m/25 o/7 h/0 v/0 n/18 b/0 e/0 I/0]
+[20:15:13] Tcl error [weburlwatch]: unable to convert date-time string "Tue, 30 Dec 2014 00:59:13 +0000": syntax error (characters 31-31)
+[20:15:13] 14<chanstats> saving data (14events) --> saved (1431), discarded (140)
+[20:20:00] 14<chanstats> saving data (14schedule) --> saved (1431), discarded (140)
+[20:20:00] @#No! (+psCtn) : [m/25 o/7 h/0 v/0 n/18 b/0 e/0 I/0]
