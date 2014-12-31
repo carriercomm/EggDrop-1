@@ -578,3 +578,8 @@
 [22:15:00] #No! (+psCtn) : [m/23 o/6 h/0 v/0 n/17 b/0 e/0 I/0]
 [22:20:00] 14<chanstats> saving data (14schedule) --> saved (1430), discarded (140)
 [22:20:00] #No! (+psCtn) : [m/23 o/6 h/0 v/0 n/17 b/0 e/0 I/0]
+[22:25:37] Last message repeated 1 time(s).
+[22:25:37] 14<chanstats> saving data (14events) --> saved (1430), discarded (140)
+[22:27:16] Tcl error [weburlwatch]: can't read "doctype": no such variable
+[22:30:00] 14<chanstats> saving data (14schedule) --> saved (1430), discarded (140)
+[22:30:00] #No! (+psCtn) : [m/23 o/6 h/0 v/0 n/17 b/0 e/0 I/0]
