@@ -71,3 +71,6 @@
 [06:10:19] incith:weather-2.9c: <HackPat/#No!> !weather 77449
 [06:12:00] Backing up seen data...
 [06:15:00] #No! (+psCtn) : [m/23 o/4 h/0 v/0 n/19 b/0 e/0 I/0]
+[06:16:19] 14<chanstats> saving data (14events) --> saved (1434), discarded (140)
+[06:20:00] 14<chanstats> saving data (14schedule) --> saved (1434), discarded (140)
+[06:20:00] #No! (+psCtn) : [m/23 o/4 h/0 v/0 n/19 b/0 e/0 I/0]
