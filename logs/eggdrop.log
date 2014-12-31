@@ -388,3 +388,15 @@
 [18:20:00] #No! (+psCtn) : [m/25 o/5 h/0 v/0 n/20 b/0 e/0 I/0]
 [18:22:35] 14<chanstats> saving data (14events) --> saved (1431), discarded (140)
 [18:25:00] #No! (+psCtn) : [m/26 o/6 h/0 v/0 n/20 b/0 e/0 I/0]
+[18:25:01] incith:weather-2.9c: <JoshWork/#No!> !weather 
+[18:25:07] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[18:25:07] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
+[18:25:07] incith:weather-2.9c: <JoshWork/#No!> !weather 02144
+[18:25:15] incith:weather-2.9c: <C_C/#No!> !weather 83404
+[18:25:49] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[18:25:49] incith:weather-2.9c: <Blitz6804/#No!> !weather 14225
+[18:25:51] incith:weather-2.9c: <Scraps/#No!> !weather 49855
+[18:26:03] 14<chanstats> saving data (14events) --> saved (1432), discarded (140)
+[18:30:00] Last message repeated 3 time(s).
+[18:30:00] 14<chanstats> saving data (14schedule) --> saved (1432), discarded (140)
+[18:30:00] #No! (+psCtn) : [m/26 o/6 h/0 v/0 n/20 b/0 e/0 I/0]
