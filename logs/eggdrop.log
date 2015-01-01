@@ -599,3 +599,9 @@
 [23:05:00] #No! (+psCtn) : [m/24 o/6 h/0 v/0 n/18 b/0 e/0 I/0]
 [23:10:00] 14<chanstats> saving data (14schedule) --> saved (1433), discarded (140)
 [23:10:00] #No! (+psCtn) : [m/24 o/6 h/0 v/0 n/18 b/0 e/0 I/0]
+[23:12:00] Backing up seen data...
+[23:13:18] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[23:13:18] incith:weather-2.9c: <IXcrispyXI/#No!> !weather melton victoria
+[23:15:00] #No! (+psCtn) : [m/24 o/6 h/0 v/0 n/18 b/0 e/0 I/0]
+[23:20:00] 14<chanstats> saving data (14schedule) --> saved (1433), discarded (140)
+[23:20:00] #No! (+psCtn) : [m/24 o/6 h/0 v/0 n/18 b/0 e/0 I/0]
