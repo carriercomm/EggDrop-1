@@ -501,3 +501,35 @@
 [17:04:58] Writing user file...
 [17:04:58] Writing channel file...
 [17:04:58] * DIE BY NotFBIBOT!telnet@127.0.0.1 (request)
+[17:05:31] 14<chanstats> loading data (14connect-server) --> loaded (1435), discarded (140)
+[17:05:31] Telnet connection: 127.0.0.1/46833
+[17:05:31] Timeout/EOF ident connection
+[17:05:34] NICK IN USE: Trying 'NotFBIBot'
+[17:05:34] 14<chanstats> initialising time bind (14init-server)
+[17:05:36] Telnet connection: 127.0.0.1/46876
+[17:05:36] Timeout/EOF ident connection
+[17:05:40] NotFBIBot joined #patstestingroom.
+[17:05:41] Telnet connection: 127.0.0.1/46946
+[17:05:41] Timeout/EOF ident connection
+[17:05:44] Refused [HackPat]telnet@127.0.0.1 (no password)
+[17:05:46] Telnet connection: 127.0.0.1/47004
+[17:05:46] Timeout/EOF ident connection
+[17:05:47] NotFBIBot joined #no!.
+[17:05:59] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[17:05:59] incith:weather-2.9c: <C_C/#No!> !weather 83404
+[17:06:01] Last message repeated 1 time(s).
+[17:06:01] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[17:06:01] Tcl error [incith::google::public_message]: can't read "incith::google::youtube_binds": no such variable
+[17:06:01] incith:weather-2.9c: <C_C/#No!> !weather 83404
+[17:06:01] Telnet connection: 127.0.0.1/47186
+[17:06:01] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[17:06:01] incith:weather-2.9c: flood detected from HackPat.
+[17:06:01] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[17:06:01] 14<chanstats> saving data (14events) --> saved (1436), discarded (140)
+[17:06:01] Timeout/EOF ident connection
+[17:06:01] Switching back to nick FBIBot
+[17:06:08] Regained nickname 'FBIBot'.
+[17:06:18] Telnet connection flood from -telnet!telnet@127.0.0.1!  Placing on ignore!
+[17:06:39] Writing user file...
+[17:06:39] Writing channel file...
+[17:06:39] * TERMINATE SIGNAL -- SIGNING OFF
