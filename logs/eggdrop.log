@@ -342,3 +342,83 @@
 [16:51:18] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
 [16:55:00] Last message repeated 1 time(s).
 [16:55:00] #No! (+psCtn) : [m/27 o/6 h/0 v/0 n/21 b/0 e/0 I/0]
+[16:55:02] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[16:59:43] Telnet connection: 127.0.0.1/42471
+[16:59:43] Timeout/EOF ident connection
+[16:59:47] Logged in: SS_Patric (telnet@127.0.0.1/42471)
+[16:59:49] #SS_Patric# (#patstestingroom) say niggers
+[16:59:57] #SS_Patric# (#patstestingroom) say niggers #no!
+[17:00:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (140)
+[17:00:00] #No! (+psCtn) : [m/27 o/6 h/0 v/0 n/21 b/0 e/0 I/0]
+[17:00:00] Writing user file...
+[17:00:00] Writing channel file...
+[17:00:06] #SS_Patric# restart
+[17:00:06] Writing user file...
+[17:00:06] Writing channel file...
+[17:00:06] Restarting ...
+[17:00:06] Module unloaded: seen
+[17:00:06] Module unloaded: console
+[17:00:06] Module unloaded: notes
+[17:00:06] Module unloaded: irc
+[17:00:06] Module unloaded: ctcp
+[17:00:06] 14<chanstats> saving data (14disconnect-server) --> saved (1435), discarded (140)
+[17:00:06] Module unloaded: server
+[17:00:06] Writing channel file...
+[17:00:06] Module unloaded: channels
+[17:00:06] Module unloaded: dns
+[17:00:06] Listening at telnet port 9123 (all).
+[17:00:06] Module loaded: dns             
+[17:00:06] No longer supporting channel #patstestingroom
+[17:00:06] No longer supporting channel #No!
+[17:00:06] Module loaded: channels        
+[17:00:06] Module loaded: server          
+[17:00:06] Module loaded: ctcp            
+[17:00:06] Module loaded: irc             
+[17:00:06] Module loaded: notes            (with lang support)
+[17:00:06] Module loaded: console          (with lang support)
+[17:00:06] Module loaded: seen            
+[17:00:06] beer.tcl v.1.beta1 by SpiKe^^ loaded
+[17:00:06] bseen1.4.2c:  -- Bass's SEEN loaded --
+[17:00:06]      Loading seen database...
+[17:00:06]      Done loading 1278 seen records.
+[17:00:06] 14<chanstats> version 1.3.0 by arfer loaded
+[17:00:06] Random commit v1.0
+[17:00:06] compliment HackPat @ FreeNode
+[17:00:06] durby: Found trf package. Fast lane activated!
+[17:00:06] durby 0.3.0 has been loaded.
+[17:00:06] egghttp.tcl API v1.1.0 by strikelight now loaded.
+[17:00:06] *Loaded* 01,11-FML- Random by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[17:00:06] Justdabomb2's High Low Script Loaded
+[17:00:06] Horoscope Script by Ford_Lawnmower successfully loaded!
+[17:00:06] .:Loaded:. ignore.tcl - HackPat@Freenode
+[17:00:06] *Loaded* 01,08IMDb by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[17:00:06]  - incith:dictionary-1.9 loaded.
+[17:00:06] Incith:Google: https supported: tls package found.
+[17:00:06] incith:google-2.2a: Loaded. (hrz version, long live hrz! Zanzibar I owe you a joint or three!)
+[17:00:06] incith:google-2.2a :: Http: 2.7.7;BotIsPatched: 0;EncodingSystem: utf-8;Tcl: 8.5;Eggdrop: 1.6.21;Suzi: NO
+[17:00:06]  - incith:weather-2.9c loaded.
+[17:00:06] Insulterrrrrrr HackPat @ FreeNode
+[17:00:06] Last Spoke tracker by Pistos (evolved by speechles) -- loaded
+[17:00:06] Admin Tools HackPat @ FreeNode
+[17:00:06] Insulterrrrrrr HackPat @ FreeNode
+[17:00:06] .:Loaded:. register.tcl - HackPat@freenode
+[17:00:06] .:Loaded:. rannsfw.tcl - HackPat@Freenode
+[17:00:06] *Loaded* 08,07UrbanDictionary v1.01 by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[17:00:06] *Loaded* 01,00You00,04Tube URL check V 00.06 by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[17:00:06] Loading dccwhois.tcl...
+[17:00:06] Loaded dccwhois.tcl
+[17:00:06] Userinfo TCL v1.07 loaded (URL BF GF IRL EMAIL DOB PHONE ICQ).
+[17:00:06] use '.help userinfo' for commands.
+[17:00:06] Writing channel file...
+[17:00:06] Userfile loaded, unpacking...
+[17:00:07] 14<chanstats> loading data (14connect-server) --> loaded (1435), discarded (140)
+[17:00:08] NICK IN USE: Trying 'FBIBot-fuckedup'
+[17:00:08] Server says my nickname is invalid.
+[17:00:17] DCC connection closed (SS_Patric!telnet@127.0.0.1)
+[17:00:21] Telnet connection: 127.0.0.1/42975
+[17:00:21] Timeout/EOF ident connection
+[17:00:26] Logged in: SS_Patric (telnet@127.0.0.1/42975)
+[17:00:28] #SS_Patric# die 
+[17:00:28] Writing user file...
+[17:00:28] Writing channel file...
+[17:00:28] * DIE BY SS_Patric!telnet@127.0.0.1 (request)

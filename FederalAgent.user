@@ -1,31 +1,31 @@
-#4v: eggdrop v1.6.21 -- FBIBot -- written Thu Jan  1 16:00:00 2015
+#4v: eggdrop v1.6.21 -- FBIBot -- written Thu Jan  1 17:00:27 2015
 SS_Patric  - hjlmnoptx               
 ! #no!                 1405702944 -          
+--LASTON 1420149625 partyline
+--PASS +zMHw3/IGG4M/
 --HOSTS *!*fuckyou@*.hstntx.sbcglobal.net
 --HOSTS -telnet!*@*
 --HOSTS SS_Patric
 --HOSTS SS_Patrick
 --HOSTS *!*@unaffiliated/ss-patrick/*
---LASTON 1419810959 partyline
---PASS +zMHw3/IGG4M/
---XTRA incith:weather.location 77449
 --XTRA created 1385184819
+--XTRA incith:weather.location 77449
 HackPat    - hjlmnoptx               
 --HOSTS *!*sid43215@gateway/web/irccloud.com/x-twlymzxnbruycsio
 --HOSTS *!*HackPat@*.hudson.bz
 --HOSTS *!*HackPat@2001:19f0:6400:8041::*
---LASTON 1420042005 #No!
---XTRA incith:weather.location 77449
 --XTRA created 1411233652
+--XTRA incith:weather.location 77449
+--LASTON 1420042005 #No!
 NixZiZ     - hp                      
 --HOSTS *!*NixZiZ@184.146.181.*
 --HOSTS *!*d87e5147@*.126.81.71
 --HOSTS *!*4066f90d@*.102.249.13
 --HOSTS *!*NixZiZ@*.dsl.bell.ca
 --HOSTS *!*quassel@*.dsl.bell.ca
---LASTON 1420052839 #No!
---XTRA incith:weather.location caledon, ontario
 --XTRA created 1411233683
+--XTRA incith:weather.location caledon, ontario
+--LASTON 1420052839 #No!
 NotPat     - hp                      
 --HOSTS *!*sid43215@gateway/web/irccloud.com/x-twlymzxnbruycsio
 --XTRA created 1411234458
@@ -35,47 +35,47 @@ BlitzLapp  - hp
 Deeeebs    - hp                      
 --HOSTS *!*Deeeebs@*.tblltx.sbcglobal.net
 --HOSTS *!*Deeeebs@unaffiliated/deeeebs
---XTRA incith:weather.location 77377
---XTRA created 1411234619
 --LASTON 1419224701 #No!
+--XTRA created 1411234619
+--XTRA incith:weather.location 77377
 Disturbed  - hp                      
 --HOSTS *!*Disturbed1@unaffiliated/disturbed117
 --HOSTS *!*Disturbed@40.136.24.*
 --HOSTS *!*Disturbed@40.136.25.*
 --HOSTS *!*Disturbed@unaffiliated/disturbed117
---XTRA incith:weather.location 40419
---XTRA created 1411248860
 --LASTON 1420021712 #No!
+--XTRA created 1411248860
+--XTRA incith:weather.location 40419
 sc0tty8    - hp                      
 --HOSTS *!*sc0tty8@208.83.207.*
 --HOSTS *!*sc0tty8@*.xtratyme.com
---LASTON 1420079144 #No!
---XTRA created 1411260052
 --XTRA incith:weather.location 55324
+--XTRA created 1411260052
+--LASTON 1420079144 #No!
 JoshHuman  - hlop                    
 --HOSTS *!*Josh@*.fios.verizon.net
 --HOSTS *!*Josh@*.smr-ubr2.sbo-smr.ma.cable.rcn.com
 --HOSTS *!*Josh@unaffiliated/joshhuman
---XTRA created 1411312514
---XTRA incith:weather.location 02143
 --LASTON 1419651492 #No!
+--XTRA incith:weather.location 02143
+--XTRA created 1411312514
 C_C        - hlop                    
 --HOSTS *!*aef00526@*.240.5.38
 --HOSTS *!*aef00825@*.240.8.37
 --HOSTS *!*C_C@*.qwest.net
 --HOSTS *!*C_C@unaffiliated/c-c/x-3838806
---LASTON 1420079144 #No!
---XTRA created 1411358986
 --XTRA incith:weather.location 83404
+--XTRA created 1411358986
+--LASTON 1420079144 #No!
 NorxxMAL   - hp                      
 --HOSTS *!*sans@70.32.38.*
 --HOSTS *!*sans@unaffiliated/norxmal
 --HOSTS *!*sans@*.bb.online.no
 --HOSTS *!*identd@70.32.38.*
 --HOSTS *!*identd@unaffiliated/norxmal
---LASTON 1420093576 #No!
---XTRA created 1411735517
 --XTRA incith:weather.location Oslo Norway
+--XTRA created 1411735517
+--LASTON 1420093576 #No!
 Scraps     - hp                      
 --HOSTS *!*sid43620@gateway/web/irccloud.com/x-moqlkrizxuftbxpz
 --HOSTS *!*sid43620@gateway/web/irccloud.com/x-kdfxncjlshdrlmbh
@@ -91,35 +91,35 @@ Scraps     - hp
 --HOSTS *!*sid43620@gateway/web/irccloud.com/x-usgmfdhjgmatwnno
 --HOSTS *!*sid43620@unaffiliated/scrappy
 --HOSTS *!*sid43620@gateway/web/irccloud.com/x-lwoodueusbsmpnpb
---XTRA created 1411964481
---XTRA incith:weather.location 49855
 --LASTON 1419749057 #No!
+--XTRA incith:weather.location 49855
+--XTRA created 1411964481
 BodenM-No  - hp                      
 --HOSTS *!*BodenM@unaffiliated/bodenm
---XTRA incith:weather.location Brisbane, AU
---XTRA created 1412771327
 --LASTON 1412777885 #No!
+--XTRA created 1412771327
+--XTRA incith:weather.location Brisbane, AU
 AMDPhenom  - hp                      
 --HOSTS *!*quassel@unaffiliated/amdphenomx4
 --HOSTS *!*AMDPhenom@unaffiliated/amdphenomx4
---LASTON 1420095517 #No!
---XTRA created 1414650022
 --XTRA incith:weather.location worcester Massachusetts
+--XTRA created 1414650022
+--LASTON 1420095517 #No!
 joshphone  - hp                      
 --HOSTS *!*androirc@38.111.9.*
 --HOSTS *!*androirc@*.smr-ubr2.sbo-smr.ma.cable.rcn.com
 --HOSTS *!*androirc@unaffiliated/joshhuman
---XTRA created 1415321086
 --LASTON 1416973496 #No!
+--XTRA created 1415321086
 nixc00p    - hp                      
 --HOSTS *!*d87e5147@*.126.81.71
 --HOSTS *!*d87e51f8@*.126.81.248
 --HOSTS *!*4066fe21@*.102.254.33
 --HOSTS *!*4066f907@*.102.249.7
 --HOSTS *!*4066f90e@*.102.249.14
---XTRA incith:weather.location caledon, ontario
---XTRA created 1416264273
 --LASTON 1418855561 #No!
+--XTRA created 1416264273
+--XTRA incith:weather.location caledon, ontario
 WFeather   - hlop                    
 --HOSTS *!*sid35111@gateway/web/irccloud.com/x-ghhmtoptcvqzfvsu
 --HOSTS *!*sid35111@gateway/web/irccloud.com/x-pkgftwdfhlumavrd
@@ -129,12 +129,12 @@ WFeather   - hlop
 --HOSTS *!*sid35111@unaffiliated/wfeather
 --HOSTS *!*sid35111@gateway/web/irccloud.com/x-ujqmltqohcyxwruv
 --HOSTS *!*sid35111@gateway/web/irccloud.com/x-mtkkpsrsnztdgeew
---LASTON 1420042964 #No!
---XTRA incith:weather.location 32835
 --XTRA created 1416313687
+--XTRA incith:weather.location 32835
+--LASTON 1420042964 #No!
 *ignore - -
-- *!*@unaffiliated/amdphenomx4:+0:SS_Patric:1418001423:requested
 - paradigm84!*@*:+0:SS_Patric:1419088321:requested
+- *!*@unaffiliated/amdphenomx4:+0:SS_Patric:1418001423:requested
 ::#patstestingroom bans
 ::#No! bans
 &&#patstestingroom exempts
