@@ -304,3 +304,7 @@
 [15:58:43] incith:weather-2.9c: <IXcrispyXI/#No!> !forecast melton victoria
 [16:00:00] 14<chanstats> saving data (14schedule) --> saved (1435), discarded (141)
 [16:00:00] #No! (+psCtn) : [m/27 o/6 h/0 v/0 n/21 b/0 e/0 I/0]
+[16:00:00] Writing user file...
+[16:00:00] Writing channel file...
+[16:01:40] 14<chanstats> saving data (14events) --> saved (1435), discarded (140)
+[16:05:00] #No! (+psCtn) : [m/27 o/6 h/0 v/0 n/21 b/0 e/0 I/0]
